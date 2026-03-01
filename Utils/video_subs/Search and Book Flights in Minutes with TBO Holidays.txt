@@ -1,0 +1,60 @@
+Kind: captions
+Language: en
+making<00:00:00.320><c> a</c><00:00:00.440><c> flight</c><00:00:00.719><c> booking</c><00:00:01.000><c> on</c><00:00:01.160><c> TBO</c><00:00:01.760><c> holidays</c>
+making a flight booking on TBO holidays
+making a flight booking on TBO holidays
+is<00:00:02.399><c> quick</c><00:00:02.560><c> and</c><00:00:02.760><c> simple</c><00:00:03.360><c> here's</c><00:00:03.639><c> how</c><00:00:04.480><c> start</c><00:00:04.759><c> by</c>
+is quick and simple here's how start by
+is quick and simple here's how start by
+logging<00:00:05.240><c> into</c><00:00:05.480><c> your</c><00:00:05.600><c> TBO</c><00:00:06.120><c> holidays</c><00:00:06.640><c> account</c>
+logging into your TBO holidays account
+logging into your TBO holidays account
+click<00:00:07.439><c> on</c><00:00:07.560><c> flights</c><00:00:08.040><c> option</c><00:00:08.679><c> select</c><00:00:09.040><c> search</c>
+click on flights option select search
+click on flights option select search
+TBO<00:00:10.320><c> air</c><00:00:10.559><c> search</c><00:00:10.880><c> page</c><00:00:11.160><c> opens</c><00:00:11.759><c> proceed</c><00:00:12.040><c> to</c>
+TBO air search page opens proceed to
+TBO air search page opens proceed to
+update<00:00:12.519><c> the</c><00:00:12.679><c> details</c><00:00:13.440><c> like</c><00:00:13.679><c> origin</c><00:00:14.040><c> airport</c>
+update the details like origin airport
+update the details like origin airport
+destination<00:00:15.200><c> airport</c><00:00:15.599><c> and</c><00:00:15.759><c> departure</c><00:00:16.240><c> date</c>
+destination airport and departure date
+destination airport and departure date
+followed<00:00:16.720><c> by</c><00:00:16.880><c> number</c><00:00:17.080><c> of</c><00:00:17.279><c> guests</c><00:00:18.039><c> to</c><00:00:18.240><c> proceed</c>
+followed by number of guests to proceed
+followed by number of guests to proceed
+hit<00:00:19.039><c> the</c><00:00:19.160><c> search</c><00:00:19.439><c> flight</c><00:00:19.800><c> option</c><00:00:20.359><c> use</c><00:00:20.600><c> the</c>
+hit the search flight option use the
+hit the search flight option use the
+filters<00:00:21.080><c> on</c><00:00:21.240><c> the</c><00:00:21.359><c> left</c><00:00:21.560><c> to</c><00:00:21.760><c> refine</c><00:00:22.080><c> your</c>
+filters on the left to refine your
+filters on the left to refine your
+search<00:00:22.560><c> by</c><00:00:22.720><c> Airline</c><00:00:23.400><c> fair</c><00:00:23.800><c> type</c><00:00:24.320><c> departure</c>
+search by Airline fair type departure
+search by Airline fair type departure
+time<00:00:25.400><c> arrival</c><00:00:25.880><c> time</c><00:00:26.080><c> and</c><00:00:26.240><c> many</c><00:00:26.480><c> other</c><00:00:26.679><c> filters</c>
+time arrival time and many other filters
+time arrival time and many other filters
+found<00:00:27.760><c> the</c><00:00:27.920><c> perfect</c><00:00:28.199><c> flight</c><00:00:29.039><c> click</c><00:00:29.359><c> book</c><00:00:29.640><c> now</c>
+found the perfect flight click book now
+found the perfect flight click book now
+add<00:00:30.519><c> all</c><00:00:30.679><c> the</c><00:00:30.800><c> mandatory</c><00:00:31.400><c> details</c><00:00:32.279><c> like</c><00:00:32.480><c> first</c>
+add all the mandatory details like first
+add all the mandatory details like first
+and<00:00:32.960><c> last</c><00:00:33.200><c> name</c><00:00:33.800><c> email</c><00:00:34.200><c> address</c><00:00:34.960><c> enter</c><00:00:35.239><c> the</c>
+and last name email address enter the
+and last name email address enter the
+correct<00:00:35.760><c> contact</c><00:00:36.200><c> number</c><00:00:36.879><c> check</c><00:00:37.160><c> the</c><00:00:37.280><c> updated</c>
+correct contact number check the updated
+correct contact number check the updated
+passenger<00:00:38.200><c> details</c><00:00:39.079><c> confirm</c><00:00:39.520><c> the</c><00:00:39.640><c> total</c>
+passenger details confirm the total
+passenger details confirm the total
+price<00:00:40.680><c> and</c><00:00:40.879><c> click</c><00:00:41.039><c> on</c><00:00:41.239><c> continue</c><00:00:41.600><c> to</c><00:00:41.800><c> proceed</c>
+price and click on continue to proceed
+price and click on continue to proceed
+for<00:00:42.280><c> payment</c><00:00:43.079><c> that's</c><00:00:43.320><c> it</c><00:00:43.719><c> your</c><00:00:43.920><c> booking</c><00:00:44.239><c> is</c>
+for payment that's it your booking is
+for payment that's it your booking is
+confirmed

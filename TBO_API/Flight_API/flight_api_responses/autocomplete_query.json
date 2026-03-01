@@ -1,0 +1,243 @@
+{
+    "status": true,
+    "status_code": 200,
+    "data": [
+        {
+            "entityId": "27537542",
+            "iataCode": "NYC",
+            "parentId": "27537542",
+            "name": "New York",
+            "countryId": "US",
+            "countryName": "United States",
+            "cityName": "New York",
+            "location": "40.6940959901,-73.9282670243",
+            "hierarchy": "New York|New York|United States",
+            "type": "PLACE_TYPE_CITY",
+            "highlighting": [
+                [
+                    0,
+                    3
+                ],
+                [
+                    9,
+                    12
+                ]
+            ]
+        },
+        {
+            "entityId": "95565059",
+            "iataCode": "EWR",
+            "parentId": "27537542",
+            "name": "New York Newark",
+            "countryId": "US",
+            "countryName": "United States",
+            "cityName": "New York",
+            "location": "40.695833,-74.171667",
+            "hierarchy": "New York Newark (EWR), New York|New York|United States",
+            "type": "PLACE_TYPE_AIRPORT",
+            "highlighting": [
+                [
+                    0,
+                    3
+                ],
+                [
+                    9,
+                    12
+                ],
+                [
+                    23,
+                    26
+                ],
+                [
+                    32,
+                    35
+                ]
+            ]
+        },
+        {
+            "entityId": "95565058",
+            "iataCode": "JFK",
+            "parentId": "27537542",
+            "name": "New York John F. Kennedy",
+            "countryId": "US",
+            "countryName": "United States",
+            "cityName": "New York",
+            "location": "40.6412215,-73.7781176",
+            "hierarchy": "New York John F. Kennedy (JFK), New York|New York|United States",
+            "type": "PLACE_TYPE_AIRPORT",
+            "highlighting": [
+                [
+                    0,
+                    3
+                ],
+                [
+                    32,
+                    35
+                ],
+                [
+                    41,
+                    44
+                ]
+            ]
+        },
+        {
+            "entityId": "95565057",
+            "iataCode": "LGA",
+            "parentId": "27537542",
+            "name": "New York LaGuardia",
+            "countryId": "US",
+            "countryName": "United States",
+            "cityName": "New York",
+            "location": "40.779444,-73.875833",
+            "hierarchy": "New York LaGuardia (LGA), New York|New York|United States",
+            "type": "PLACE_TYPE_AIRPORT",
+            "highlighting": [
+                [
+                    0,
+                    3
+                ],
+                [
+                    26,
+                    29
+                ],
+                [
+                    35,
+                    38
+                ]
+            ]
+        },
+        {
+            "entityId": "95566280",
+            "iataCode": "SWF",
+            "parentId": "27537542",
+            "name": "Stewart International",
+            "countryId": "US",
+            "countryName": "United States",
+            "cityName": "New York",
+            "location": "41.505833,-74.097222",
+            "hierarchy": "Stewart International (SWF), New York|New York|United States",
+            "type": "PLACE_TYPE_AIRPORT",
+            "highlighting": [
+                [
+                    29,
+                    32
+                ],
+                [
+                    38,
+                    41
+                ]
+            ]
+        },
+        {
+            "entityId": "95674044",
+            "iataCode": "NCL",
+            "parentId": "27545092",
+            "name": "Newcastle",
+            "countryId": "UK",
+            "countryName": "United Kingdom",
+            "cityName": "Newcastle",
+            "location": "55.037778,-1.686667",
+            "hierarchy": "Newcastle (NCL), Newcastle|Tyne and Wear|England|United Kingdom",
+            "type": "PLACE_TYPE_AIRPORT",
+            "highlighting": [
+                [
+                    0,
+                    3
+                ],
+                [
+                    17,
+                    20
+                ]
+            ]
+        },
+        {
+            "entityId": "95673963",
+            "iataCode": "NQY",
+            "parentId": "27545149",
+            "name": "Newquay",
+            "countryId": "UK",
+            "countryName": "United Kingdom",
+            "cityName": "Newquay",
+            "location": "50.4399636,-5.008674",
+            "hierarchy": "Newquay (NQY), Newquay|Cornwall|England|United Kingdom",
+            "type": "PLACE_TYPE_AIRPORT",
+            "highlighting": [
+                [
+                    0,
+                    3
+                ],
+                [
+                    15,
+                    18
+                ]
+            ]
+        },
+        {
+            "entityId": "95673750",
+            "iataCode": "MSY",
+            "parentId": "35234892",
+            "name": "New Orleans Louis Armstrong",
+            "countryId": "US",
+            "countryName": "United States",
+            "cityName": "New Orleans",
+            "location": "29.991111,-90.251389",
+            "hierarchy": "New Orleans Louis Armstrong (MSY), New Orleans|Louisiana|United States",
+            "type": "PLACE_TYPE_AIRPORT",
+            "highlighting": [
+                [
+                    0,
+                    3
+                ],
+                [
+                    35,
+                    38
+                ]
+            ]
+        },
+        {
+            "entityId": "128668190",
+            "iataCode": "AEP",
+            "parentId": "27536465",
+            "name": "Buenos Aires Jorge Newbery",
+            "countryId": "AR",
+            "countryName": "Argentina",
+            "cityName": "Buenos Aires",
+            "location": "-34.558889,-58.415833",
+            "hierarchy": "Buenos Aires Jorge Newbery (AEP), Buenos Aires|Autonomous City of Buenos Aires|Argentina",
+            "type": "PLACE_TYPE_AIRPORT",
+            "highlighting": [
+                [
+                    19,
+                    22
+                ]
+            ]
+        },
+        {
+            "entityId": "128667411",
+            "iataCode": "NTL",
+            "parentId": "27538727",
+            "name": "Newcastle Williamtown",
+            "countryId": "AU",
+            "countryName": "Australia",
+            "cityName": "Newcastle",
+            "location": "-32.795833,151.833333",
+            "hierarchy": "Newcastle Williamtown (NTL), Newcastle|New South Wales|Australia",
+            "type": "PLACE_TYPE_AIRPORT",
+            "highlighting": [
+                [
+                    0,
+                    3
+                ],
+                [
+                    29,
+                    32
+                ],
+                [
+                    39,
+                    42
+                ]
+            ]
+        }
+    ],
+    "message": "Success"
+}

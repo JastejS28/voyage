@@ -1,0 +1,273 @@
+Kind: captions
+Language: en
+hey<00:00:00.560><c> travel</c><00:00:00.919><c> agents</c><00:00:01.560><c> are</c><00:00:01.719><c> you</c><00:00:01.880><c> ready</c><00:00:02.080><c> to</c>
+hey travel agents are you ready to
+hey travel agents are you ready to
+explore<00:00:02.679><c> the</c><00:00:02.800><c> various</c><00:00:03.199><c> payment</c><00:00:03.560><c> options</c>
+explore the various payment options
+explore the various payment options
+available<00:00:04.319><c> for</c><00:00:04.480><c> your</c><00:00:04.640><c> bookings</c><00:00:05.040><c> with</c><00:00:05.200><c> TBO</c>
+available for your bookings with TBO
+available for your bookings with TBO
+holidays<00:00:06.759><c> we've</c><00:00:07.000><c> made</c><00:00:07.240><c> the</c><00:00:07.439><c> process</c><00:00:07.759><c> simple</c>
+holidays we've made the process simple
+holidays we've made the process simple
+and<00:00:08.240><c> flexible</c><00:00:08.639><c> to</c><00:00:08.760><c> suit</c><00:00:09.000><c> your</c><00:00:09.120><c> needs</c><00:00:09.760><c> let's</c>
+and flexible to suit your needs let's
+and flexible to suit your needs let's
+walk<00:00:10.200><c> through</c><00:00:10.400><c> the</c><00:00:10.519><c> steps</c><00:00:10.960><c> together</c><00:00:11.759><c> first</c>
+walk through the steps together first
+walk through the steps together first
+log<00:00:12.440><c> into</c><00:00:12.679><c> your</c><00:00:12.799><c> TBO</c><00:00:13.320><c> holidays</c><00:00:13.799><c> portal</c><00:00:14.480><c> once</c>
+log into your TBO holidays portal once
+log into your TBO holidays portal once
+you're<00:00:14.839><c> in</c><00:00:15.280><c> click</c><00:00:15.480><c> on</c><00:00:15.599><c> the</c><00:00:15.759><c> cues</c><00:00:16.199><c> option</c><00:00:16.640><c> then</c>
+you're in click on the cues option then
+you're in click on the cues option then
+select<00:00:17.199><c> bookings</c><00:00:18.160><c> this</c><00:00:18.279><c> will</c><00:00:18.480><c> give</c><00:00:18.640><c> you</c>
+select bookings this will give you
+select bookings this will give you
+access<00:00:19.160><c> to</c><00:00:19.320><c> a</c><00:00:19.439><c> list</c><00:00:19.640><c> of</c><00:00:19.760><c> all</c><00:00:19.920><c> the</c><00:00:20.039><c> bookings</c>
+access to a list of all the bookings
+access to a list of all the bookings
+you've<00:00:20.600><c> made</c><00:00:21.519><c> if</c><00:00:21.640><c> you</c><00:00:21.760><c> need</c><00:00:21.920><c> to</c><00:00:22.039><c> find</c><00:00:22.279><c> a</c>
+you've made if you need to find a
+you've made if you need to find a
+specific<00:00:22.880><c> booking</c><00:00:23.439><c> you</c><00:00:23.560><c> can</c><00:00:23.680><c> use</c><00:00:24.000><c> the</c>
+specific booking you can use the
+specific booking you can use the
+available<00:00:24.560><c> filters</c><00:00:25.439><c> at</c><00:00:25.519><c> the</c><00:00:25.680><c> bottom</c><00:00:26.000><c> right</c>
+available filters at the bottom right
+available filters at the bottom right
+corner<00:00:26.439><c> of</c><00:00:26.560><c> the</c><00:00:26.679><c> screen</c><00:00:27.240><c> you'll</c><00:00:27.439><c> see</c><00:00:27.640><c> the</c><00:00:27.800><c> open</c>
+corner of the screen you'll see the open
+corner of the screen you'll see the open
+button<00:00:28.880><c> click</c><00:00:29.160><c> open</c><00:00:29.400><c> to</c><00:00:29.519><c> view</c><00:00:29.679><c> the</c><00:00:30.199><c> details</c><00:00:30.519><c> of</c>
+button click open to view the details of
+button click open to view the details of
+the<00:00:30.800><c> booking</c><00:00:31.640><c> now</c><00:00:32.040><c> scroll</c><00:00:32.399><c> down</c><00:00:32.559><c> to</c><00:00:32.680><c> the</c>
+the booking now scroll down to the
+the booking now scroll down to the
+bottom<00:00:33.079><c> of</c><00:00:33.160><c> the</c><00:00:33.280><c> booking</c><00:00:33.600><c> Details</c><00:00:34.120><c> page</c><00:00:34.360><c> and</c>
+bottom of the booking Details page and
+bottom of the booking Details page and
+click<00:00:34.719><c> on</c><00:00:34.920><c> generate</c><00:00:35.399><c> voucher</c><00:00:36.399><c> this</c><00:00:36.559><c> step</c><00:00:36.800><c> is</c>
+click on generate voucher this step is
+click on generate voucher this step is
+essential<00:00:37.600><c> as</c><00:00:37.680><c> it</c><00:00:37.800><c> will</c><00:00:38.040><c> display</c><00:00:38.399><c> the</c><00:00:38.559><c> payment</c>
+essential as it will display the payment
+essential as it will display the payment
+options<00:00:39.320><c> available</c><00:00:39.719><c> to</c><00:00:39.920><c> you</c><00:00:40.920><c> here</c><00:00:41.280><c> you'll</c><00:00:41.480><c> see</c>
+options available to you here you'll see
+options available to you here you'll see
+multiple<00:00:42.120><c> payment</c><00:00:42.480><c> options</c><00:00:43.120><c> like</c><00:00:43.360><c> paying</c>
+multiple payment options like paying
+multiple payment options like paying
+with<00:00:43.760><c> your</c><00:00:43.960><c> available</c><00:00:44.360><c> limit</c><00:00:44.640><c> or</c><00:00:44.800><c> wallet</c>
+with your available limit or wallet
+with your available limit or wallet
+limit<00:00:45.960><c> you</c><00:00:46.039><c> can</c><00:00:46.239><c> also</c><00:00:46.440><c> use</c><00:00:46.680><c> multiple</c><00:00:47.039><c> modes</c>
+limit you can also use multiple modes
+limit you can also use multiple modes
+for<00:00:47.520><c> payment</c><00:00:48.079><c> for</c><00:00:48.280><c> example</c><00:00:48.640><c> you</c><00:00:48.800><c> pay</c><00:00:49.000><c> from</c><00:00:49.160><c> TBO</c>
+for payment for example you pay from TBO
+for payment for example you pay from TBO
+wallet<00:00:49.960><c> and</c><00:00:50.120><c> rest</c><00:00:50.360><c> you</c><00:00:50.520><c> pay</c><00:00:50.719><c> from</c><00:00:50.879><c> other</c>
+wallet and rest you pay from other
+wallet and rest you pay from other
+payment<00:00:51.520><c> method</c><00:00:52.520><c> additionally</c><00:00:53.320><c> you'll</c><00:00:53.520><c> see</c>
+payment method additionally you'll see
+payment method additionally you'll see
+popular<00:00:54.239><c> payment</c><00:00:54.559><c> methods</c><00:00:54.879><c> tailored</c><00:00:55.280><c> for</c>
+popular payment methods tailored for
+popular payment methods tailored for
+your<00:00:55.559><c> Market</c><00:00:56.120><c> ensuring</c><00:00:56.520><c> you</c><00:00:56.640><c> have</c><00:00:56.879><c> access</c><00:00:57.120><c> to</c>
+your Market ensuring you have access to
+your Market ensuring you have access to
+the<00:00:57.359><c> most</c><00:00:57.600><c> convenient</c><00:00:58.120><c> choices</c><00:00:58.960><c> for</c><00:00:59.160><c> example</c>
+the most convenient choices for example
+the most convenient choices for example
+you<00:00:59.600><c> select</c><00:01:00.120><c> any</c><00:01:00.239><c> one</c><00:01:00.359><c> of</c><00:01:00.480><c> the</c><00:01:00.600><c> payment</c><00:01:00.960><c> option</c>
+you select any one of the payment option
+you select any one of the payment option
+click<00:01:01.960><c> on</c>
+click on
+click on
+pay<00:01:03.800><c> a</c><00:01:03.960><c> QR</c><00:01:04.320><c> code</c><00:01:04.559><c> will</c><00:01:04.680><c> be</c>
+pay a QR code will be
+pay a QR code will be
+generated<00:01:06.720><c> follow</c><00:01:07.080><c> the</c><00:01:07.240><c> steps</c><00:01:07.520><c> below</c><00:01:07.880><c> QR</c><00:01:08.240><c> code</c>
+generated follow the steps below QR code
+generated follow the steps below QR code
+to<00:01:08.600><c> complete</c><00:01:08.920><c> the</c><00:01:09.080><c> payment</c><00:01:09.960><c> and</c><00:01:10.159><c> that's</c><00:01:10.360><c> it</c>
+to complete the payment and that's it
+to complete the payment and that's it
+your<00:01:11.000><c> payment</c><00:01:11.280><c> will</c><00:01:11.439><c> be</c>
+your payment will be
+your payment will be
+done<00:01:13.600><c> you</c><00:01:13.799><c> have</c><00:01:13.960><c> the</c><00:01:14.080><c> option</c><00:01:14.320><c> to</c><00:01:14.479><c> pay</c><00:01:14.680><c> by</c><00:01:14.880><c> agent</c>
+done you have the option to pay by agent
+done you have the option to pay by agent
+card<00:01:15.799><c> this</c><00:01:16.000><c> will</c><00:01:16.159><c> include</c><00:01:16.479><c> the</c><00:01:16.560><c> net</c><00:01:16.759><c> amount</c>
+card this will include the net amount
+card this will include the net amount
+which<00:01:17.240><c> means</c><00:01:17.479><c> your</c><00:01:17.640><c> markup</c><00:01:18.040><c> will</c><00:01:18.200><c> not</c><00:01:18.360><c> be</c>
+which means your markup will not be
+which means your markup will not be
+added<00:01:18.720><c> in</c><00:01:18.880><c> the</c><00:01:19.000><c> amount</c><00:01:19.200><c> you</c><00:01:19.320><c> will</c><00:01:19.560><c> pay</c><00:01:20.400><c> you</c><00:01:20.479><c> can</c>
+added in the amount you will pay you can
+added in the amount you will pay you can
+also<00:01:20.960><c> pay</c><00:01:21.159><c> by</c><00:01:21.280><c> using</c><00:01:21.640><c> customer</c><00:01:22.159><c> card</c><00:01:22.720><c> this</c>
+also pay by using customer card this
+also pay by using customer card this
+includes<00:01:23.320><c> the</c><00:01:23.439><c> markup</c><00:01:23.840><c> amount</c><00:01:24.200><c> as</c><00:01:24.320><c> well</c><00:01:24.560><c> which</c>
+includes the markup amount as well which
+includes the markup amount as well which
+is<00:01:24.880><c> paid</c><00:01:25.119><c> back</c><00:01:25.320><c> in</c><00:01:25.439><c> a</c><00:01:25.560><c> form</c><00:01:25.759><c> of</c><00:01:25.920><c> commission</c>
+is paid back in a form of commission
+is paid back in a form of commission
+this<00:01:26.960><c> will</c><00:01:27.159><c> give</c><00:01:27.280><c> you</c><00:01:27.439><c> the</c><00:01:27.560><c> option</c><00:01:27.920><c> make</c><00:01:28.040><c> a</c>
+this will give you the option make a
+this will give you the option make a
+full<00:01:28.360><c> or</c><00:01:28.560><c> partial</c><00:01:28.960><c> payment</c><00:01:29.479><c> and</c><00:01:29.600><c> even</c><00:01:30.000><c> use</c>
+full or partial payment and even use
+full or partial payment and even use
+multiple<00:01:30.600><c> cards</c><00:01:31.600><c> simply</c><00:01:31.920><c> enter</c><00:01:32.200><c> the</c><00:01:32.360><c> card</c>
+multiple cards simply enter the card
+multiple cards simply enter the card
+details<00:01:33.079><c> as</c><00:01:33.240><c> prompted</c><00:01:33.640><c> and</c><00:01:33.799><c> click</c><00:01:33.960><c> on</c><00:01:34.159><c> proceed</c>
+details as prompted and click on proceed
+details as prompted and click on proceed
+to<00:01:34.680><c> pay</c><00:01:35.520><c> our</c><00:01:35.759><c> system</c><00:01:36.040><c> will</c><00:01:36.280><c> securely</c><00:01:36.840><c> process</c>
+to pay our system will securely process
+to pay our system will securely process
+the<00:01:37.360><c> payment</c><00:01:37.680><c> in</c><00:01:37.880><c> just</c><00:01:38.040><c> a</c><00:01:38.119><c> few</c><00:01:38.439><c> moments</c><00:01:39.439><c> if</c>
+the payment in just a few moments if
+the payment in just a few moments if
+your<00:01:39.759><c> customer</c><00:01:40.119><c> wants</c><00:01:40.360><c> to</c><00:01:40.479><c> make</c><00:01:40.680><c> the</c><00:01:40.799><c> payment</c>
+your customer wants to make the payment
+your customer wants to make the payment
+then<00:01:41.439><c> click</c><00:01:41.600><c> on</c><00:01:41.799><c> collect</c><00:01:42.079><c> using</c><00:01:42.399><c> Pay</c><00:01:42.640><c> link</c>
+then click on collect using Pay link
+then click on collect using Pay link
+copy<00:01:43.439><c> and</c><00:01:43.560><c> share</c><00:01:43.840><c> the</c><00:01:43.960><c> link</c><00:01:44.200><c> with</c><00:01:44.320><c> your</c>
+copy and share the link with your
+copy and share the link with your
+customer<00:01:45.360><c> when</c><00:01:45.520><c> your</c><00:01:45.719><c> customer</c><00:01:46.159><c> will</c><00:01:46.360><c> click</c>
+customer when your customer will click
+customer when your customer will click
+on<00:01:46.640><c> the</c><00:01:46.759><c> link</c><00:01:47.240><c> they</c><00:01:47.360><c> will</c><00:01:47.520><c> be</c><00:01:47.680><c> redirected</c><00:01:48.240><c> to</c>
+on the link they will be redirected to
+on the link they will be redirected to
+the<00:01:48.520><c> page</c><00:01:48.759><c> where</c><00:01:48.920><c> they</c><00:01:49.040><c> can</c><00:01:49.159><c> make</c><00:01:49.360><c> the</c><00:01:49.520><c> payment</c>
+the page where they can make the payment
+the page where they can make the payment
+next<00:01:50.360><c> they</c><00:01:50.479><c> will</c><00:01:50.640><c> click</c><00:01:50.840><c> on</c><00:01:51.040><c> pay</c><00:01:51.280><c> your</c><00:01:51.439><c> payment</c>
+next they will click on pay your payment
+next they will click on pay your payment
+is<00:01:51.880><c> done</c><00:01:52.159><c> and</c><00:01:52.320><c> that's</c><00:01:52.520><c> it</c><00:01:53.200><c> voucher</c><00:01:53.600><c> will</c><00:01:53.719><c> be</c>
+is done and that's it voucher will be
+is done and that's it voucher will be
+generated<00:01:54.399><c> and</c><00:01:54.560><c> you</c><00:01:54.640><c> will</c><00:01:54.880><c> receive</c><00:01:55.159><c> an</c><00:01:55.360><c> email</c>
+generated and you will receive an email
+generated and you will receive an email
+notification<00:01:57.280><c> if</c><00:01:57.399><c> you</c><00:01:57.600><c> prefer</c><00:01:58.200><c> you</c><00:01:58.320><c> can</c><00:01:58.520><c> also</c>
+notification if you prefer you can also
+notification if you prefer you can also
+use<00:01:58.880><c> a</c><00:01:59.039><c> credit</c><00:01:59.280><c> or</c><00:01:59.399><c> debit</c><00:01:59.640><c> card</c><00:01:59.920><c> card</c><00:02:00.680><c> the</c>
+use a credit or debit card card the
+use a credit or debit card card the
+process<00:02:01.240><c> is</c><00:02:01.399><c> straightforward</c><00:02:02.399><c> select</c><00:02:02.719><c> the</c>
+process is straightforward select the
+process is straightforward select the
+credit<00:02:03.240><c> debit</c><00:02:03.560><c> card</c><00:02:03.880><c> option</c><00:02:04.360><c> fill</c><00:02:04.600><c> in</c><00:02:04.719><c> the</c>
+credit debit card option fill in the
+credit debit card option fill in the
+card<00:02:05.159><c> information</c><00:02:05.840><c> and</c><00:02:06.039><c> confirm</c><00:02:06.399><c> the</c><00:02:06.560><c> payment</c>
+card information and confirm the payment
+card information and confirm the payment
+the<00:02:07.560><c> transaction</c><00:02:08.119><c> will</c><00:02:08.280><c> be</c><00:02:08.440><c> completed</c>
+the transaction will be completed
+the transaction will be completed
+instantly<00:02:09.879><c> now</c><00:02:10.319><c> let's</c><00:02:10.520><c> say</c><00:02:10.679><c> you</c><00:02:10.800><c> have</c>
+instantly now let's say you have
+instantly now let's say you have
+multiple<00:02:11.319><c> bookings</c><00:02:11.680><c> to</c><00:02:11.840><c> pay</c><00:02:12.000><c> for</c><00:02:12.200><c> at</c><00:02:12.400><c> once</c><00:02:13.319><c> go</c>
+multiple bookings to pay for at once go
+multiple bookings to pay for at once go
+back<00:02:13.640><c> to</c><00:02:13.760><c> Q's</c><00:02:14.160><c> option</c><00:02:14.680><c> select</c><00:02:15.040><c> bookings</c><00:02:15.440><c> and</c>
+back to Q's option select bookings and
+back to Q's option select bookings and
+you<00:02:15.640><c> can</c><00:02:15.879><c> add</c><00:02:16.040><c> multiple</c><00:02:16.400><c> bookings</c><00:02:16.720><c> to</c><00:02:16.879><c> pay</c>
+you can add multiple bookings to pay
+you can add multiple bookings to pay
+cart<00:02:17.319><c> for</c><00:02:17.480><c> making</c><00:02:17.760><c> payment</c><00:02:18.080><c> at</c><00:02:18.239><c> once</c><00:02:19.200><c> here's</c>
+cart for making payment at once here's
+cart for making payment at once here's
+how<00:02:20.239><c> click</c><00:02:20.440><c> on</c><00:02:20.599><c> add</c><00:02:20.760><c> to</c><00:02:20.920><c> pay</c><00:02:21.080><c> cart</c><00:02:21.360><c> option</c><00:02:21.560><c> to</c>
+how click on add to pay cart option to
+how click on add to pay cart option to
+add<00:02:21.920><c> all</c><00:02:22.120><c> multiple</c><00:02:22.480><c> bookings</c><00:02:22.800><c> in</c><00:02:23.000><c> Pay</c><00:02:23.200><c> cart</c>
+add all multiple bookings in Pay cart
+add all multiple bookings in Pay cart
+for<00:02:23.560><c> making</c><00:02:23.879><c> payment</c><00:02:24.440><c> a</c><00:02:24.599><c> confirmation</c>
+for making payment a confirmation
+for making payment a confirmation
+animation<00:02:25.680><c> will</c><00:02:25.840><c> show</c><00:02:26.080><c> that</c><00:02:26.200><c> the</c><00:02:26.319><c> booking</c><00:02:26.680><c> has</c>
+animation will show that the booking has
+animation will show that the booking has
+been<00:02:26.959><c> added</c><00:02:27.200><c> to</c><00:02:27.319><c> your</c><00:02:27.480><c> cart</c><00:02:27.920><c> and</c><00:02:28.040><c> the</c><00:02:28.160><c> counter</c>
+been added to your cart and the counter
+been added to your cart and the counter
+will<00:02:28.680><c> update</c><00:02:29.040><c> with</c><00:02:29.160><c> the</c><00:02:29.280><c> total</c><00:02:29.519><c> number</c><00:02:29.959><c> of</c>
+will update with the total number of
+will update with the total number of
+bookings<00:02:30.879><c> click</c><00:02:31.080><c> on</c><00:02:31.280><c> pay</c><00:02:31.519><c> cart</c><00:02:31.800><c> option</c><00:02:32.040><c> to</c><00:02:32.160><c> see</c>
+bookings click on pay cart option to see
+bookings click on pay cart option to see
+all<00:02:32.480><c> the</c><00:02:32.599><c> bookings</c><00:02:32.920><c> you</c><00:02:33.040><c> have</c><00:02:33.200><c> added</c><00:02:33.440><c> to</c><00:02:33.560><c> make</c>
+all the bookings you have added to make
+all the bookings you have added to make
+the<00:02:33.840><c> payment</c><00:02:34.400><c> in</c><00:02:34.599><c> Pay</c><00:02:34.840><c> cart</c><00:02:35.280><c> you'll</c><00:02:35.480><c> find</c>
+the payment in Pay cart you'll find
+the payment in Pay cart you'll find
+options<00:02:36.040><c> to</c><00:02:36.239><c> navigate</c><00:02:36.599><c> to</c><00:02:36.720><c> the</c><00:02:36.840><c> car</c><00:02:37.040><c> rental</c>
+options to navigate to the car rental
+options to navigate to the car rental
+queue<00:02:37.599><c> and</c><00:02:37.760><c> transfer</c><00:02:38.239><c> queue</c><00:02:38.720><c> where</c><00:02:38.879><c> you</c><00:02:38.959><c> can</c>
+queue and transfer queue where you can
+queue and transfer queue where you can
+add<00:02:39.280><c> bookings</c><00:02:39.680><c> as</c><00:02:39.840><c> well</c><00:02:40.840><c> after</c><00:02:41.080><c> reviewing</c><00:02:41.519><c> all</c>
+add bookings as well after reviewing all
+add bookings as well after reviewing all
+your<00:02:41.840><c> added</c><00:02:42.159><c> bookings</c><00:02:42.800><c> click</c><00:02:43.040><c> on</c><00:02:43.239><c> proceed</c><00:02:43.599><c> to</c>
+your added bookings click on proceed to
+your added bookings click on proceed to
+pay<00:02:44.560><c> on</c><00:02:44.680><c> the</c><00:02:44.840><c> right</c><00:02:45.120><c> hand</c><00:02:45.319><c> side</c><00:02:45.480><c> you</c><00:02:45.599><c> can</c><00:02:45.720><c> see</c>
+pay on the right hand side you can see
+pay on the right hand side you can see
+all<00:02:46.120><c> the</c><00:02:46.239><c> bookings</c><00:02:46.599><c> you</c><00:02:46.720><c> have</c><00:02:46.840><c> added</c><00:02:47.040><c> in</c><00:02:47.200><c> Pay</c>
+all the bookings you have added in Pay
+all the bookings you have added in Pay
+cart<00:02:47.640><c> to</c><00:02:47.760><c> pay</c><00:02:47.920><c> at</c><00:02:48.080><c> once</c><00:02:48.800><c> once</c><00:02:49.040><c> the</c><00:02:49.200><c> payment</c><00:02:49.519><c> is</c>
+cart to pay at once once the payment is
+cart to pay at once once the payment is
+successful<00:02:50.440><c> you</c><00:02:50.560><c> can</c><00:02:50.760><c> click</c><00:02:50.959><c> on</c><00:02:51.080><c> the</c><00:02:51.200><c> arrow</c>
+successful you can click on the arrow
+successful you can click on the arrow
+and<00:02:51.599><c> you</c><00:02:51.680><c> will</c><00:02:51.840><c> be</c><00:02:52.000><c> directed</c><00:02:52.360><c> to</c><00:02:52.480><c> your</c><00:02:52.640><c> voucher</c>
+and you will be directed to your voucher
+and you will be directed to your voucher
+and<00:02:53.879><c> that's</c><00:02:54.120><c> it</c><00:02:54.840><c> whether</c><00:02:55.040><c> you're</c><00:02:55.280><c> paying</c><00:02:55.519><c> for</c>
+and that's it whether you're paying for
+and that's it whether you're paying for
+a<00:02:55.840><c> single</c><00:02:56.159><c> booking</c><00:02:56.480><c> or</c><00:02:56.680><c> multiple</c>
+a single booking or multiple
+a single booking or multiple
+reservations<00:02:57.720><c> at</c><00:02:57.879><c> once</c><00:02:58.360><c> we've</c><00:02:58.560><c> got</c><00:02:58.720><c> you</c>
+reservations at once we've got you
+reservations at once we've got you
+covered<00:02:59.840><c> so</c><00:03:00.000><c> go</c><00:03:00.159><c> ahead</c><00:03:00.360><c> and</c><00:03:00.519><c> try</c><00:03:00.720><c> out</c><00:03:00.959><c> these</c>
+covered so go ahead and try out these
+covered so go ahead and try out these
+options<00:03:01.519><c> today</c><00:03:02.480><c> happy</c><00:03:02.760><c> booking</c>

@@ -1,0 +1,288 @@
+{
+    "Status": {
+        "Code": 200,
+        "Description": "Success"
+    },
+    "CityList": [
+        {
+            "Code": "154711",
+            "Name": "Alifu Dhaalu Atoll"
+        },
+        {
+            "Code": "110183",
+            "Name": "Ari Atoll"
+        },
+        {
+            "Code": "144025",
+            "Name": "Baa Atoll"
+        },
+        {
+            "Code": "150285",
+            "Name": "Chalakudy"
+        },
+        {
+            "Code": "106256",
+            "Name": "Dharavandhoo"
+        },
+        {
+            "Code": "106257",
+            "Name": "Dhiffushi"
+        },
+        {
+            "Code": "117355",
+            "Name": "Dhigufinolhu"
+        },
+        {
+            "Code": "115693",
+            "Name": "Dhigurah Island"
+        },
+        {
+            "Code": "115694",
+            "Name": "Dhonakulhi Island"
+        },
+        {
+            "Code": "116300",
+            "Name": "Dhoni Mighili"
+        },
+        {
+            "Code": "117280",
+            "Name": "Faafu Atoll"
+        },
+        {
+            "Code": "101262",
+            "Name": "Fesdu Island"
+        },
+        {
+            "Code": "117664",
+            "Name": "Fonimagoodhoo"
+        },
+        {
+            "Code": "391791",
+            "Name": "Fulidhoo"
+        },
+        {
+            "Code": "145289",
+            "Name": "Funamadua"
+        },
+        {
+            "Code": "118391",
+            "Name": "Gaafu Dhaalu Atoll"
+        },
+        {
+            "Code": "118553",
+            "Name": "Gan"
+        },
+        {
+            "Code": "119512",
+            "Name": "Guraidhoo"
+        },
+        {
+            "Code": "145496",
+            "Name": "Haa Alifu Atoll"
+        },
+        {
+            "Code": "154717",
+            "Name": "Haa Dhaalu Atoll"
+        },
+        {
+            "Code": "119960",
+            "Name": "Hanimaadhoo"
+        },
+        {
+            "Code": "120660",
+            "Name": "Helengeli"
+        },
+        {
+            "Code": "120738",
+            "Name": "Hondaafushi"
+        },
+        {
+            "Code": "122641",
+            "Name": "Hulhule Island"
+        },
+        {
+            "Code": "121964",
+            "Name": "Hulhumale Island"
+        },
+        {
+            "Code": "286675",
+            "Name": "Ifuru"
+        },
+        {
+            "Code": "121600",
+            "Name": "Ihuru"
+        },
+        {
+            "Code": "154714",
+            "Name": "Kaafu Atoll"
+        },
+        {
+            "Code": "122624",
+            "Name": "Komandoo"
+        },
+        {
+            "Code": "123770",
+            "Name": "Kuda Huraa"
+        },
+        {
+            "Code": "125245",
+            "Name": "Laviyani Atoll"
+        },
+        {
+            "Code": "126010",
+            "Name": "Lily"
+        },
+        {
+            "Code": "104472",
+            "Name": "Maadhoo"
+        },
+        {
+            "Code": "126740",
+            "Name": "Maafushi"
+        },
+        {
+            "Code": "127057",
+            "Name": "Maalefushi"
+        },
+        {
+            "Code": "146416",
+            "Name": "Madivaru"
+        },
+        {
+            "Code": "101365",
+            "Name": "Maldives"
+        },
+        {
+            "Code": "127096",
+            "Name": "Male"
+        },
+        {
+            "Code": "146449",
+            "Name": "Malediven"
+        },
+        {
+            "Code": "103806",
+            "Name": "Mathiveri"
+        },
+        {
+            "Code": "150349",
+            "Name": "Meedhupparu"
+        },
+        {
+            "Code": "127563",
+            "Name": "Meemu Atoll"
+        },
+        {
+            "Code": "128144",
+            "Name": "Meeru"
+        },
+        {
+            "Code": "128816",
+            "Name": "Meradhoo Island"
+        },
+        {
+            "Code": "104229",
+            "Name": "Milaidhoo"
+        },
+        {
+            "Code": "127222",
+            "Name": "Mirihi"
+        },
+        {
+            "Code": "104255",
+            "Name": "Muli"
+        },
+        {
+            "Code": "129153",
+            "Name": "Nakatchafushi"
+        },
+        {
+            "Code": "104377",
+            "Name": "Nilandhoo"
+        },
+        {
+            "Code": "129489",
+            "Name": "Noonu Atoll"
+        },
+        {
+            "Code": "130501",
+            "Name": "Nord Huvadhu Atoll"
+        },
+        {
+            "Code": "129930",
+            "Name": "North Ari Atoll"
+        },
+        {
+            "Code": "130562",
+            "Name": "North Male Atoll"
+        },
+        {
+            "Code": "146935",
+            "Name": "Nyaviyani Atoll"
+        },
+        {
+            "Code": "135030",
+            "Name": "Raa Atoll"
+        },
+        {
+            "Code": "134221",
+            "Name": "Rangali"
+        },
+        {
+            "Code": "150286",
+            "Name": "Rannalhi"
+        },
+        {
+            "Code": "149094",
+            "Name": "Rasdhoo"
+        },
+        {
+            "Code": "135054",
+            "Name": "Rasdhu Atoll"
+        },
+        {
+            "Code": "133704",
+            "Name": "Reethi"
+        },
+        {
+            "Code": "136289",
+            "Name": "Shaviyani Atoll"
+        },
+        {
+            "Code": "138159",
+            "Name": "South Male Atoll"
+        },
+        {
+            "Code": "138069",
+            "Name": "South Nilandhe Atoll"
+        },
+        {
+            "Code": "148196",
+            "Name": "Thaa Atoll"
+        },
+        {
+            "Code": "140427",
+            "Name": "Thulagiri"
+        },
+        {
+            "Code": "108636",
+            "Name": "Ukulhas Island"
+        },
+        {
+            "Code": "150364",
+            "Name": "Vadoo"
+        },
+        {
+            "Code": "148451",
+            "Name": "Velassaru (Laguna)"
+        },
+        {
+            "Code": "141987",
+            "Name": "Veligandu"
+        },
+        {
+            "Code": "142593",
+            "Name": "Vilingili"
+        }
+    ]
+}

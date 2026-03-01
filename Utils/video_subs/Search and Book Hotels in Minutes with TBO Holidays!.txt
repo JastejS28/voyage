@@ -1,0 +1,61 @@
+Kind: captions
+Language: en
+making<00:00:00.320><c> a</c><00:00:00.480><c> hotel</c><00:00:00.840><c> booking</c><00:00:01.160><c> on</c><00:00:01.319><c> TBO</c><00:00:01.839><c> holidays</c>
+making a hotel booking on TBO holidays
+making a hotel booking on TBO holidays
+is<00:00:02.440><c> quick</c><00:00:02.600><c> and</c><00:00:02.800><c> simple</c><00:00:03.320><c> here's</c><00:00:03.600><c> how</c><00:00:04.200><c> start</c><00:00:04.520><c> by</c>
+is quick and simple here's how start by
+is quick and simple here's how start by
+logging<00:00:04.960><c> into</c><00:00:05.240><c> TBO</c><00:00:05.759><c> holidays</c><00:00:06.680><c> click</c><00:00:06.919><c> on</c><00:00:07.120><c> Hotel</c>
+logging into TBO holidays click on Hotel
+logging into TBO holidays click on Hotel
+search<00:00:08.240><c> add</c><00:00:08.440><c> your</c><00:00:08.639><c> city</c><00:00:09.000><c> say</c><00:00:09.320><c> Dubai</c><00:00:10.120><c> add</c><00:00:10.280><c> your</c>
+search add your city say Dubai add your
+search add your city say Dubai add your
+check-in<00:00:10.840><c> and</c><00:00:11.000><c> checkout</c><00:00:11.400><c> dates</c><00:00:11.679><c> to</c><00:00:11.799><c> see</c><00:00:11.960><c> a</c>
+check-in and checkout dates to see a
+check-in and checkout dates to see a
+list<00:00:12.240><c> of</c><00:00:12.400><c> hotels</c><00:00:13.280><c> hit</c><00:00:13.519><c> search</c><00:00:14.240><c> use</c><00:00:14.480><c> the</c>
+list of hotels hit search use the
+list of hotels hit search use the
+filters<00:00:14.960><c> on</c><00:00:15.080><c> the</c><00:00:15.200><c> left</c><00:00:15.400><c> to</c><00:00:15.559><c> refine</c><00:00:15.839><c> your</c>
+filters on the left to refine your
+filters on the left to refine your
+search<00:00:16.400><c> by</c><00:00:16.640><c> price</c><00:00:17.119><c> brand</c><00:00:17.560><c> or</c><00:00:17.800><c> rating</c><00:00:18.480><c> found</c>
+search by price brand or rating found
+search by price brand or rating found
+the<00:00:18.920><c> perfect</c><00:00:19.240><c> Hotel</c><00:00:20.160><c> click</c><00:00:20.439><c> book</c><00:00:20.760><c> now</c><00:00:21.400><c> choose</c>
+the perfect Hotel click book now choose
+the perfect Hotel click book now choose
+your<00:00:21.880><c> preferred</c><00:00:22.240><c> room</c><00:00:22.560><c> type</c><00:00:23.279><c> also</c><00:00:23.560><c> check</c><00:00:23.800><c> the</c>
+your preferred room type also check the
+your preferred room type also check the
+reward<00:00:24.320><c> points</c><00:00:24.599><c> you'll</c><00:00:24.760><c> earn</c><00:00:25.480><c> now</c><00:00:25.680><c> click</c><00:00:25.920><c> book</c>
+reward points you'll earn now click book
+reward points you'll earn now click book
+now<00:00:26.439><c> again</c><00:00:26.920><c> fill</c><00:00:27.160><c> in</c><00:00:27.359><c> guest</c><00:00:27.640><c> details</c><00:00:28.480><c> review</c>
+now again fill in guest details review
+now again fill in guest details review
+the<00:00:28.880><c> sales</c><00:00:29.199><c> summary</c><00:00:29.560><c> on</c><00:00:29.640><c> the</c><00:00:29.759><c> right</c><00:00:30.400><c> check</c><00:00:30.679><c> the</c>
+the sales summary on the right check the
+the sales summary on the right check the
+cancellation<00:00:31.480><c> policies</c><00:00:31.800><c> and</c><00:00:32.040><c> hotel</c><00:00:32.360><c> Norms</c>
+cancellation policies and hotel Norms
+cancellation policies and hotel Norms
+proceed<00:00:33.559><c> to</c><00:00:33.680><c> booking</c><00:00:34.000><c> review</c><00:00:34.760><c> check</c><00:00:35.000><c> the</c><00:00:35.160><c> box</c>
+proceed to booking review check the box
+proceed to booking review check the box
+before<00:00:35.800><c> proceeding</c><00:00:36.640><c> and</c><00:00:36.800><c> click</c><00:00:37.079><c> create</c>
+before proceeding and click create
+before proceeding and click create
+booking<00:00:37.680><c> and</c><00:00:37.960><c> issue</c><00:00:38.200><c> voucher</c><00:00:39.000><c> select</c><00:00:39.320><c> your</c>
+booking and issue voucher select your
+booking and issue voucher select your
+payment<00:00:39.840><c> option</c><00:00:40.079><c> and</c><00:00:40.239><c> click</c><00:00:40.520><c> proceed</c><00:00:40.840><c> to</c><00:00:41.000><c> pay</c>
+payment option and click proceed to pay
+payment option and click proceed to pay
+and<00:00:41.800><c> you're</c><00:00:42.000><c> done</c><00:00:42.559><c> your</c><00:00:42.760><c> booking</c><00:00:43.079><c> is</c>
+and you're done your booking is
+and you're done your booking is
+confirmed
+[Music]

@@ -1,0 +1,212 @@
+{
+    "status": true,
+    "status_code": 200,
+    "data": {
+        "context": {
+            "sessionId": "CrABS0xVdl9TQ0x6UU1Bc2tnZEhhQzdBYWpfOWE3QkNXd2llLWU3WFFHajdONlpvb3BUMXByMUkwMEVUQk1jbExYcVdIM2VKdVZyNldRbnZfa2xrd3lySXAzM1ExRWtKWVc3SnNxcUNMZE9ZN3RTVVh3eWMzXy0tczN1UmNqTl9tWF9IakVDSWo1WkliM1RkbnlXc0NYSFdadGgxOGJ0dlRyR0dobVd3U2tBNFJrQ0FBPT0iXQoCVVMSBWVuLVVTGgNVU0QiIQoKEggzNTIzNDg5MhIKEggyNzU0NDAwOBoHCOoPEAYYDSIiCgoSCDI3NTM5NzMzEgsSCTEyODY2ODA3ORoHCOoPEAYYHSgBMAFgASokNDExM2Q1YjItMmQ0Ny00ZGE4LTk0NzktYjg0ZWFmYzdkOTY4-cells1",
+            "status": "incomplete",
+            "action": "RESULT_ACTION_REPLACED"
+        },
+        "itineraries": [],
+        "filterStats": {
+            "duration": {
+                "min": 0,
+                "max": 0
+            },
+            "carriers": {},
+            "stopPrices": {
+                "direct": {
+                    "total": {
+                        "count": 0,
+                        "minPrice": {
+                            "amount": "",
+                            "unit": "PRICE_UNIT_UNSPECIFIED",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                        }
+                    },
+                    "ticketTypes": {
+                        "singleTicket": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNonNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        }
+                    }
+                },
+                "oneStop": {
+                    "total": {
+                        "count": 0,
+                        "minPrice": {
+                            "amount": "",
+                            "unit": "PRICE_UNIT_UNSPECIFIED",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                        }
+                    },
+                    "ticketTypes": {
+                        "singleTicket": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNonNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        }
+                    }
+                },
+                "twoPlusStops": {
+                    "total": {
+                        "count": 0,
+                        "minPrice": {
+                            "amount": "",
+                            "unit": "PRICE_UNIT_UNSPECIFIED",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                        }
+                    },
+                    "ticketTypes": {
+                        "singleTicket": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNonNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        }
+                    }
+                }
+            },
+            "total": {
+                "count": 0,
+                "minPrice": {
+                    "amount": "",
+                    "unit": "PRICE_UNIT_UNSPECIFIED",
+                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                }
+            },
+            "alliances": {},
+            "airports": {
+                "27539733": {
+                    "entityId": "27539733",
+                    "parentId": "29475385",
+                    "name": "Paris",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "PAR",
+                    "coordinates": null
+                },
+                "27541992": {
+                    "entityId": "27541992",
+                    "parentId": "29475319",
+                    "name": "Hanoi",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "HAN",
+                    "coordinates": null
+                },
+                "27544008": {
+                    "entityId": "27544008",
+                    "parentId": "29475375",
+                    "name": "London",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "LON",
+                    "coordinates": null
+                },
+                "29475319": {
+                    "entityId": "29475319",
+                    "parentId": "",
+                    "name": "Vietnam",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475375": {
+                    "entityId": "29475375",
+                    "parentId": "",
+                    "name": "United Kingdom",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475385": {
+                    "entityId": "29475385",
+                    "parentId": "",
+                    "name": "France",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475437": {
+                    "entityId": "29475437",
+                    "parentId": "",
+                    "name": "United States",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "35234892": {
+                    "entityId": "35234892",
+                    "parentId": "29475437",
+                    "name": "New Orleans",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "MSY",
+                    "coordinates": null
+                },
+                "128668079": {
+                    "entityId": "128668079",
+                    "parentId": "27541992",
+                    "name": "Hanoi",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "HAN",
+                    "coordinates": null
+                }
+            }
+        }
+    }
+}

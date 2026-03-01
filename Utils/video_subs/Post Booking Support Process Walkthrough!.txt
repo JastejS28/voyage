@@ -1,0 +1,189 @@
+Kind: captions
+Language: en
+Hello<00:00:00.560><c> partner,</c><00:00:01.520><c> welcome</c><00:00:01.839><c> to</c><00:00:02.280><c> TBO.</c><00:00:03.280><c> Let</c><00:00:03.439><c> me</c>
+Hello partner, welcome to TBO. Let me
+Hello partner, welcome to TBO. Let me
+walk<00:00:03.840><c> you</c><00:00:04.000><c> through</c><00:00:04.160><c> the</c><00:00:04.319><c> booking</c><00:00:04.640><c> cues</c><00:00:05.200><c> where</c>
+walk you through the booking cues where
+walk you through the booking cues where
+you<00:00:05.600><c> can</c><00:00:05.759><c> efficiently</c><00:00:06.319><c> manage</c><00:00:06.560><c> your</c>
+you can efficiently manage your
+you can efficiently manage your
+bookings.<00:00:08.559><c> To</c><00:00:08.800><c> fetch</c><00:00:09.040><c> the</c><00:00:09.200><c> bookings</c><00:00:09.599><c> made</c><00:00:09.760><c> by</c>
+bookings. To fetch the bookings made by
+bookings. To fetch the bookings made by
+you,<00:00:10.320><c> head</c><00:00:10.559><c> to</c><00:00:10.639><c> the</c><00:00:10.800><c> cues</c><00:00:11.200><c> option</c><00:00:11.440><c> and</c><00:00:11.679><c> click</c>
+you, head to the cues option and click
+you, head to the cues option and click
+on
+on
+on
+bookings.<00:00:13.920><c> We</c><00:00:14.160><c> do</c><00:00:14.400><c> provide</c><00:00:14.719><c> a</c><00:00:14.960><c> quick</c><00:00:15.200><c> filter</c>
+bookings. We do provide a quick filter
+bookings. We do provide a quick filter
+option<00:00:15.920><c> to</c><00:00:16.160><c> search</c><00:00:16.400><c> your</c><00:00:16.680><c> bookings.</c><00:00:17.680><c> Use</c><00:00:18.000><c> any</c>
+option to search your bookings. Use any
+option to search your bookings. Use any
+one<00:00:18.400><c> of</c><00:00:18.560><c> the</c><00:00:18.720><c> options</c><00:00:19.119><c> to</c><00:00:19.359><c> quickly</c><00:00:19.760><c> find</c><00:00:19.920><c> your</c>
+one of the options to quickly find your
+one of the options to quickly find your
+booking.<00:00:21.840><c> The</c><00:00:22.080><c> unique</c><00:00:22.480><c> option</c><00:00:22.880><c> which</c><00:00:23.119><c> we</c>
+booking. The unique option which we
+booking. The unique option which we
+provide<00:00:23.680><c> here</c><00:00:23.920><c> is</c><00:00:24.400><c> you</c><00:00:24.640><c> do</c><00:00:24.880><c> not</c><00:00:25.039><c> have</c><00:00:25.199><c> to</c><00:00:25.359><c> reach</c>
+provide here is you do not have to reach
+provide here is you do not have to reach
+out<00:00:25.760><c> to</c><00:00:25.920><c> the</c><00:00:26.160><c> support</c><00:00:26.480><c> team</c><00:00:26.880><c> and</c><00:00:27.199><c> explain</c><00:00:27.519><c> the</c>
+out to the support team and explain the
+out to the support team and explain the
+booking<00:00:28.080><c> concern.</c><00:00:29.199><c> Just</c><00:00:29.439><c> search</c><00:00:29.679><c> your</c>
+booking concern. Just search your
+booking concern. Just search your
+booking<00:00:30.240><c> in</c><00:00:30.480><c> which</c><00:00:30.720><c> you</c><00:00:30.880><c> want</c><00:00:30.960><c> to</c><00:00:31.119><c> raise</c><00:00:31.359><c> a</c>
+booking in which you want to raise a
+booking in which you want to raise a
+request<00:00:32.239><c> by</c><00:00:32.480><c> clicking</c><00:00:32.800><c> on</c><00:00:33.200><c> raise</c><00:00:33.440><c> a</c><00:00:33.600><c> request</c>
+request by clicking on raise a request
+request by clicking on raise a request
+option.<00:00:35.840><c> Choose</c><00:00:36.160><c> the</c><00:00:36.320><c> criteria</c><00:00:36.800><c> to</c><00:00:37.040><c> raise</c><00:00:37.280><c> a</c>
+option. Choose the criteria to raise a
+option. Choose the criteria to raise a
+request<00:00:37.840><c> from</c><00:00:38.079><c> the</c><00:00:38.239><c> following</c><00:00:38.640><c> options</c><00:00:39.440><c> as</c><00:00:39.680><c> we</c>
+request from the following options as we
+request from the following options as we
+have<00:00:40.000><c> covered</c><00:00:40.239><c> you</c><00:00:40.399><c> with</c><00:00:40.640><c> all</c><00:00:40.800><c> the</c><00:00:40.960><c> major</c>
+have covered you with all the major
+have covered you with all the major
+concerns.<00:00:43.200><c> To</c><00:00:43.440><c> make</c><00:00:43.600><c> a</c><00:00:43.760><c> modification</c><00:00:44.320><c> in</c>
+concerns. To make a modification in
+concerns. To make a modification in
+date,<00:00:45.200><c> nationality,</c><00:00:46.079><c> guest</c><00:00:46.399><c> name</c><00:00:46.800><c> or</c><00:00:46.960><c> want</c><00:00:47.200><c> to</c>
+date, nationality, guest name or want to
+date, nationality, guest name or want to
+raise<00:00:47.520><c> a</c><00:00:47.680><c> request</c><00:00:48.000><c> to</c><00:00:48.239><c> modify</c><00:00:48.559><c> the</c><00:00:48.719><c> room</c><00:00:48.960><c> type,</c>
+raise a request to modify the room type,
+raise a request to modify the room type,
+just<00:00:49.920><c> head</c><00:00:50.160><c> to</c><00:00:50.399><c> amend</c><00:00:50.800><c> or</c><00:00:50.960><c> modify</c><00:00:51.360><c> booking</c>
+just head to amend or modify booking
+just head to amend or modify booking
+option<00:00:52.160><c> provided</c><00:00:52.559><c> here.</c>
+option provided here.
+option provided here.
+As<00:00:54.480><c> per</c><00:00:54.719><c> your</c><00:00:54.879><c> client's</c><00:00:55.280><c> request,</c><00:00:55.920><c> update</c><00:00:56.239><c> the</c>
+As per your client's request, update the
+As per your client's request, update the
+details<00:00:56.719><c> in</c><00:00:56.960><c> this</c><00:00:57.120><c> amendment</c><00:00:57.600><c> request</c><00:00:57.920><c> form</c>
+details in this amendment request form
+details in this amendment request form
+and<00:00:58.800><c> send</c><00:00:59.039><c> us</c><00:00:59.199><c> the</c><00:00:59.440><c> request</c><00:00:59.920><c> and</c><00:01:00.160><c> our</c>
+and send us the request and our
+and send us the request and our
+operations<00:01:00.879><c> team</c><00:01:01.199><c> will</c><00:01:01.440><c> connect</c><00:01:01.680><c> with</c><00:01:01.840><c> you</c><00:01:02.000><c> on</c>
+operations team will connect with you on
+operations team will connect with you on
+priority.<00:01:04.159><c> Want</c><00:01:04.320><c> to</c><00:01:04.479><c> add</c><00:01:04.720><c> or</c><00:01:04.960><c> modify</c><00:01:05.360><c> special</c>
+priority. Want to add or modify special
+priority. Want to add or modify special
+request?<00:01:06.479><c> Simply</c><00:01:06.880><c> click</c><00:01:07.040><c> on</c><00:01:07.200><c> this</c>
+request? Simply click on this
+request? Simply click on this
+tab<00:01:08.960><c> as</c><00:01:09.280><c> per</c><00:01:09.439><c> the</c><00:01:09.680><c> desired</c><00:01:10.080><c> request</c><00:01:10.479><c> from</c><00:01:10.720><c> your</c>
+tab as per the desired request from your
+tab as per the desired request from your
+client<00:01:11.760><c> update</c><00:01:12.240><c> here</c><00:01:12.560><c> and</c><00:01:12.799><c> kindly</c><00:01:13.200><c> note</c><00:01:13.520><c> all</c>
+client update here and kindly note all
+client update here and kindly note all
+the<00:01:13.920><c> special</c><00:01:14.240><c> requests</c><00:01:14.880><c> are</c><00:01:15.200><c> subject</c><00:01:15.439><c> to</c>
+the special requests are subject to
+the special requests are subject to
+availability<00:01:16.479><c> upon</c><00:01:16.880><c> confirming</c><00:01:17.280><c> with</c>
+availability upon confirming with
+availability upon confirming with
+hotel.<00:01:19.360><c> To</c><00:01:19.600><c> raise</c><00:01:19.840><c> a</c><00:01:20.000><c> query</c><00:01:20.400><c> related</c><00:01:20.720><c> to</c>
+hotel. To raise a query related to
+hotel. To raise a query related to
+payment<00:01:21.200><c> or</c><00:01:21.439><c> meal</c><00:01:21.759><c> price,</c><00:01:22.400><c> head</c><00:01:22.640><c> to</c><00:01:22.799><c> this</c>
+payment or meal price, head to this
+payment or meal price, head to this
+booking<00:01:23.360><c> issues</c>
+booking issues
+booking issues
+tab.<00:01:25.439><c> Select</c><00:01:25.759><c> the</c><00:01:26.000><c> query</c><00:01:26.320><c> type</c><00:01:26.640><c> from</c><00:01:26.799><c> the</c>
+tab. Select the query type from the
+tab. Select the query type from the
+drop-<00:01:27.200><c> down</c><00:01:27.520><c> options</c><00:01:28.080><c> and</c><00:01:28.400><c> hit</c><00:01:28.840><c> submit.</c><00:01:29.840><c> Our</c>
+drop- down options and hit submit. Our
+drop- down options and hit submit. Our
+dedicated<00:01:30.640><c> operations</c><00:01:31.280><c> team</c><00:01:31.680><c> will</c><00:01:32.000><c> respond</c>
+dedicated operations team will respond
+dedicated operations team will respond
+to<00:01:32.479><c> the</c><00:01:32.640><c> concern</c><00:01:33.040><c> with</c><00:01:33.200><c> the</c>
+to the concern with the
+to the concern with the
+solution.<00:01:35.280><c> Want</c><00:01:35.439><c> to</c><00:01:35.680><c> reconfirm</c><00:01:36.240><c> your</c><00:01:36.479><c> future</c>
+solution. Want to reconfirm your future
+solution. Want to reconfirm your future
+dated<00:01:37.119><c> booking?</c><00:01:37.840><c> Click</c><00:01:38.079><c> on</c><00:01:38.240><c> this</c><00:01:38.400><c> option</c><00:01:39.040><c> and</c>
+dated booking? Click on this option and
+dated booking? Click on this option and
+the<00:01:39.520><c> request</c><00:01:39.840><c> for</c><00:01:40.159><c> hotel</c><00:01:40.560><c> confirmation</c>
+the request for hotel confirmation
+the request for hotel confirmation
+number<00:01:41.520><c> will</c><00:01:41.759><c> be</c>
+number will be
+number will be
+prioritized<00:01:43.439><c> as</c><00:01:43.680><c> the</c><00:01:43.920><c> confirmation</c><00:01:44.400><c> number</c>
+prioritized as the confirmation number
+prioritized as the confirmation number
+are<00:01:44.960><c> updated</c><00:01:45.360><c> against</c><00:01:45.680><c> the</c><00:01:45.840><c> vouchered</c>
+are updated against the vouchered
+are updated against the vouchered
+booking<00:01:46.720><c> initially.</c>
+booking initially.
+booking initially.
+Want<00:01:48.799><c> to</c><00:01:48.960><c> check</c><00:01:49.119><c> about</c><00:01:49.360><c> your</c><00:01:49.520><c> reward</c><00:01:49.840><c> points</c>
+Want to check about your reward points
+Want to check about your reward points
+or<00:01:50.560><c> have</c><00:01:50.720><c> any</c><00:01:50.960><c> other</c><00:01:51.200><c> query?</c><00:01:52.000><c> Head</c><00:01:52.240><c> to</c><00:01:52.399><c> this</c>
+or have any other query? Head to this
+or have any other query? Head to this
+option.<00:01:54.479><c> Select</c><00:01:54.799><c> the</c><00:01:54.960><c> query</c><00:01:55.360><c> type</c><00:01:55.600><c> from</c><00:01:55.759><c> the</c>
+option. Select the query type from the
+option. Select the query type from the
+drop-<00:01:56.159><c> down</c><00:01:56.479><c> options</c><00:01:56.960><c> provided</c><00:01:57.520><c> such</c><00:01:57.680><c> as</c>
+drop- down options provided such as
+drop- down options provided such as
+refunds,<00:01:58.799><c> reward</c><00:01:59.280><c> points</c><00:01:59.840><c> or</c><00:02:00.159><c> sightseeing</c>
+refunds, reward points or sightseeing
+refunds, reward points or sightseeing
+related<00:02:01.119><c> queries</c><00:02:01.759><c> and</c><00:02:02.000><c> hit</c>
+related queries and hit
+related queries and hit
+submit.<00:02:04.000><c> Want</c><00:02:04.240><c> to</c><00:02:04.399><c> view</c><00:02:04.560><c> the</c><00:02:04.799><c> requests</c><00:02:05.200><c> which</c>
+submit. Want to view the requests which
+submit. Want to view the requests which
+you<00:02:05.600><c> have</c><00:02:05.759><c> raised.</c><00:02:06.560><c> Click</c><00:02:06.799><c> on</c><00:02:07.040><c> view</c><00:02:07.280><c> my</c>
+you have raised. Click on view my
+you have raised. Click on view my
+requests<00:02:08.000><c> option</c>
+requests option
+requests option
+here.<00:02:09.920><c> You</c><00:02:10.160><c> will</c><00:02:10.319><c> see</c><00:02:10.560><c> all</c><00:02:10.800><c> your</c><00:02:11.039><c> requests</c><00:02:11.440><c> in</c>
+here. You will see all your requests in
+here. You will see all your requests in
+this<00:02:11.840><c> tab</c><00:02:12.319><c> and</c><00:02:12.640><c> track</c><00:02:12.879><c> the</c><00:02:13.120><c> progress</c><00:02:13.360><c> of</c><00:02:13.520><c> the</c>
+this tab and track the progress of the
+this tab and track the progress of the
+raised
+raised
+raised
+requests.<00:02:16.160><c> And</c><00:02:16.319><c> that's</c><00:02:16.560><c> it.</c><00:02:17.040><c> Enjoy</c><00:02:17.440><c> and</c>
+requests. And that's it. Enjoy and
+requests. And that's it. Enjoy and
+explore<00:02:18.080><c> all</c><00:02:18.239><c> the</c><00:02:18.400><c> options</c><00:02:18.800><c> today.</c><00:02:19.680><c> Book</c><00:02:19.920><c> with</c>
+explore all the options today. Book with
+explore all the options today. Book with
+TBO<00:02:20.640><c> Holidays</c><00:02:21.040><c> to</c><00:02:21.280><c> have</c><00:02:21.440><c> hassle-free</c>
+TBO Holidays to have hassle-free
+TBO Holidays to have hassle-free
+experience.

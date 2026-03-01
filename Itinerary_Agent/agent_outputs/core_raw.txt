@@ -1,0 +1,404 @@
+```json
+{
+  "plan_type": "core",
+  "summary": "A leisure trip to Bengal, focusing on cultural experiences and local cuisine in Kolkata.",
+  "total_estimated_cost": {
+    "amount": 0,
+    "currency": "USD"
+  },
+  "days": [
+    {
+      "day": 1,
+      "date": "2024-11-15",
+      "city": "Kolkata",
+      "flights": [],
+      "hotel": {
+        "name": "Hostellerie Aspremont",
+        "star_rating": "TwoStar",
+        "trip_advisor_rating": "4.5",
+        "address": "3 Place Saint-Claude 06790 AspremontProvence-Alpes-Côte d’Azur ",
+        "facilities": [
+          "Free self parking",
+          "Restaurant",
+          "Pets allowed",
+          "Bar/lounge",
+          "Garden",
+          "Terrace",
+          "Non-smoking rooms",
+          "Internet access",
+          "Heating",
+          "Fax/photocopying",
+          "Luggage storage",
+          "Free WiFi",
+          "Free WiFi",
+          "Non-smoking throughout",
+          "Outdoor seasonal pool",
+          "Parking onsite",
+          "Private parking"
+        ],
+        "attractions_nearby": [],
+        "price_per_night": {
+          "amount": 60,
+          "currency": "USD"
+        },
+        "check_in": "14:00",
+        "check_out": "12:00",
+        "image_url": null
+      },
+      "activities": [
+        {
+          "name": "Arrival in Kolkata & Hotel Check-in",
+          "type": "relaxation",
+          "description": "Arrive in Kolkata, transfer to your hotel, and check in. Take some time to relax and settle in.",
+          "estimated_cost": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "duration_hours": 3
+        },
+        {
+          "name": "Explore Local Area",
+          "type": "sightseeing",
+          "description": "Take a leisurely stroll around the hotel's vicinity to get a feel for the local atmosphere.",
+          "estimated_cost": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "duration_hours": 2
+        }
+      ],
+      "meals": [
+        {
+          "type": "dinner",
+          "suggestion": "Enjoy authentic Bengali cuisine at a local restaurant near your hotel.",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 25,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2024-11-16",
+      "city": "Kolkata",
+      "flights": [],
+      "hotel": {
+        "name": "Hostellerie Aspremont",
+        "star_rating": "TwoStar",
+        "trip_advisor_rating": "4.5",
+        "address": "3 Place Saint-Claude 06790 AspremontProvence-Alpes-Côte d’Azur ",
+        "facilities": [
+          "Free self parking",
+          "Restaurant",
+          "Pets allowed",
+          "Bar/lounge",
+          "Garden",
+          "Terrace",
+          "Non-smoking rooms",
+          "Internet access",
+          "Heating",
+          "Fax/photocopying",
+          "Luggage storage",
+          "Free WiFi",
+          "Free WiFi",
+          "Non-smoking throughout",
+          "Outdoor seasonal pool",
+          "Parking onsite",
+          "Private parking"
+        ],
+        "attractions_nearby": [],
+        "price_per_night": {
+          "amount": 60,
+          "currency": "USD"
+        },
+        "check_in": "14:00",
+        "check_out": "12:00",
+        "image_url": null
+      },
+      "activities": [
+        {
+          "name": "Kolkata City Tour (Private Full Day Sightseeing Tour of Kolkata)",
+          "type": "sightseeing",
+          "description": "Explore the 'Cultural Capital of India' with a private, air-conditioned vehicle. Visit iconic landmarks like Mother Teresa's house, Howrah Bridge, Victoria Memorial, and the Marble Palace. Learn about India's history from ancient times to the British Raj and the present day.",
+          "estimated_cost": {
+            "amount": 128,
+            "currency": "USD"
+          },
+          "duration_hours": 8
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "suggestion": "Hotel breakfast.",
+          "cuisine": null,
+          "estimated_cost": {
+            "amount": 10,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "lunch",
+          "suggestion": "Lunch at a local eatery during the city tour.",
+          "cuisine": "Indian",
+          "estimated_cost": {
+            "amount": 15,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "dinner",
+          "suggestion": "Dine at Ballygunge Place for authentic Bengali dishes like Daab Chingri and Mutton Daak Bunglow.",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 35,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2024-11-17",
+      "city": "Kolkata",
+      "flights": [],
+      "hotel": {
+        "name": "Hostellerie Aspremont",
+        "star_rating": "TwoStar",
+        "trip_advisor_rating": "4.5",
+        "address": "3 Place Saint-Claude 06790 AspremontProvence-Alpes-Côte d’Azur ",
+        "facilities": [
+          "Free self parking",
+          "Restaurant",
+          "Pets allowed",
+          "Bar/lounge",
+          "Garden",
+          "Terrace",
+          "Non-smoking rooms",
+          "Internet access",
+          "Heating",
+          "Fax/photocopying",
+          "Luggage storage",
+          "Free WiFi",
+          "Free WiFi",
+          "Non-smoking throughout",
+          "Outdoor seasonal pool",
+          "Parking onsite",
+          "Private parking"
+        ],
+        "attractions_nearby": [],
+        "price_per_night": {
+          "amount": 60,
+          "currency": "USD"
+        },
+        "check_in": "14:00",
+        "check_out": "12:00",
+        "image_url": null
+      },
+      "activities": [
+        {
+          "name": "Bengali Nights Kolkata Food Tour with 13+ Tastings",
+          "type": "dining",
+          "description": "Indulge in a culinary adventure through Kolkata's vibrant food scene, sampling over 13 different Bengali dishes.",
+          "estimated_cost": {
+            "amount": 39,
+            "currency": "USD"
+          },
+          "duration_hours": 4
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "suggestion": "Hotel breakfast.",
+          "cuisine": null,
+          "estimated_cost": {
+            "amount": 10,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "lunch",
+          "suggestion": "Light lunch before the food tour.",
+          "cuisine": "Local",
+          "estimated_cost": {
+            "amount": 10,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "dinner",
+          "suggestion": "The food tour will cover dinner with multiple tastings.",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 0,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2024-11-18",
+      "city": "Kolkata",
+      "flights": [],
+      "hotel": {
+        "name": "Hostellerie Aspremont",
+        "star_rating": "TwoStar",
+        "trip_advisor_rating": "4.5",
+        "address": "3 Place Saint-Claude 06790 AspremontProvence-Alpes-Côte d’Azur ",
+        "facilities": [
+          "Free self parking",
+          "Restaurant",
+          "Pets allowed",
+          "Bar/lounge",
+          "Garden",
+          "Terrace",
+          "Non-smoking rooms",
+          "Internet access",
+          "Heating",
+          "Fax/photocopying",
+          "Luggage storage",
+          "Free WiFi",
+          "Free WiFi",
+          "Non-smoking throughout",
+          "Outdoor seasonal pool",
+          "Parking onsite",
+          "Private parking"
+        ],
+        "attractions_nearby": [],
+        "price_per_night": {
+          "amount": 60,
+          "currency": "USD"
+        },
+        "check_in": "14:00",
+        "check_out": "12:00",
+        "image_url": null
+      },
+      "activities": [
+        {
+          "name": "Free Morning for Souvenir Shopping or Relaxation",
+          "type": "shopping",
+          "description": "Enjoy a free morning to explore local markets for souvenirs or relax at the hotel.",
+          "estimated_cost": {
+            "amount": 20,
+            "currency": "USD"
+          },
+          "duration_hours": 4
+        },
+        {
+          "name": "Visit a Museum or Art Gallery",
+          "type": "cultural",
+          "description": "Visit a local museum or art gallery to delve deeper into Bengal's rich artistic heritage.",
+          "estimated_cost": {
+            "amount": 10,
+            "currency": "USD"
+          },
+          "duration_hours": 3
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "suggestion": "Hotel breakfast.",
+          "cuisine": null,
+          "estimated_cost": {
+            "amount": 10,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "lunch",
+          "suggestion": "Lunch at a cafe in a shopping area.",
+          "cuisine": "Local",
+          "estimated_cost": {
+            "amount": 15,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "dinner",
+          "suggestion": "Try Oh! Calcutta for a premium Bengali dining experience.",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 50,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2024-11-19",
+      "city": "Kolkata",
+      "flights": [],
+      "hotel": {
+        "name": "Hostellerie Aspremont",
+        "star_rating": "TwoStar",
+        "trip_advisor_rating": "4.5",
+        "address": "3 Place Saint-Claude 06790 AspremontProvence-Alpes-Côte d’Azur ",
+        "facilities": [
+          "Free self parking",
+          "Restaurant",
+          "Pets allowed",
+          "Bar/lounge",
+          "Garden",
+          "Terrace",
+          "Non-smoking rooms",
+          "Internet access",
+          "Heating",
+          "Fax/photocopying",
+          "Luggage storage",
+          "Free WiFi",
+          "Free WiFi",
+          "Non-smoking throughout",
+          "Outdoor seasonal pool",
+          "Parking onsite",
+          "Private parking"
+        ],
+        "attractions_nearby": [],
+        "price_per_night": {
+          "amount": 60,
+          "currency": "USD"
+        },
+        "check_in": "14:00",
+        "check_out": "12:00",
+        "image_url": null
+      },
+      "activities": [
+        {
+          "name": "Departure from Kolkata",
+          "type": "other",
+          "description": "Check out from the hotel and depart from Kolkata.",
+          "estimated_cost": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "duration_hours": 3
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "suggestion": "Hotel breakfast.",
+          "cuisine": null,
+          "estimated_cost": {
+            "amount": 10,
+            "currency": "USD"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "comfort_score": 6,
+    "risk_score": 3,
+    "refund_score": 7,
+    "total_travel_time_hours": 0,
+    "total_flights": 0,
+    "total_hotel_nights": 4
+  }
+}
+```

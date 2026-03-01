@@ -1,0 +1,157 @@
+Kind: captions
+Language: en
+hello<00:00:00.440><c> partner</c><00:00:01.199><c> welcome</c><00:00:01.480><c> to</c><00:00:01.840><c> TBO</c><00:00:02.840><c> in</c><00:00:03.000><c> this</c>
+hello partner welcome to TBO in this
+hello partner welcome to TBO in this
+video<00:00:03.520><c> I</c><00:00:03.600><c> will</c><00:00:03.760><c> tell</c><00:00:04.000><c> you</c><00:00:04.279><c> how</c><00:00:04.400><c> to</c><00:00:04.560><c> check</c><00:00:04.759><c> your</c>
+video I will tell you how to check your
+video I will tell you how to check your
+bookings<00:00:05.359><c> for</c><00:00:05.600><c> each</c>
+bookings for each
+bookings for each
+product<00:00:07.640><c> bookings</c><00:00:08.120><c> made</c><00:00:08.320><c> for</c><00:00:08.519><c> hotels</c><00:00:09.040><c> can</c><00:00:09.160><c> be</c>
+product bookings made for hotels can be
+product bookings made for hotels can be
+searched<00:00:09.599><c> in</c><00:00:09.760><c> Q's</c><00:00:10.160><c> tab</c><00:00:10.759><c> by</c><00:00:10.920><c> clicking</c><00:00:11.200><c> on</c>
+searched in Q's tab by clicking on
+searched in Q's tab by clicking on
+bookings<00:00:13.320><c> we</c><00:00:13.440><c> have</c><00:00:13.599><c> simplified</c><00:00:14.160><c> the</c><00:00:14.240><c> search</c>
+bookings we have simplified the search
+bookings we have simplified the search
+option<00:00:15.080><c> by</c><00:00:15.280><c> providing</c><00:00:15.679><c> quick</c><00:00:16.039><c> filter</c><00:00:17.039><c> just</c>
+option by providing quick filter just
+option by providing quick filter just
+type<00:00:17.480><c> the</c><00:00:17.600><c> TBO</c><00:00:18.160><c> confirmation</c><00:00:18.720><c> number</c><00:00:19.240><c> or</c><00:00:19.400><c> the</c>
+type the TBO confirmation number or the
+type the TBO confirmation number or the
+guest<00:00:19.840><c> name</c><00:00:20.480><c> and</c><00:00:20.680><c> instantly</c><00:00:21.119><c> get</c><00:00:21.279><c> the</c>
+guest name and instantly get the
+guest name and instantly get the
+booking<00:00:23.160><c> to</c><00:00:23.320><c> search</c><00:00:23.599><c> the</c><00:00:23.720><c> flight</c><00:00:24.039><c> bookings</c>
+booking to search the flight bookings
+booking to search the flight bookings
+click<00:00:25.000><c> on</c><00:00:25.119><c> the</c><00:00:25.240><c> flights</c>
+click on the flights
+click on the flights
+option<00:00:27.359><c> find</c><00:00:27.679><c> all</c><00:00:27.840><c> your</c><00:00:28.000><c> flight</c><00:00:28.279><c> booking</c><00:00:28.599><c> in</c>
+option find all your flight booking in
+option find all your flight booking in
+this<00:00:28.920><c> cu's</c><00:00:29.320><c> option</c>
+this cu's option
+this cu's option
+apply<00:00:31.439><c> the</c><00:00:31.560><c> filter</c><00:00:32.079><c> by</c><00:00:32.239><c> typing</c><00:00:32.520><c> your</c><00:00:32.719><c> P&amp;R</c>
+apply the filter by typing your P&amp;R
+apply the filter by typing your P&amp;R
+number<00:00:33.680><c> and</c><00:00:33.840><c> search</c><00:00:34.120><c> your</c>
+number and search your
+number and search your
+booking<00:00:36.120><c> let's</c><00:00:36.320><c> see</c><00:00:36.559><c> how</c><00:00:36.680><c> to</c><00:00:36.800><c> search</c><00:00:37.079><c> or</c><00:00:37.239><c> find</c>
+booking let's see how to search or find
+booking let's see how to search or find
+your<00:00:37.559><c> umra</c>
+your umra
+your umra
+booking<00:00:39.680><c> as</c><00:00:39.800><c> you</c><00:00:39.960><c> click</c><00:00:40.120><c> on</c><00:00:40.239><c> the</c><00:00:40.360><c> umra</c><00:00:41.079><c> click</c>
+booking as you click on the umra click
+booking as you click on the umra click
+this<00:00:41.559><c> my</c><00:00:41.760><c> bookings</c><00:00:42.239><c> option</c><00:00:42.760><c> and</c><00:00:42.960><c> get</c><00:00:43.079><c> your</c>
+this my bookings option and get your
+this my bookings option and get your
+booking<00:00:44.960><c> search</c><00:00:45.280><c> your</c><00:00:45.440><c> booked</c><00:00:45.800><c> packages</c><00:00:46.399><c> by</c>
+booking search your booked packages by
+booking search your booked packages by
+click<00:00:46.760><c> on</c><00:00:47.039><c> packages</c>
+click on packages
+click on packages
+tab<00:00:49.239><c> click</c><00:00:49.480><c> on</c><00:00:49.800><c> my</c><00:00:50.000><c> bookings</c><00:00:50.800><c> to</c><00:00:50.960><c> find</c><00:00:51.239><c> all</c><00:00:51.480><c> the</c>
+tab click on my bookings to find all the
+tab click on my bookings to find all the
+packages<00:00:52.199><c> which</c><00:00:52.359><c> you</c><00:00:52.480><c> have</c>
+packages which you have
+packages which you have
+booked<00:00:54.399><c> find</c><00:00:54.680><c> the</c><00:00:54.800><c> booking</c><00:00:55.120><c> from</c><00:00:55.239><c> the</c><00:00:55.359><c> booked</c>
+booked find the booking from the booked
+booked find the booking from the booked
+list<00:00:57.480><c> click</c><00:00:57.640><c> on</c><00:00:57.760><c> the</c><00:00:57.920><c> sightseeing</c><00:00:58.559><c> tab</c><00:00:59.239><c> to</c>
+list click on the sightseeing tab to
+list click on the sightseeing tab to
+search<00:00:59.640><c> your</c><00:01:00.000><c> booking</c><00:01:00.320><c> related</c><00:01:00.680><c> to</c>
+search your booking related to
+search your booking related to
+sightseeing<00:01:02.840><c> in</c><00:01:02.960><c> the</c><00:01:03.120><c> cues</c><00:01:03.800><c> select</c><00:01:04.119><c> the</c>
+sightseeing in the cues select the
+sightseeing in the cues select the
+bookings<00:01:04.680><c> option</c><00:01:05.000><c> to</c><00:01:05.199><c> find</c><00:01:05.400><c> your</c>
+bookings option to find your
+bookings option to find your
+booking<00:01:07.320><c> use</c><00:01:07.600><c> the</c><00:01:07.720><c> quick</c><00:01:08.000><c> filters</c><00:01:08.439><c> to</c>
+booking use the quick filters to
+booking use the quick filters to
+instantly<00:01:09.080><c> get</c><00:01:09.200><c> your</c>
+instantly get your
+instantly get your
+booking<00:01:11.159><c> want</c><00:01:11.360><c> to</c><00:01:11.520><c> find</c><00:01:11.720><c> your</c><00:01:11.880><c> cruise</c><00:01:12.200><c> booking</c>
+booking want to find your cruise booking
+booking want to find your cruise booking
+head<00:01:12.920><c> to</c><00:01:13.080><c> the</c><00:01:13.159><c> search</c><00:01:13.520><c> option</c>
+head to the search option
+head to the search option
+here<00:01:15.479><c> on</c><00:01:15.720><c> top</c><00:01:16.000><c> right</c><00:01:16.320><c> click</c><00:01:16.520><c> on</c><00:01:16.680><c> booking</c><00:01:17.000><c> queue</c>
+here on top right click on booking queue
+here on top right click on booking queue
+and<00:01:17.560><c> you</c><00:01:17.680><c> find</c><00:01:17.920><c> your</c><00:01:18.080><c> cruise</c>
+and you find your cruise
+and you find your cruise
+booking<00:01:20.159><c> want</c><00:01:20.320><c> to</c><00:01:20.479><c> view</c><00:01:20.680><c> your</c><00:01:20.840><c> booking</c><00:01:21.640><c> click</c>
+booking want to view your booking click
+booking want to view your booking click
+on<00:01:21.960><c> the</c><00:01:22.079><c> car</c><00:01:22.280><c> rental</c><00:01:22.720><c> Tab</c><00:01:23.159><c> and</c><00:01:23.320><c> hit</c>
+on the car rental Tab and hit
+on the car rental Tab and hit
+search<00:01:25.240><c> you</c><00:01:25.360><c> will</c><00:01:25.560><c> see</c><00:01:25.880><c> the</c><00:01:26.040><c> booking</c><00:01:26.400><c> queue</c>
+search you will see the booking queue
+search you will see the booking queue
+option<00:01:27.240><c> provided</c><00:01:27.759><c> here</c><00:01:28.759><c> click</c><00:01:28.960><c> and</c><00:01:29.159><c> type</c><00:01:29.360><c> your</c>
+option provided here click and type your
+option provided here click and type your
+booking
+booking
+booking
+ID<00:01:31.720><c> or</c><00:01:32.280><c> filter</c><00:01:32.640><c> your</c><00:01:32.799><c> search</c><00:01:33.200><c> by</c><00:01:33.360><c> the</c><00:01:33.520><c> option</c>
+ID or filter your search by the option
+ID or filter your search by the option
+provided<00:01:34.479><c> and</c><00:01:34.640><c> get</c><00:01:34.759><c> your</c><00:01:34.920><c> booking</c><00:01:35.720><c> simple</c><00:01:36.040><c> as</c>
+provided and get your booking simple as
+provided and get your booking simple as
+that<00:01:37.960><c> click</c><00:01:38.159><c> on</c><00:01:38.320><c> search</c><00:01:38.720><c> in</c><00:01:38.840><c> the</c><00:01:39.000><c> transfers</c>
+that click on search in the transfers
+that click on search in the transfers
+tab<00:01:39.799><c> to</c><00:01:39.920><c> get</c><00:01:40.040><c> your</c>
+tab to get your
+tab to get your
+booking<00:01:42.040><c> next</c><00:01:42.320><c> up</c><00:01:42.600><c> click</c><00:01:42.799><c> on</c>
+booking next up click on
+booking next up click on
+bookings<00:01:44.960><c> find</c><00:01:45.240><c> all</c><00:01:45.439><c> your</c><00:01:45.600><c> vouchered</c><00:01:46.200><c> pending</c>
+bookings find all your vouchered pending
+bookings find all your vouchered pending
+and<00:01:46.719><c> canceled</c><00:01:47.119><c> booking</c><00:01:47.439><c> at</c><00:01:47.600><c> one</c><00:01:47.920><c> place</c><00:01:48.840><c> Click</c>
+and canceled booking at one place Click
+and canceled booking at one place Click
+on<00:01:49.280><c> each</c><00:01:49.520><c> option</c><00:01:49.840><c> to</c><00:01:50.000><c> view</c>
+on each option to view
+on each option to view
+separately<00:01:52.159><c> to</c><00:01:52.320><c> check</c><00:01:52.520><c> your</c><00:01:52.680><c> rail</c><00:01:52.920><c> booking</c>
+separately to check your rail booking
+separately to check your rail booking
+click<00:01:53.759><c> on</c><00:01:53.920><c> the</c><00:01:54.040><c> search</c><00:01:54.360><c> option</c><00:01:54.640><c> in</c><00:01:54.759><c> the</c><00:01:54.880><c> rail</c>
+click on the search option in the rail
+click on the search option in the rail
+tab<00:01:56.960><c> in</c><00:01:57.119><c> this</c><00:01:57.320><c> booking</c><00:01:57.640><c> queue</c><00:01:57.960><c> option</c><00:01:58.640><c> find</c>
+tab in this booking queue option find
+tab in this booking queue option find
+all<00:01:59.079><c> your</c><00:01:59.240><c> rail</c><00:01:59.479><c> tickets</c><00:01:59.920><c> and</c>
+all your rail tickets and
+all your rail tickets and
+passes<00:02:02.200><c> happy</c><00:02:02.439><c> selling</c>
+[Music]

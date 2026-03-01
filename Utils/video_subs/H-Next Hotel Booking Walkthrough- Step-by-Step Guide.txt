@@ -1,0 +1,468 @@
+Kind: captions
+Language: en
+hello<00:00:00.640><c> partner</c><00:00:01.640><c> welcome</c><00:00:02.040><c> to</c><00:00:02.600><c> TBO</c><00:00:03.600><c> in</c><00:00:03.800><c> this</c>
+hello partner welcome to TBO in this
+hello partner welcome to TBO in this
+video<00:00:04.400><c> I'm</c><00:00:04.520><c> going</c><00:00:04.720><c> to</c><00:00:04.880><c> take</c><00:00:05.040><c> you</c><00:00:05.200><c> through</c><00:00:05.440><c> our</c>
+video I'm going to take you through our
+video I'm going to take you through our
+Legacy<00:00:06.120><c> product</c><00:00:06.480><c> called</c><00:00:06.759><c> hotels</c><00:00:07.640><c> and</c><00:00:07.839><c> explain</c>
+Legacy product called hotels and explain
+Legacy product called hotels and explain
+how<00:00:08.840><c> you</c><00:00:09.000><c> make</c><00:00:09.200><c> a</c><00:00:09.360><c> hotel</c>
+how you make a hotel
+how you make a hotel
+bookings<00:00:11.559><c> but</c><00:00:11.719><c> wait</c><00:00:12.519><c> before</c><00:00:12.799><c> we</c><00:00:13.000><c> start</c><00:00:13.679><c> as</c><00:00:13.799><c> you</c>
+bookings but wait before we start as you
+bookings but wait before we start as you
+know<00:00:14.160><c> we</c><00:00:14.280><c> only</c><00:00:14.559><c> offer</c><00:00:14.839><c> net</c><00:00:15.040><c> rates</c><00:00:15.360><c> to</c><00:00:15.559><c> you</c><00:00:16.119><c> so</c>
+know we only offer net rates to you so
+know we only offer net rates to you so
+you<00:00:16.400><c> can</c><00:00:16.600><c> add</c><00:00:16.760><c> your</c><00:00:16.920><c> markup</c><00:00:17.439><c> by</c><00:00:17.560><c> clicking</c><00:00:17.840><c> the</c>
+you can add your markup by clicking the
+you can add your markup by clicking the
+edit<00:00:18.279><c> profile</c>
+edit profile
+edit profile
+option<00:00:20.600><c> basic</c><00:00:20.920><c> markups</c><00:00:21.519><c> product-wise</c><00:00:21.960><c> can</c><00:00:22.359><c> be</c>
+option basic markups product-wise can be
+option basic markups product-wise can be
+updated
+updated
+updated
+here<00:00:24.560><c> want</c><00:00:24.800><c> to</c><00:00:25.000><c> add</c><00:00:25.320><c> over</c><00:00:25.519><c> and</c><00:00:25.720><c> above</c><00:00:25.960><c> your</c>
+here want to add over and above your
+here want to add over and above your
+markup<00:00:27.000><c> we</c><00:00:27.119><c> do</c><00:00:27.400><c> provide</c><00:00:27.760><c> this</c><00:00:28.000><c> option</c><00:00:28.320><c> as</c><00:00:28.480><c> well</c>
+markup we do provide this option as well
+markup we do provide this option as well
+where<00:00:29.320><c> you</c><00:00:29.480><c> instantly</c><00:00:30.039><c> apply</c><00:00:30.400><c> customized</c>
+where you instantly apply customized
+where you instantly apply customized
+markups<00:00:31.400><c> on</c><00:00:31.599><c> every</c><00:00:31.840><c> search</c><00:00:32.320><c> apart</c><00:00:32.599><c> from</c><00:00:32.759><c> the</c>
+markups on every search apart from the
+markups on every search apart from the
+fixed<00:00:33.320><c> markup</c><00:00:34.320><c> this</c><00:00:34.440><c> is</c><00:00:34.559><c> a</c><00:00:34.719><c> unique</c><00:00:35.160><c> option</c>
+fixed markup this is a unique option
+fixed markup this is a unique option
+which<00:00:35.800><c> we</c><00:00:35.920><c> offer</c><00:00:36.200><c> to</c><00:00:36.360><c> save</c><00:00:36.559><c> your</c>
+which we offer to save your
+which we offer to save your
+time<00:00:38.440><c> want</c><00:00:38.640><c> to</c><00:00:38.840><c> get</c><00:00:38.960><c> in</c><00:00:39.120><c> touch</c><00:00:39.360><c> with</c><00:00:39.480><c> your</c><00:00:39.640><c> key</c>
+time want to get in touch with your key
+time want to get in touch with your key
+account<00:00:40.239><c> manager</c><00:00:41.160><c> we</c><00:00:41.320><c> do</c><00:00:41.640><c> provide</c><00:00:41.960><c> the</c><00:00:42.160><c> option</c>
+account manager we do provide the option
+account manager we do provide the option
+to<00:00:42.640><c> meet</c><00:00:42.840><c> your</c><00:00:43.039><c> key</c><00:00:43.320><c> account</c><00:00:43.600><c> manager</c><00:00:44.239><c> and</c>
+to meet your key account manager and
+to meet your key account manager and
+request
+request
+request
+demo<00:00:46.680><c> it</c><00:00:46.800><c> is</c><00:00:47.039><c> very</c><00:00:47.280><c> simple</c><00:00:47.960><c> few</c><00:00:48.280><c> basic</c><00:00:48.760><c> steps</c>
+demo it is very simple few basic steps
+demo it is very simple few basic steps
+we<00:00:49.920><c> start</c><00:00:50.199><c> off</c><00:00:50.440><c> by</c><00:00:50.559><c> choosing</c><00:00:51.000><c> either</c><00:00:51.239><c> a</c><00:00:51.399><c> hotel</c>
+we start off by choosing either a hotel
+we start off by choosing either a hotel
+or<00:00:52.000><c> a</c><00:00:52.160><c> destination</c><00:00:52.840><c> that</c><00:00:52.960><c> we</c><00:00:53.079><c> want</c><00:00:53.199><c> to</c><00:00:53.399><c> go</c><00:00:53.719><c> to</c>
+or a destination that we want to go to
+or a destination that we want to go to
+here<00:00:54.960><c> we</c><00:00:55.079><c> have</c><00:00:55.199><c> chosen</c><00:00:55.559><c> Dubai</c><00:00:56.320><c> as</c><00:00:56.440><c> our</c>
+here we have chosen Dubai as our
+here we have chosen Dubai as our
+destination<00:00:58.640><c> we</c><00:00:58.760><c> have</c><00:00:58.920><c> chosen</c><00:00:59.239><c> the</c><00:00:59.359><c> dates</c><00:00:59.680><c> 12</c>
+destination we have chosen the dates 12
+destination we have chosen the dates 12
+12<00:01:00.160><c> of</c><00:01:00.280><c> June</c><00:01:00.480><c> to</c><00:01:00.640><c> 14th</c><00:01:01.120><c> of</c>
+12 of June to 14th of
+12 of June to 14th of
+June<00:01:02.960><c> once</c><00:01:03.239><c> that's</c><00:01:03.519><c> done</c><00:01:04.239><c> here</c><00:01:04.400><c> we</c><00:01:04.559><c> have</c><00:01:04.760><c> the</c>
+June once that's done here we have the
+June once that's done here we have the
+option<00:01:05.280><c> to</c><00:01:05.479><c> choose</c><00:01:05.799><c> the</c><00:01:05.960><c> number</c><00:01:06.200><c> of</c><00:01:06.360><c> rooms</c><00:01:07.080><c> the</c>
+option to choose the number of rooms the
+option to choose the number of rooms the
+number<00:01:07.439><c> of</c><00:01:07.600><c> adults</c><00:01:08.280><c> and</c><00:01:08.439><c> number</c><00:01:08.680><c> of</c>
+number of adults and number of
+number of adults and number of
+children<00:01:10.720><c> click</c><00:01:10.920><c> on</c><00:01:11.080><c> the</c><00:01:11.200><c> rooms</c><00:01:11.560><c> to</c><00:01:11.759><c> select</c>
+children click on the rooms to select
+children click on the rooms to select
+the<00:01:12.200><c> number</c><00:01:12.439><c> of</c><00:01:12.600><c> rooms</c><00:01:12.880><c> to</c><00:01:13.080><c> book</c><00:01:13.680><c> and</c><00:01:13.799><c> we</c><00:01:13.920><c> can</c>
+the number of rooms to book and we can
+the number of rooms to book and we can
+choose<00:01:14.360><c> up</c><00:01:14.479><c> to</c><00:01:14.680><c> six</c><00:01:14.920><c> rooms</c><00:01:15.200><c> in</c><00:01:15.360><c> one</c>
+choose up to six rooms in one
+choose up to six rooms in one
+booking<00:01:17.280><c> want</c><00:01:17.479><c> to</c><00:01:17.680><c> book</c><00:01:17.880><c> more</c><00:01:18.080><c> than</c><00:01:18.240><c> six</c><00:01:18.520><c> rooms</c>
+booking want to book more than six rooms
+booking want to book more than six rooms
+we<00:01:19.360><c> always</c><00:01:19.600><c> recommend</c><00:01:20.119><c> go</c><00:01:20.280><c> through</c><00:01:20.520><c> group</c>
+we always recommend go through group
+we always recommend go through group
+request<00:01:21.200><c> option</c><00:01:21.640><c> provided</c><00:01:22.600><c> here</c><00:01:23.600><c> send</c><00:01:23.960><c> us</c><00:01:24.119><c> the</c>
+request option provided here send us the
+request option provided here send us the
+filled<00:01:24.600><c> details</c><00:01:25.280><c> and</c><00:01:25.400><c> our</c><00:01:25.560><c> team</c><00:01:25.799><c> will</c><00:01:25.960><c> get</c><00:01:26.079><c> in</c>
+filled details and our team will get in
+filled details and our team will get in
+touch<00:01:26.479><c> with</c><00:01:26.600><c> you</c><00:01:26.840><c> soonest</c>
+touch with you soonest
+touch with you soonest
+possible<00:01:29.040><c> choose</c><00:01:29.360><c> the</c><00:01:29.479><c> correct</c><00:01:29.960><c> guest</c>
+possible choose the correct guest
+possible choose the correct guest
+nationality<00:01:31.159><c> to</c><00:01:31.400><c> Avail</c><00:01:31.799><c> any</c><00:01:32.040><c> best</c>
+nationality to Avail any best
+nationality to Avail any best
+nationality<00:01:33.040><c> preference</c><00:01:33.520><c> rate</c><00:01:33.880><c> which</c><00:01:34.079><c> some</c>
+nationality preference rate which some
+nationality preference rate which some
+hotels
+hotels
+hotels
+offer<00:01:36.479><c> the</c><00:01:36.680><c> nationality</c><00:01:37.320><c> is</c><00:01:37.479><c> set</c><00:01:37.880><c> by</c><00:01:38.040><c> where</c>
+offer the nationality is set by where
+offer the nationality is set by where
+the<00:01:38.320><c> travel</c><00:01:38.680><c> agency</c><00:01:39.079><c> is</c><00:01:39.280><c> from</c><00:01:40.040><c> and</c><00:01:40.240><c> this</c><00:01:40.360><c> is</c>
+the travel agency is from and this is
+the travel agency is from and this is
+default<00:01:41.920><c> if</c><00:01:42.040><c> the</c><00:01:42.200><c> travel</c><00:01:42.560><c> agent</c><00:01:42.840><c> would</c><00:01:43.000><c> be</c>
+default if the travel agent would be
+default if the travel agent would be
+knowing<00:01:43.560><c> that</c><00:01:43.720><c> the</c><00:01:43.840><c> traveler</c><00:01:44.320><c> or</c><00:01:44.520><c> the</c>
+knowing that the traveler or the
+knowing that the traveler or the
+customer<00:01:45.240><c> is</c><00:01:45.399><c> not</c><00:01:45.600><c> from</c><00:01:45.880><c> this</c><00:01:46.079><c> country</c><00:01:46.880><c> some</c>
+customer is not from this country some
+customer is not from this country some
+other<00:01:47.719><c> nationality</c><00:01:48.719><c> then</c><00:01:48.920><c> this</c><00:01:49.079><c> should</c><00:01:49.240><c> be</c>
+other nationality then this should be
+other nationality then this should be
+changed<00:01:49.880><c> to</c><00:01:50.079><c> the</c><00:01:50.280><c> exact</c><00:01:50.719><c> nationality</c><00:01:51.320><c> of</c><00:01:51.479><c> the</c>
+changed to the exact nationality of the
+changed to the exact nationality of the
+client
+client
+client
+itself<00:01:53.960><c> let's</c><00:01:54.280><c> proceed</c><00:01:54.759><c> as</c><00:01:54.880><c> we</c><00:01:55.000><c> have</c><00:01:55.159><c> selected</c>
+itself let's proceed as we have selected
+itself let's proceed as we have selected
+one<00:01:55.799><c> room</c><00:01:56.439><c> which</c><00:01:56.560><c> should</c><00:01:56.759><c> accommodate</c><00:01:57.320><c> two</c>
+one room which should accommodate two
+one room which should accommodate two
+adults<00:01:59.280><c> to</c><00:01:59.439><c> get</c><00:01:59.560><c> a</c><00:01:59.640><c> quick</c><00:02:00.039><c> ER</c><00:02:00.119><c> search</c><00:02:00.479><c> and</c>
+adults to get a quick ER search and
+adults to get a quick ER search and
+faster<00:02:01.079><c> results</c><00:02:01.840><c> we'll</c><00:02:02.079><c> click</c><00:02:02.280><c> on</c><00:02:02.439><c> search</c><00:02:02.920><c> and</c>
+faster results we'll click on search and
+faster results we'll click on search and
+wait<00:02:03.280><c> until</c><00:02:03.560><c> the</c><00:02:03.719><c> system</c><00:02:04.079><c> downloads</c><00:02:04.640><c> all</c><00:02:04.799><c> the</c>
+wait until the system downloads all the
+wait until the system downloads all the
+options<00:02:05.320><c> from</c><00:02:05.479><c> our</c>
+options from our
+options from our
+suppliers<00:02:07.759><c> apply</c><00:02:08.119><c> filters</c><00:02:08.599><c> to</c><00:02:08.879><c> specific</c><00:02:09.280><c> rate</c>
+suppliers apply filters to specific rate
+suppliers apply filters to specific rate
+plan<00:02:09.879><c> elements</c><00:02:10.720><c> like</c><00:02:10.879><c> meal</c><00:02:11.239><c> options</c>
+plan elements like meal options
+plan elements like meal options
+cancellation<00:02:12.840><c> policies</c><00:02:13.840><c> price</c><00:02:14.160><c> range</c><00:02:14.720><c> and</c>
+cancellation policies price range and
+cancellation policies price range and
+specific<00:02:15.319><c> room</c><00:02:15.560><c> names</c><00:02:16.319><c> which</c><00:02:16.519><c> reflect</c><00:02:16.920><c> in</c><00:02:17.040><c> the</c>
+specific room names which reflect in the
+specific room names which reflect in the
+search<00:02:17.480><c> results</c><00:02:18.040><c> along</c><00:02:18.360><c> with</c>
+search results along with
+search results along with
+rooms<00:02:20.319><c> use</c><00:02:20.640><c> these</c><00:02:20.879><c> quick</c><00:02:21.120><c> filters</c><00:02:21.560><c> to</c><00:02:21.760><c> refine</c>
+rooms use these quick filters to refine
+rooms use these quick filters to refine
+your<00:02:22.239><c> search</c><00:02:23.040><c> as</c><00:02:23.200><c> we</c><00:02:23.400><c> provide</c><00:02:23.800><c> option</c><00:02:24.160><c> to</c><00:02:24.319><c> sort</c>
+your search as we provide option to sort
+your search as we provide option to sort
+your<00:02:24.800><c> results</c><00:02:25.360><c> with</c><00:02:25.599><c> lowest</c><00:02:26.120><c> to</c><00:02:26.360><c> highest</c>
+your results with lowest to highest
+your results with lowest to highest
+price<00:02:27.360><c> and</c><00:02:27.560><c> vice</c>
+price and vice
+price and vice
+versa<00:02:29.519><c> book</c><00:02:29.959><c> rooms</c><00:02:30.239><c> directly</c><00:02:30.599><c> from</c><00:02:30.760><c> the</c>
+versa book rooms directly from the
+versa book rooms directly from the
+listing<00:02:31.280><c> page</c><00:02:31.920><c> as</c><00:02:32.080><c> we</c><00:02:32.280><c> provide</c><00:02:32.519><c> a</c><00:02:32.720><c> faster</c>
+listing page as we provide a faster
+listing page as we provide a faster
+booking
+booking
+booking
+experience<00:02:35.440><c> to</c><00:02:35.599><c> search</c><00:02:35.879><c> for</c><00:02:36.040><c> a</c><00:02:36.200><c> hotel</c><00:02:36.640><c> that</c><00:02:36.760><c> is</c>
+experience to search for a hotel that is
+experience to search for a hotel that is
+directly<00:02:37.400><c> contracted</c><00:02:38.000><c> by</c><00:02:38.159><c> TBO</c><00:02:39.159><c> use</c><00:02:39.440><c> this</c>
+directly contracted by TBO use this
+directly contracted by TBO use this
+filter<00:02:39.920><c> for</c><00:02:40.120><c> TBO</c>
+filter for TBO
+filter for TBO
+preferred<00:02:42.519><c> here</c><00:02:42.680><c> you</c><00:02:42.800><c> can</c><00:02:42.920><c> see</c><00:02:43.159><c> TBO</c><00:02:43.680><c> preferred</c>
+preferred here you can see TBO preferred
+preferred here you can see TBO preferred
+tag<00:02:44.360><c> on</c><00:02:44.519><c> the</c><00:02:44.640><c> hotels</c><00:02:45.400><c> as</c><00:02:45.519><c> you</c><00:02:45.640><c> have</c><00:02:45.800><c> applied</c>
+tag on the hotels as you have applied
+tag on the hotels as you have applied
+the
+the
+the
+filters<00:02:48.200><c> you</c><00:02:48.319><c> can</c><00:02:48.480><c> check</c><00:02:48.720><c> the</c><00:02:48.840><c> TBO</c><00:02:49.519><c> Plus</c>
+filters you can check the TBO Plus
+filters you can check the TBO Plus
+reward<00:02:50.159><c> points</c><00:02:50.800><c> which</c><00:02:50.959><c> you</c><00:02:51.040><c> can</c><00:02:51.239><c> get</c><00:02:51.360><c> for</c><00:02:51.599><c> this</c>
+reward points which you can get for this
+reward points which you can get for this
+booking<00:02:52.879><c> TBO</c><00:02:53.480><c> plus</c><00:02:53.800><c> is</c><00:02:53.959><c> our</c><00:02:54.120><c> Flagship</c><00:02:54.599><c> loyalty</c>
+booking TBO plus is our Flagship loyalty
+booking TBO plus is our Flagship loyalty
+program<00:02:55.480><c> for</c><00:02:55.640><c> our</c>
+program for our
+program for our
+Bookers<00:02:57.720><c> as</c><00:02:57.840><c> you</c><00:02:58.000><c> choose</c><00:02:58.239><c> to</c><00:02:58.400><c> view</c><00:02:58.640><c> room</c><00:02:58.959><c> of</c><00:02:59.080><c> a</c>
+Bookers as you choose to view room of a
+Bookers as you choose to view room of a
+particular<00:02:59.560><c> Hotel</c><00:02:59.840><c> Hotel</c><00:03:00.599><c> you</c><00:03:00.720><c> can</c><00:03:00.879><c> see</c><00:03:01.200><c> all</c>
+particular Hotel Hotel you can see all
+particular Hotel Hotel you can see all
+the<00:03:01.560><c> details</c><00:03:01.959><c> in</c><00:03:02.200><c> place</c><00:03:02.560><c> such</c><00:03:02.760><c> as</c><00:03:02.920><c> available</c>
+the details in place such as available
+the details in place such as available
+rooms<00:03:04.239><c> images</c><00:03:05.120><c> Hotel</c><00:03:05.519><c> details</c><00:03:06.440><c> the</c><00:03:06.560><c> amenities</c>
+rooms images Hotel details the amenities
+rooms images Hotel details the amenities
+and<00:03:07.400><c> all</c><00:03:07.599><c> the</c><00:03:07.799><c> search</c><00:03:08.120><c> criteria</c><00:03:08.640><c> we</c><00:03:08.799><c> inserted</c>
+and all the search criteria we inserted
+and all the search criteria we inserted
+initially<00:03:11.239><c> the</c><00:03:11.400><c> unique</c><00:03:11.760><c> feature</c><00:03:12.120><c> which</c><00:03:12.280><c> we</c>
+initially the unique feature which we
+initially the unique feature which we
+offer<00:03:12.799><c> here</c><00:03:13.120><c> is</c><00:03:13.239><c> you</c><00:03:13.360><c> can</c><00:03:13.560><c> select</c><00:03:14.040><c> up</c><00:03:14.200><c> to</c><00:03:14.440><c> five</c>
+offer here is you can select up to five
+offer here is you can select up to five
+rooms<00:03:15.360><c> and</c><00:03:15.519><c> create</c><00:03:15.799><c> a</c><00:03:15.920><c> quote</c><00:03:16.159><c> in</c><00:03:16.400><c> PDF</c><00:03:17.400><c> which</c>
+rooms and create a quote in PDF which
+rooms and create a quote in PDF which
+can<00:03:17.680><c> be</c><00:03:17.840><c> sent</c><00:03:18.080><c> to</c><00:03:18.200><c> your</c>
+can be sent to your
+can be sent to your
+customers<00:03:20.400><c> each</c><00:03:20.640><c> quote</c><00:03:21.000><c> can</c><00:03:21.159><c> include</c><00:03:21.560><c> custom</c>
+customers each quote can include custom
+customers each quote can include custom
+markup<00:03:22.599><c> with</c><00:03:22.799><c> options</c><00:03:23.120><c> to</c><00:03:23.319><c> hide</c><00:03:23.599><c> prices</c><00:03:24.159><c> and</c>
+markup with options to hide prices and
+markup with options to hide prices and
+cancellation<00:03:25.120><c> policies</c><00:03:26.120><c> download</c><00:03:26.599><c> as</c>
+cancellation policies download as
+cancellation policies download as
+desired<00:03:27.519><c> and</c><00:03:27.640><c> share</c><00:03:27.959><c> the</c><00:03:28.159><c> PDF</c><00:03:28.640><c> with</c><00:03:28.760><c> your</c>
+desired and share the PDF with your
+desired and share the PDF with your
+agent
+agent
+agent
+here<00:03:30.840><c> we</c><00:03:30.959><c> will</c><00:03:31.120><c> be</c><00:03:31.280><c> prompted</c><00:03:31.680><c> to</c><00:03:31.799><c> enter</c><00:03:32.080><c> the</c>
+here we will be prompted to enter the
+here we will be prompted to enter the
+customer
+customer
+customer
+details<00:03:34.599><c> enter</c><00:03:34.879><c> the</c><00:03:35.040><c> name</c><00:03:35.239><c> and</c><00:03:35.400><c> surname</c><00:03:36.000><c> the</c>
+details enter the name and surname the
+details enter the name and surname the
+rest<00:03:36.360><c> is</c><00:03:36.519><c> not</c><00:03:36.920><c> mandatory</c><00:03:37.920><c> the</c><00:03:38.080><c> mandatory</c>
+rest is not mandatory the mandatory
+rest is not mandatory the mandatory
+fields<00:03:38.959><c> to</c><00:03:39.080><c> be</c><00:03:39.239><c> filled</c><00:03:39.760><c> are</c><00:03:39.959><c> the</c><00:03:40.080><c> ones</c><00:03:40.360><c> with</c>
+fields to be filled are the ones with
+fields to be filled are the ones with
+the<00:03:40.640><c> red</c>
+the red
+the red
+star<00:03:42.640><c> arrival</c><00:03:43.120><c> details</c><00:03:43.519><c> is</c><00:03:43.680><c> not</c><00:03:43.920><c> mandatory</c>
+star arrival details is not mandatory
+star arrival details is not mandatory
+but<00:03:44.760><c> good</c><00:03:44.920><c> to</c><00:03:45.040><c> mark</c>
+but good to mark
+but good to mark
+this<00:03:47.080><c> before</c><00:03:47.360><c> moving</c><00:03:47.720><c> forward</c><00:03:48.480><c> here</c><00:03:48.640><c> we</c><00:03:48.760><c> can</c>
+this before moving forward here we can
+this before moving forward here we can
+check<00:03:49.159><c> the</c><00:03:49.360><c> last</c><00:03:49.720><c> cancellation</c><00:03:50.319><c> date</c><00:03:50.599><c> once</c>
+check the last cancellation date once
+check the last cancellation date once
+again<00:03:52.560><c> double</c><00:03:52.879><c> check</c><00:03:53.159><c> the</c><00:03:53.280><c> number</c><00:03:53.519><c> of</c><00:03:53.799><c> guest</c>
+again double check the number of guest
+again double check the number of guest
+and<00:03:54.200><c> room</c><00:03:54.519><c> type</c>
+and room type
+and room type
+booked<00:03:56.519><c> followed</c><00:03:56.879><c> by</c><00:03:57.040><c> the</c><00:03:57.200><c> guest</c><00:03:57.439><c> details</c>
+booked followed by the guest details
+booked followed by the guest details
+number<00:03:58.400><c> of</c><00:03:58.519><c> rooms</c><00:03:58.840><c> booked</c><00:03:59.239><c> and</c><00:03:59.360><c> the</c><00:03:59.480><c> guest</c>
+number of rooms booked and the guest
+number of rooms booked and the guest
+nationality<00:04:02.000><c> click</c><00:04:02.200><c> on</c><00:04:02.519><c> proceed</c><00:04:02.879><c> to</c><00:04:03.040><c> booking</c>
+nationality click on proceed to booking
+nationality click on proceed to booking
+review<00:04:04.000><c> to</c><00:04:04.200><c> review</c><00:04:04.480><c> the</c><00:04:04.599><c> booking</c><00:04:05.040><c> one</c><00:04:05.319><c> final</c>
+review to review the booking one final
+review to review the booking one final
+time<00:04:07.360><c> to</c><00:04:07.519><c> generate</c><00:04:07.959><c> the</c><00:04:08.079><c> booking</c><00:04:08.760><c> click</c><00:04:08.959><c> on</c>
+time to generate the booking click on
+time to generate the booking click on
+the<00:04:09.239><c> review</c><00:04:09.760><c> and</c><00:04:09.959><c> agree</c><00:04:10.239><c> with</c><00:04:10.360><c> the</c><00:04:10.519><c> terms</c><00:04:10.799><c> and</c>
+the review and agree with the terms and
+the review and agree with the terms and
+condition<00:04:12.920><c> here</c><00:04:13.079><c> we</c><00:04:13.200><c> get</c><00:04:13.360><c> an</c><00:04:13.560><c> option</c><00:04:13.840><c> to</c>
+condition here we get an option to
+condition here we get an option to
+create<00:04:14.360><c> booking</c><00:04:14.680><c> and</c><00:04:14.879><c> issue</c><00:04:15.159><c> voucher</c><00:04:15.959><c> or</c><00:04:16.160><c> just</c>
+create booking and issue voucher or just
+create booking and issue voucher or just
+create<00:04:16.680><c> booking</c><00:04:16.959><c> and</c><00:04:17.120><c> voucher</c>
+create booking and voucher
+create booking and voucher
+later<00:04:19.280><c> create</c><00:04:19.600><c> booking</c><00:04:19.880><c> and</c><00:04:20.079><c> voucher</c><00:04:20.600><c> later</c>
+later create booking and voucher later
+later create booking and voucher later
+puts<00:04:21.160><c> the</c><00:04:21.280><c> booking</c><00:04:21.519><c> on</c><00:04:21.799><c> timeline</c><00:04:22.360><c> with</c><00:04:22.520><c> free</c>
+puts the booking on timeline with free
+puts the booking on timeline with free
+cancellation<00:04:24.919><c> as</c><00:04:25.080><c> we</c><00:04:25.280><c> proceed</c><00:04:25.880><c> a</c><00:04:26.080><c> popup</c>
+cancellation as we proceed a popup
+cancellation as we proceed a popup
+reminds<00:04:26.880><c> us</c><00:04:27.040><c> of</c><00:04:27.240><c> all</c><00:04:27.440><c> the</c><00:04:27.560><c> norms</c><00:04:28.280><c> and</c><00:04:28.440><c> all</c><00:04:28.600><c> the</c>
+reminds us of all the norms and all the
+reminds us of all the norms and all the
+cancellation<00:04:29.360><c> policies</c>
+cancellation policies
+cancellation policies
+once<00:04:31.639><c> reviewed</c><00:04:32.280><c> proceed</c><00:04:32.720><c> by</c><00:04:32.880><c> selecting</c><00:04:33.320><c> the</c>
+once reviewed proceed by selecting the
+once reviewed proceed by selecting the
+yes
+yes
+yes
+option<00:04:35.560><c> we</c><00:04:35.720><c> confirm</c><00:04:36.440><c> and</c><00:04:36.560><c> the</c><00:04:36.680><c> booking</c><00:04:36.960><c> goes</c>
+option we confirm and the booking goes
+option we confirm and the booking goes
+into<00:04:37.400><c> confirm</c>
+into confirm
+into confirm
+status<00:04:39.800><c> here</c><00:04:39.960><c> you</c><00:04:40.039><c> can</c><00:04:40.160><c> see</c><00:04:40.360><c> autoc</c>
+status here you can see autoc
+status here you can see autoc
+cancellation
+cancellation
+cancellation
+details<00:04:43.120><c> you</c><00:04:43.199><c> will</c><00:04:43.360><c> be</c><00:04:43.560><c> notified</c><00:04:44.039><c> in</c><00:04:44.199><c> advance</c>
+details you will be notified in advance
+details you will be notified in advance
+5<00:04:45.360><c> Days</c><00:04:45.680><c> by</c><00:04:45.919><c> default</c><00:04:46.919><c> every</c><00:04:47.160><c> morning</c><00:04:47.520><c> you</c><00:04:47.639><c> will</c>
+5 Days by default every morning you will
+5 Days by default every morning you will
+receive<00:04:48.160><c> an</c><00:04:48.360><c> email</c><00:04:48.840><c> saying</c><00:04:49.120><c> that</c><00:04:49.320><c> this</c>
+receive an email saying that this
+receive an email saying that this
+booking<00:04:49.840><c> will</c><00:04:49.960><c> be</c><00:04:50.120><c> canceled</c><00:04:50.560><c> in</c><00:04:50.680><c> the</c><00:04:50.800><c> next</c><00:04:51.120><c> 5</c>
+booking will be canceled in the next 5
+booking will be canceled in the next 5
+days<00:04:53.160><c> in</c><00:04:53.280><c> order</c><00:04:53.520><c> to</c><00:04:53.800><c> prevent</c><00:04:54.160><c> this</c><00:04:54.600><c> we</c><00:04:54.720><c> need</c><00:04:54.840><c> to</c>
+days in order to prevent this we need to
+days in order to prevent this we need to
+generate<00:04:55.400><c> the</c>
+generate the
+generate the
+voucher<00:04:57.360><c> once</c><00:04:57.560><c> we</c><00:04:57.759><c> proceed</c><00:04:58.080><c> with</c><00:04:58.280><c> generate</c>
+voucher once we proceed with generate
+voucher once we proceed with generate
+voucher<00:04:59.400><c> which</c><00:04:59.720><c> would</c><00:04:59.840><c> be</c><00:04:59.960><c> taking</c><00:05:00.240><c> us</c><00:05:00.400><c> to</c><00:05:00.560><c> the</c>
+voucher which would be taking us to the
+voucher which would be taking us to the
+TBO<00:05:01.240><c> pay</c><00:05:01.520><c> page</c><00:05:02.080><c> where</c><00:05:02.240><c> we</c><00:05:02.360><c> can</c><00:05:02.520><c> choose</c><00:05:02.960><c> what</c>
+TBO pay page where we can choose what
+TBO pay page where we can choose what
+way<00:05:03.280><c> of</c><00:05:03.440><c> payment</c><00:05:03.800><c> we</c><00:05:03.880><c> want</c><00:05:04.039><c> to</c><00:05:04.240><c> use</c><00:05:05.160><c> available</c>
+way of payment we want to use available
+way of payment we want to use available
+limit<00:05:06.400><c> wallet</c><00:05:06.880><c> or</c><00:05:07.120><c> credit</c><00:05:07.400><c> card</c><00:05:08.000><c> and</c><00:05:08.240><c> other</c>
+limit wallet or credit card and other
+limit wallet or credit card and other
+popular<00:05:08.919><c> payment</c>
+popular payment
+popular payment
+methods<00:05:11.039><c> want</c><00:05:11.199><c> to</c><00:05:11.400><c> cancel</c><00:05:11.759><c> this</c><00:05:11.919><c> booking</c><00:05:12.520><c> just</c>
+methods want to cancel this booking just
+methods want to cancel this booking just
+click<00:05:12.919><c> on</c><00:05:13.120><c> cancel</c>
+click on cancel
+click on cancel
+booking<00:05:15.160><c> once</c><00:05:15.400><c> again</c><00:05:15.759><c> cancellation</c><00:05:16.360><c> policy</c>
+booking once again cancellation policy
+booking once again cancellation policy
+pops<00:05:17.560><c> and</c><00:05:17.720><c> here</c><00:05:17.840><c> we</c><00:05:17.960><c> see</c><00:05:18.240><c> this</c><00:05:18.400><c> booking</c><00:05:18.800><c> can</c>
+pops and here we see this booking can
+pops and here we see this booking can
+still<00:05:19.199><c> be</c><00:05:19.400><c> cancelled</c><00:05:19.800><c> free</c><00:05:20.000><c> of</c><00:05:20.160><c> charge</c><00:05:20.919><c> until</c>
+still be cancelled free of charge until
+still be cancelled free of charge until
+8<00:05:21.520><c> June</c>
+8 June
+8 June
+2025<00:05:24.240><c> to</c><00:05:24.440><c> proceed</c><00:05:24.759><c> to</c><00:05:24.960><c> cancel</c><00:05:25.319><c> this</c><00:05:25.479><c> booking</c>
+2025 to proceed to cancel this booking
+2025 to proceed to cancel this booking
+we<00:05:26.360><c> will</c><00:05:26.560><c> have</c><00:05:26.680><c> to</c><00:05:26.840><c> write</c><00:05:27.039><c> a</c><00:05:27.160><c> certain</c><00:05:27.479><c> remark</c>
+we will have to write a certain remark
+we will have to write a certain remark
+and<00:05:28.319><c> then</c><00:05:28.560><c> cancel</c><00:05:28.919><c> it</c>
+and then cancel it
+and then cancel it
+as<00:05:30.639><c> you</c><00:05:30.759><c> can</c><00:05:30.880><c> see</c><00:05:31.199><c> here</c><00:05:31.479><c> the</c><00:05:31.600><c> booking</c><00:05:31.919><c> is</c>
+as you can see here the booking is
+as you can see here the booking is
+cancelled<00:05:34.000><c> the</c><00:05:34.160><c> moment</c><00:05:34.479><c> it</c><00:05:34.600><c> is</c><00:05:34.800><c> canell</c><00:05:35.440><c> a</c>
+cancelled the moment it is canell a
+cancelled the moment it is canell a
+credit<00:05:35.840><c> note</c><00:05:36.120><c> is</c><00:05:36.280><c> generated</c><00:05:37.120><c> and</c><00:05:37.240><c> The</c><00:05:37.319><c> Ledger</c>
+credit note is generated and The Ledger
+credit note is generated and The Ledger
+will<00:05:37.880><c> be</c><00:05:38.000><c> set</c><00:05:38.319><c> back</c><00:05:38.520><c> to</c><00:05:38.800><c> zero</c><00:05:39.600><c> and</c><00:05:39.800><c> refund</c><00:05:40.240><c> will</c>
+will be set back to zero and refund will
+will be set back to zero and refund will
+be<00:05:40.520><c> in</c>
+be in
+be in
+process<00:05:42.639><c> all</c><00:05:42.840><c> the</c><00:05:43.000><c> hotel</c><00:05:43.360><c> bookings</c><00:05:43.840><c> made</c><00:05:44.280><c> are</c>
+process all the hotel bookings made are
+process all the hotel bookings made are
+found<00:05:44.720><c> in</c><00:05:44.840><c> the</c><00:05:45.000><c> cues</c><00:05:45.319><c> on</c><00:05:45.440><c> the</c>
+found in the cues on the
+found in the cues on the
+homepage<00:05:47.560><c> you</c><00:05:47.680><c> can</c><00:05:47.840><c> search</c><00:05:48.120><c> your</c><00:05:48.319><c> booking</c><00:05:48.840><c> by</c>
+homepage you can search your booking by
+homepage you can search your booking by
+using<00:05:49.319><c> quick</c><00:05:49.520><c> filters</c><00:05:50.039><c> given</c><00:05:50.360><c> below</c><00:05:51.240><c> simply</c>
+using quick filters given below simply
+using quick filters given below simply
+type<00:05:51.880><c> the</c><00:05:52.039><c> details</c><00:05:52.440><c> to</c><00:05:52.639><c> retrieve</c>
+type the details to retrieve
+type the details to retrieve
+bookings<00:05:55.000><c> happy</c><00:05:55.280><c> selling</c>
+bookings happy selling
+bookings happy selling
+[Music]

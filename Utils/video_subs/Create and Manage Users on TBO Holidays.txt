@@ -1,0 +1,36 @@
+Kind: captions
+Language: en
+hey<00:00:00.280><c> travel</c><00:00:00.640><c> agents</c><00:00:01.240><c> setting</c><00:00:01.560><c> up</c><00:00:01.760><c> users</c><00:00:02.120><c> on</c>
+hey travel agents setting up users on
+hey travel agents setting up users on
+TBO<00:00:02.840><c> holidays</c><00:00:03.280><c> is</c><00:00:03.439><c> quick</c><00:00:03.600><c> and</c><00:00:03.800><c> easy</c><00:00:04.400><c> here's</c>
+TBO holidays is quick and easy here's
+TBO holidays is quick and easy here's
+how<00:00:05.319><c> first</c><00:00:05.759><c> log</c><00:00:06.000><c> into</c><00:00:06.279><c> your</c><00:00:06.399><c> TBO</c><00:00:06.879><c> holidays</c>
+how first log into your TBO holidays
+how first log into your TBO holidays
+account<00:00:08.120><c> next</c><00:00:08.599><c> click</c><00:00:08.800><c> on</c><00:00:08.920><c> the</c><00:00:09.040><c> admin</c><00:00:09.440><c> tab</c><00:00:09.639><c> at</c>
+account next click on the admin tab at
+account next click on the admin tab at
+the<00:00:09.960><c> top</c><00:00:10.639><c> then</c><00:00:11.000><c> select</c><00:00:11.440><c> create</c><00:00:11.799><c> user</c><00:00:12.480><c> fill</c><00:00:12.719><c> in</c>
+the top then select create user fill in
+the top then select create user fill in
+all<00:00:13.000><c> the</c><00:00:13.160><c> required</c><00:00:13.599><c> details</c><00:00:14.120><c> like</c><00:00:14.280><c> subuser</c>
+all the required details like subuser
+all the required details like subuser
+details<00:00:15.679><c> and</c><00:00:16.000><c> personal</c><00:00:16.320><c> details</c><00:00:17.320><c> like</c><00:00:17.640><c> name</c>
+details and personal details like name
+details and personal details like name
+address<00:00:18.480><c> and</c><00:00:18.680><c> email</c><00:00:19.039><c> are</c><00:00:19.199><c> the</c><00:00:19.320><c> mandatory</c><00:00:19.880><c> ones</c>
+address and email are the mandatory ones
+address and email are the mandatory ones
+once<00:00:20.760><c> you're</c><00:00:21.000><c> done</c><00:00:21.560><c> hit</c><00:00:21.840><c> save</c><00:00:22.680><c> that's</c><00:00:22.920><c> it</c>
+once you're done hit save that's it
+once you're done hit save that's it
+you're<00:00:23.760><c> all</c><00:00:24.000><c> set</c><00:00:24.199><c> to</c><00:00:24.320><c> manage</c><00:00:24.640><c> users</c>
+you're all set to manage users
+you're all set to manage users
+effortlessly<00:00:26.240><c> start</c><00:00:26.560><c> now</c><00:00:26.800><c> and</c><00:00:27.000><c> simplify</c><00:00:27.439><c> your</c>
+effortlessly start now and simplify your
+effortlessly start now and simplify your
+booking<00:00:27.880><c> Journey</c><00:00:28.199><c> with</c><00:00:28.359><c> TBO</c><00:00:28.840><c> holidays</c>

@@ -1,0 +1,6 @@
+{
+    "Status": {
+        "Code": 400,
+        "Description": "Invalid checkIn date 2025-11-20. CheckIn date must be greater than or equal to destination's today date."
+    }
+}

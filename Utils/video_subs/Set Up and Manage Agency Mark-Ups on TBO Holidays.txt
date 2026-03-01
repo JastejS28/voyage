@@ -1,0 +1,93 @@
+Kind: captions
+Language: en
+welcome<00:00:00.399><c> to</c><00:00:00.560><c> the</c><00:00:00.680><c> TBO</c><00:00:01.199><c> holidays</c><00:00:01.719><c> guide</c><00:00:01.959><c> to</c>
+welcome to the TBO holidays guide to
+welcome to the TBO holidays guide to
+setting<00:00:02.360><c> up</c><00:00:02.520><c> your</c><00:00:02.679><c> agency</c><00:00:03.120><c> markup</c><00:00:04.080><c> let's</c><00:00:04.279><c> see</c>
+setting up your agency markup let's see
+setting up your agency markup let's see
+how<00:00:04.600><c> you</c><00:00:04.720><c> can</c><00:00:04.880><c> add</c><00:00:05.000><c> a</c><00:00:05.120><c> markup</c><00:00:05.480><c> to</c><00:00:05.600><c> your</c><00:00:05.799><c> agency</c>
+how you can add a markup to your agency
+how you can add a markup to your agency
+profile<00:00:07.040><c> simply</c><00:00:07.359><c> log</c><00:00:07.600><c> in</c><00:00:07.680><c> to</c><00:00:07.839><c> your</c><00:00:08.000><c> TBO</c>
+profile simply log in to your TBO
+profile simply log in to your TBO
+holidays<00:00:09.000><c> account</c><00:00:09.599><c> click</c><00:00:09.800><c> on</c><00:00:09.960><c> edit</c><00:00:10.240><c> profile</c>
+holidays account click on edit profile
+holidays account click on edit profile
+in<00:00:10.759><c> the</c><00:00:10.960><c> top</c><00:00:11.200><c> right</c><00:00:11.360><c> corner</c><00:00:11.960><c> on</c><00:00:12.120><c> the</c><00:00:12.280><c> left</c><00:00:12.559><c> side</c>
+in the top right corner on the left side
+in the top right corner on the left side
+you'll<00:00:13.160><c> see</c><00:00:13.400><c> the</c><00:00:13.559><c> option</c><00:00:13.839><c> called</c><00:00:14.080><c> markup</c><00:00:14.719><c> set</c>
+you'll see the option called markup set
+you'll see the option called markup set
+your<00:00:15.160><c> preferred</c><00:00:15.559><c> percentage</c><00:00:16.000><c> or</c><00:00:16.199><c> amount</c><00:00:16.840><c> and</c>
+your preferred percentage or amount and
+your preferred percentage or amount and
+don't<00:00:17.160><c> forget</c><00:00:17.400><c> to</c><00:00:17.560><c> click</c><00:00:17.760><c> save</c><00:00:18.000><c> changes</c><00:00:18.880><c> but</c>
+don't forget to click save changes but
+don't forget to click save changes but
+wait<00:00:19.439><c> there's</c><00:00:19.680><c> another</c><00:00:19.960><c> way</c><00:00:20.080><c> to</c><00:00:20.240><c> add</c><00:00:20.359><c> a</c><00:00:20.480><c> markup</c>
+wait there's another way to add a markup
+wait there's another way to add a markup
+directly<00:00:21.279><c> while</c><00:00:21.439><c> booking</c><00:00:21.720><c> a</c><00:00:21.880><c> hotel</c><00:00:22.600><c> start</c><00:00:22.920><c> by</c>
+directly while booking a hotel start by
+directly while booking a hotel start by
+clicking<00:00:23.359><c> on</c><00:00:23.519><c> Hotel</c><00:00:24.000><c> search</c><00:00:24.640><c> enter</c><00:00:24.920><c> your</c>
+clicking on Hotel search enter your
+clicking on Hotel search enter your
+destination<00:00:25.960><c> like</c><00:00:26.279><c> Dubai</c><00:00:26.920><c> and</c><00:00:27.039><c> your</c><00:00:27.240><c> travel</c>
+destination like Dubai and your travel
+destination like Dubai and your travel
+dates<00:00:28.240><c> once</c><00:00:28.439><c> you've</c><00:00:28.679><c> selected</c><00:00:29.080><c> the</c><00:00:29.199><c> hotel</c><00:00:29.519><c> you</c>
+dates once you've selected the hotel you
+dates once you've selected the hotel you
+want<00:00:30.160><c> click</c><00:00:30.439><c> book</c><00:00:30.720><c> now</c><00:00:31.279><c> select</c><00:00:31.599><c> your</c>
+want click book now select your
+want click book now select your
+preferred<00:00:32.200><c> room</c><00:00:32.520><c> type</c><00:00:33.160><c> and</c><00:00:33.360><c> click</c><00:00:33.600><c> book</c><00:00:33.840><c> now</c>
+preferred room type and click book now
+preferred room type and click book now
+add<00:00:34.559><c> the</c><00:00:34.719><c> guest</c><00:00:34.960><c> details</c><00:00:35.640><c> then</c><00:00:35.800><c> move</c><00:00:36.000><c> to</c><00:00:36.120><c> the</c>
+add the guest details then move to the
+add the guest details then move to the
+booking<00:00:36.520><c> review</c><00:00:36.920><c> section</c><00:00:37.559><c> now</c><00:00:37.760><c> click</c><00:00:38.000><c> on</c>
+booking review section now click on
+booking review section now click on
+proceed<00:00:38.440><c> to</c><00:00:38.600><c> booking</c><00:00:38.879><c> review</c><00:00:39.680><c> on</c><00:00:39.800><c> the</c><00:00:39.960><c> right</c>
+proceed to booking review on the right
+proceed to booking review on the right
+hand<00:00:40.480><c> side</c><00:00:40.879><c> you'll</c><00:00:41.120><c> find</c><00:00:41.320><c> an</c><00:00:41.480><c> option</c><00:00:41.680><c> to</c><00:00:41.840><c> add</c>
+hand side you'll find an option to add
+hand side you'll find an option to add
+an<00:00:42.120><c> extra</c><00:00:42.360><c> markup</c><00:00:43.160><c> enter</c><00:00:43.480><c> the</c><00:00:43.640><c> amount</c><00:00:43.920><c> or</c>
+an extra markup enter the amount or
+an extra markup enter the amount or
+percentage<00:00:44.879><c> click</c><00:00:45.160><c> apply</c><00:00:45.719><c> and</c><00:00:45.879><c> you're</c><00:00:46.079><c> good</c>
+percentage click apply and you're good
+percentage click apply and you're good
+to<00:00:46.399><c> go</c><00:00:46.879><c> for</c><00:00:47.039><c> flight</c><00:00:47.320><c> markups</c><00:00:48.280><c> hover</c><00:00:48.559><c> to</c>
+to go for flight markups hover to
+to go for flight markups hover to
+flights<00:00:49.079><c> option</c><00:00:49.320><c> and</c><00:00:49.480><c> click</c><00:00:49.719><c> search</c><00:00:50.520><c> next</c>
+flights option and click search next
+flights option and click search next
+head<00:00:51.120><c> to</c><00:00:51.280><c> the</c><00:00:51.440><c> agency</c><00:00:51.920><c> profile</c><00:00:52.399><c> section</c><00:00:52.640><c> on</c>
+head to the agency profile section on
+head to the agency profile section on
+the<00:00:52.960><c> top</c><00:00:53.239><c> right</c><00:00:53.960><c> fill</c><00:00:54.160><c> in</c><00:00:54.320><c> your</c><00:00:54.480><c> desired</c>
+the top right fill in your desired
+the top right fill in your desired
+details<00:00:55.520><c> and</c><00:00:55.719><c> hit</c><00:00:55.920><c> save</c><00:00:56.719><c> and</c><00:00:56.879><c> that's</c><00:00:57.120><c> it</c>
+details and hit save and that's it
+details and hit save and that's it
+setting<00:00:58.120><c> up</c><00:00:58.280><c> and</c><00:00:58.440><c> managing</c><00:00:58.840><c> your</c><00:00:59.039><c> agency</c>
+setting up and managing your agency
+setting up and managing your agency
+markups<00:01:00.000><c> on</c><00:01:00.120><c> TBO</c><00:01:00.640><c> holidays</c><00:01:01.079><c> is</c><00:01:01.280><c> simple</c><00:01:01.840><c> quick</c>
+markups on TBO holidays is simple quick
+markups on TBO holidays is simple quick
+and<00:01:02.440><c> puts</c><00:01:02.640><c> you</c><00:01:02.760><c> in</c><00:01:02.960><c> control</c><00:01:03.920><c> start</c><00:01:04.280><c> now</c><00:01:04.479><c> and</c>
+and puts you in control start now and
+and puts you in control start now and
+make<00:01:04.799><c> the</c><00:01:04.920><c> most</c><00:01:05.080><c> of</c><00:01:05.199><c> your</c><00:01:05.360><c> bookings</c>

@@ -1,0 +1,387 @@
+Kind: captions
+Language: en
+hello<00:00:00.440><c> partner</c><00:00:01.400><c> welcome</c><00:00:01.719><c> to</c><00:00:01.919><c> TBO</c><00:00:02.919><c> let</c><00:00:03.080><c> me</c>
+hello partner welcome to TBO let me
+hello partner welcome to TBO let me
+introduce<00:00:03.719><c> you</c><00:00:03.919><c> to</c><00:00:04.080><c> our</c><00:00:04.240><c> Flagship</c><00:00:04.799><c> loyalty</c>
+introduce you to our Flagship loyalty
+introduce you to our Flagship loyalty
+program<00:00:06.080><c> which</c><00:00:06.200><c> is</c><00:00:06.399><c> TBO</c><00:00:07.000><c> Plus</c><00:00:07.240><c> reward</c>
+program which is TBO Plus reward
+program which is TBO Plus reward
+points<00:00:09.440><c> let</c><00:00:09.599><c> us</c><00:00:10.160><c> understand</c><00:00:10.440><c> what</c><00:00:10.559><c> are</c><00:00:10.800><c> Reward</c>
+points let us understand what are Reward
+points let us understand what are Reward
+Points<00:00:12.440><c> the</c><00:00:12.599><c> points</c><00:00:12.920><c> which</c><00:00:13.040><c> are</c><00:00:13.280><c> credited</c><00:00:13.679><c> for</c>
+Points the points which are credited for
+Points the points which are credited for
+bookings<00:00:14.559><c> made</c><00:00:14.719><c> for</c><00:00:14.920><c> flights</c><00:00:15.320><c> and</c><00:00:15.519><c> hotels</c><00:00:16.359><c> are</c>
+bookings made for flights and hotels are
+bookings made for flights and hotels are
+called<00:00:16.920><c> as</c><00:00:17.160><c> Reward</c>
+called as Reward
+called as Reward
+Points<00:00:19.359><c> want</c><00:00:19.520><c> to</c><00:00:19.680><c> know</c><00:00:19.920><c> how</c><00:00:20.039><c> many</c><00:00:20.320><c> reward</c>
+Points want to know how many reward
+Points want to know how many reward
+points<00:00:20.960><c> you</c><00:00:21.080><c> have</c><00:00:21.320><c> acquired</c><00:00:22.320><c> just</c><00:00:22.560><c> click</c><00:00:22.760><c> on</c>
+points you have acquired just click on
+points you have acquired just click on
+my<00:00:23.199><c> rewards</c><00:00:23.880><c> and</c><00:00:24.039><c> you</c><00:00:24.160><c> will</c><00:00:24.279><c> see</c><00:00:24.480><c> your</c>
+my rewards and you will see your
+my rewards and you will see your
+accumulated<00:00:25.320><c> and</c><00:00:25.519><c> acquired</c><00:00:25.920><c> Reward</c>
+accumulated and acquired Reward
+accumulated and acquired Reward
+Points<00:00:28.119><c> the</c><00:00:28.279><c> accumulated</c><00:00:28.920><c> reward</c><00:00:29.279><c> points</c><00:00:29.519><c> are</c>
+Points the accumulated reward points are
+Points the accumulated reward points are
+credit<00:00:29.960><c> Ed</c><00:00:30.240><c> to</c><00:00:30.359><c> your</c><00:00:30.560><c> account</c><00:00:30.960><c> upon</c><00:00:31.279><c> booking</c>
+credit Ed to your account upon booking
+credit Ed to your account upon booking
+creation<00:00:33.680><c> acquired</c><00:00:34.120><c> reward</c><00:00:34.520><c> points</c><00:00:34.879><c> are</c>
+creation acquired reward points are
+creation acquired reward points are
+credited<00:00:35.520><c> on</c><00:00:35.680><c> the</c><00:00:35.800><c> booking</c><00:00:36.280><c> consumption</c>
+credited on the booking consumption
+credited on the booking consumption
+which<00:00:37.480><c> further</c><00:00:37.800><c> can</c><00:00:38.000><c> be</c><00:00:38.160><c> used</c><00:00:38.480><c> to</c><00:00:38.680><c> purchase</c>
+which further can be used to purchase
+which further can be used to purchase
+different<00:00:39.440><c> vouchers</c><00:00:40.399><c> settle</c><00:00:40.800><c> your</c><00:00:41.000><c> existing</c>
+different vouchers settle your existing
+different vouchers settle your existing
+bookings<00:00:42.079><c> and</c>
+bookings and
+bookings and
+more<00:00:44.000><c> to</c><00:00:44.200><c> redeem</c><00:00:44.520><c> your</c><00:00:44.719><c> reward</c><00:00:45.120><c> points</c><00:00:45.600><c> click</c>
+more to redeem your reward points click
+more to redeem your reward points click
+on<00:00:46.079><c> go</c><00:00:46.239><c> to</c><00:00:46.399><c> My</c>
+on go to My
+on go to My
+Rewards<00:00:48.199><c> on</c><00:00:48.480><c> top</c><00:00:48.719><c> right</c><00:00:49.079><c> you</c><00:00:49.199><c> will</c><00:00:49.399><c> find</c><00:00:49.600><c> your</c>
+Rewards on top right you will find your
+Rewards on top right you will find your
+tier<00:00:50.199><c> category</c><00:00:51.199><c> want</c><00:00:51.399><c> to</c><00:00:51.600><c> increase</c><00:00:51.920><c> your</c>
+tier category want to increase your
+tier category want to increase your
+earnings<00:00:53.000><c> then</c><00:00:53.199><c> reach</c><00:00:53.399><c> your</c><00:00:53.559><c> targets</c><00:00:54.000><c> early</c>
+earnings then reach your targets early
+earnings then reach your targets early
+and<00:00:54.559><c> get</c><00:00:54.719><c> upgraded</c><00:00:55.239><c> by</c><00:00:55.359><c> the</c><00:00:55.480><c> end</c><00:00:55.640><c> of</c><00:00:55.760><c> the</c><00:00:55.879><c> each</c>
+and get upgraded by the end of the each
+and get upgraded by the end of the each
+month<00:00:57.879><c> hover</c><00:00:58.160><c> on</c><00:00:58.320><c> the</c><00:00:58.440><c> tier</c><00:00:59.000><c> and</c><00:00:59.120><c> you</c><00:00:59.239><c> see</c><00:00:59.440><c> a</c>
+month hover on the tier and you see a
+month hover on the tier and you see a
+pop-up<00:01:00.079><c> stating</c><00:01:00.800><c> why</c><00:01:00.960><c> am</c><00:01:01.079><c> I</c><00:01:01.199><c> seeing</c><00:01:01.719><c> this</c>
+pop-up stating why am I seeing this
+pop-up stating why am I seeing this
+click<00:01:02.920><c> to</c><00:01:03.440><c> understand</c><00:01:03.640><c> in</c><00:01:03.840><c> detail</c><00:01:04.239><c> about</c><00:01:04.479><c> this</c>
+click to understand in detail about this
+click to understand in detail about this
+Flagship
+Flagship
+Flagship
+program<00:01:07.119><c> continue</c><00:01:07.520><c> to</c><00:01:07.680><c> enjoy</c><00:01:08.040><c> the</c><00:01:08.159><c> tier</c>
+program continue to enjoy the tier
+program continue to enjoy the tier
+benefits<00:01:08.880><c> around</c><00:01:09.159><c> the</c><00:01:09.320><c> year</c><00:01:09.880><c> as</c><00:01:10.040><c> we</c><00:01:10.159><c> have</c><00:01:10.320><c> four</c>
+benefits around the year as we have four
+benefits around the year as we have four
+categories<00:01:11.280><c> where</c><00:01:11.400><c> you</c><00:01:11.560><c> get</c><00:01:11.720><c> upgraded</c><00:01:12.320><c> each</c>
+categories where you get upgraded each
+categories where you get upgraded each
+month<00:01:13.159><c> depending</c><00:01:13.520><c> on</c><00:01:13.640><c> the</c><00:01:13.759><c> business</c><00:01:14.080><c> you</c><00:01:14.200><c> do</c>
+month depending on the business you do
+month depending on the business you do
+with
+with
+with
+us<00:01:16.320><c> this</c><00:01:16.520><c> starts</c><00:01:16.840><c> with</c><00:01:17.000><c> silver</c><00:01:17.439><c> initially</c><00:01:17.840><c> for</c>
+us this starts with silver initially for
+us this starts with silver initially for
+everyone<00:01:18.920><c> where</c><00:01:19.040><c> you</c><00:01:19.200><c> win</c><00:01:19.439><c> reward</c><00:01:19.840><c> points</c><00:01:20.119><c> on</c>
+everyone where you win reward points on
+everyone where you win reward points on
+all<00:01:20.520><c> flight</c><00:01:20.840><c> and</c><00:01:21.040><c> hotel</c><00:01:21.360><c> booking</c>
+all flight and hotel booking
+all flight and hotel booking
+consumptions<00:01:23.759><c> annual</c><00:01:24.159><c> business</c><00:01:24.479><c> of</c><00:01:24.640><c> the</c>
+consumptions annual business of the
+consumptions annual business of the
+range<00:01:25.400><c> $25,000</c><00:01:26.400><c> to</c><00:01:26.880><c> $50,000</c><00:01:27.880><c> gets</c><00:01:28.040><c> you</c>
+range $25,000 to $50,000 gets you
+range $25,000 to $50,000 gets you
+upgraded<00:01:28.600><c> to</c><00:01:28.759><c> Gold</c><00:01:29.079><c> category</c><00:01:29.920><c> where</c><00:01:30.000><c> you</c><00:01:30.119><c> win</c>
+upgraded to Gold category where you win
+upgraded to Gold category where you win
+1.2x<00:01:31.360><c> Reward</c>
+1.2x Reward
+1.2x Reward
+Points<00:01:33.520><c> annual</c><00:01:33.880><c> business</c><00:01:34.159><c> of</c><00:01:34.320><c> the</c><00:01:34.439><c> range</c><00:01:35.040><c> $50</c>
+Points annual business of the range $50
+Points annual business of the range $50
+to
+to
+to
+$75,000<00:01:37.640><c> gets</c><00:01:37.920><c> you</c><00:01:38.040><c> upgraded</c><00:01:38.520><c> to</c><00:01:38.680><c> platinum</c>
+$75,000 gets you upgraded to platinum
+$75,000 gets you upgraded to platinum
+category<00:01:40.040><c> where</c><00:01:40.159><c> you</c><00:01:40.280><c> win</c><00:01:40.720><c> 1.6x</c><00:01:41.720><c> Reward</c>
+category where you win 1.6x Reward
+category where you win 1.6x Reward
+Points<00:01:43.799><c> want</c><00:01:44.000><c> to</c><00:01:44.119><c> earn</c><00:01:44.360><c> 2x</c><00:01:44.799><c> reward</c><00:01:45.119><c> points</c><00:01:46.000><c> do</c>
+Points want to earn 2x reward points do
+Points want to earn 2x reward points do
+annual<00:01:46.600><c> business</c><00:01:47.000><c> of</c><00:01:47.240><c> 75,000</c><00:01:48.240><c> USD</c><00:01:48.719><c> and</c><00:01:48.880><c> above</c>
+annual business of 75,000 USD and above
+annual business of 75,000 USD and above
+and<00:01:49.759><c> multiply</c><00:01:50.280><c> the</c><00:01:50.399><c> reward</c>
+and multiply the reward
+and multiply the reward
+points<00:01:52.439><c> still</c><00:01:52.719><c> have</c><00:01:52.880><c> any</c><00:01:53.079><c> question</c><00:01:53.360><c> on</c>
+points still have any question on
+points still have any question on
+getting<00:01:53.719><c> enrolled</c><00:01:54.119><c> in</c><00:01:54.240><c> this</c><00:01:54.439><c> program</c><00:01:55.159><c> just</c>
+getting enrolled in this program just
+getting enrolled in this program just
+click<00:01:55.560><c> on</c><00:01:55.680><c> the</c><00:01:55.799><c> below</c><00:01:56.159><c> tabs</c><00:01:56.560><c> to</c><00:01:56.719><c> know</c>
+click on the below tabs to know
+click on the below tabs to know
+more<00:01:58.680><c> get</c><00:01:58.840><c> all</c><00:01:59.079><c> tier</c><00:01:59.360><c> related</c><00:01:59.960><c> information</c>
+more get all tier related information
+more get all tier related information
+under<00:02:00.759><c> TBO</c><00:02:01.280><c> plus</c><00:02:01.479><c> tiers</c><00:02:02.280><c> and</c><00:02:02.479><c> stay</c><00:02:02.759><c> updated</c><00:02:03.200><c> on</c>
+under TBO plus tiers and stay updated on
+under TBO plus tiers and stay updated on
+tier
+tier
+tier
+categories<00:02:05.840><c> click</c><00:02:06.039><c> on</c><00:02:06.159><c> the</c><00:02:06.320><c> below</c><00:02:06.680><c> tabs</c><00:02:07.000><c> to</c>
+categories click on the below tabs to
+categories click on the below tabs to
+know<00:02:07.320><c> more</c><00:02:07.560><c> on</c><00:02:07.719><c> how</c><00:02:07.880><c> to</c><00:02:08.000><c> earn</c><00:02:08.239><c> and</c><00:02:08.440><c> redeem</c><00:02:08.800><c> the</c>
+know more on how to earn and redeem the
+know more on how to earn and redeem the
+reward
+reward
+reward
+points<00:02:11.200><c> click</c><00:02:11.480><c> here</c><00:02:11.599><c> to</c><00:02:11.760><c> move</c><00:02:12.000><c> your</c><00:02:12.160><c> reward</c>
+points click here to move your reward
+points click here to move your reward
+points<00:02:12.800><c> to</c><00:02:12.959><c> the</c><00:02:13.080><c> available</c><00:02:13.480><c> limit</c><00:02:13.800><c> or</c>
+points to the available limit or
+points to the available limit or
+wallet<00:02:15.680><c> enter</c><00:02:16.080><c> the</c><00:02:16.200><c> points</c><00:02:16.519><c> you</c><00:02:16.640><c> wish</c><00:02:16.840><c> to</c>
+wallet enter the points you wish to
+wallet enter the points you wish to
+redeem<00:02:17.680><c> and</c><00:02:17.879><c> carefully</c><00:02:18.280><c> move</c><00:02:18.560><c> them</c><00:02:18.720><c> in</c><00:02:18.840><c> your</c>
+redeem and carefully move them in your
+redeem and carefully move them in your
+wallet<00:02:19.480><c> or</c><00:02:19.720><c> available</c>
+wallet or available
+wallet or available
+limit<00:02:21.959><c> to</c><00:02:22.120><c> check</c><00:02:22.400><c> the</c><00:02:22.519><c> history</c><00:02:22.879><c> of</c><00:02:23.000><c> your</c>
+limit to check the history of your
+limit to check the history of your
+Acquired<00:02:23.599><c> and</c><00:02:23.840><c> accumulated</c><00:02:24.440><c> points</c><00:02:25.239><c> click</c><00:02:25.440><c> on</c>
+Acquired and accumulated points click on
+Acquired and accumulated points click on
+Reward<00:02:26.160><c> Points</c><00:02:26.519><c> history</c>
+Reward Points history
+Reward Points history
+tab<00:02:28.680><c> here</c><00:02:28.840><c> you</c><00:02:28.959><c> can</c><00:02:29.120><c> search</c><00:02:29.440><c> individual</c><00:02:29.879><c> ual</c>
+tab here you can search individual ual
+tab here you can search individual ual
+Booker<00:02:30.440><c> Reward</c><00:02:30.800><c> Points</c><00:02:31.200><c> within</c><00:02:31.519><c> selected</c>
+Booker Reward Points within selected
+Booker Reward Points within selected
+date
+date
+date
+range<00:02:34.000><c> you</c><00:02:34.120><c> can</c><00:02:34.280><c> view</c><00:02:34.519><c> the</c><00:02:34.680><c> reward</c><00:02:35.040><c> points</c><00:02:35.360><c> as</c>
+range you can view the reward points as
+range you can view the reward points as
+a<00:02:35.599><c> ledger</c><00:02:35.920><c> on</c><00:02:36.080><c> the</c><00:02:36.200><c> same</c><00:02:36.480><c> screen</c><00:02:37.160><c> or</c><00:02:37.319><c> we</c><00:02:37.519><c> also</c>
+a ledger on the same screen or we also
+a ledger on the same screen or we also
+provide<00:02:38.160><c> you</c><00:02:38.319><c> with</c><00:02:38.440><c> an</c><00:02:38.640><c> option</c><00:02:38.959><c> to</c><00:02:39.280><c> export</c><00:02:39.720><c> the</c>
+provide you with an option to export the
+provide you with an option to export the
+history<00:02:40.159><c> of</c><00:02:40.319><c> reward</c><00:02:40.720><c> points</c><00:02:41.040><c> into</c><00:02:41.239><c> an</c>
+history of reward points into an
+history of reward points into an
+Excel<00:02:43.280><c> want</c><00:02:43.440><c> to</c><00:02:43.599><c> know</c><00:02:43.800><c> where</c><00:02:43.959><c> all</c><00:02:44.159><c> you</c><00:02:44.280><c> have</c>
+Excel want to know where all you have
+Excel want to know where all you have
+used<00:02:44.640><c> your</c><00:02:44.840><c> reward</c><00:02:45.280><c> points</c><00:02:46.280><c> we</c><00:02:46.360><c> have</c><00:02:46.560><c> made</c>
+used your reward points we have made
+used your reward points we have made
+your<00:02:46.879><c> search</c><00:02:47.280><c> easy</c><00:02:48.200><c> click</c><00:02:48.400><c> on</c><00:02:48.640><c> automatically</c>
+your search easy click on automatically
+your search easy click on automatically
+redeemed<00:02:49.720><c> reward</c><00:02:50.120><c> points</c><00:02:50.599><c> and</c><00:02:50.760><c> get</c><00:02:50.920><c> the</c>
+redeemed reward points and get the
+redeemed reward points and get the
+history<00:02:52.959><c> acquired</c><00:02:53.400><c> the</c><00:02:53.519><c> reward</c><00:02:53.920><c> points</c><00:02:54.200><c> on</c>
+history acquired the reward points on
+history acquired the reward points on
+the<00:02:54.440><c> bookings</c><00:02:55.440><c> it's</c><00:02:55.680><c> time</c><00:02:55.879><c> to</c><00:02:56.080><c> enjoy</c><00:02:56.400><c> the</c>
+the bookings it's time to enjoy the
+the bookings it's time to enjoy the
+benefits<00:02:57.000><c> of</c><00:02:57.239><c> tbop</c><00:02:57.840><c> plus</c><00:02:58.040><c> loyalty</c><00:02:58.560><c> program</c><00:02:59.400><c> by</c>
+benefits of tbop plus loyalty program by
+benefits of tbop plus loyalty program by
+clicking<00:03:00.040><c> on</c><00:03:00.400><c> redeem</c>
+clicking on redeem
+clicking on redeem
+now<00:03:02.680><c> redeem</c><00:03:03.080><c> your</c><00:03:03.319><c> reward</c><00:03:03.680><c> points</c><00:03:04.080><c> instantly</c>
+now redeem your reward points instantly
+now redeem your reward points instantly
+on<00:03:04.720><c> TBO</c><00:03:05.280><c> plus</c><00:03:06.000><c> as</c><00:03:06.120><c> we</c><00:03:06.319><c> offer</c><00:03:06.640><c> multiple</c>
+on TBO plus as we offer multiple
+on TBO plus as we offer multiple
+Redemption<00:03:07.599><c> options</c><00:03:08.040><c> for</c><00:03:08.239><c> you</c><00:03:08.799><c> such</c><00:03:09.000><c> as</c>
+Redemption options for you such as
+Redemption options for you such as
+Sports<00:03:09.640><c> and</c><00:03:09.840><c> events</c><00:03:10.640><c> flights</c><00:03:11.440><c> hotels</c><00:03:11.959><c> and</c>
+Sports and events flights hotels and
+Sports and events flights hotels and
+vouchers<00:03:13.080><c> along</c><00:03:13.360><c> with</c><00:03:13.599><c> points</c><00:03:13.920><c> Exchange</c>
+vouchers along with points Exchange
+vouchers along with points Exchange
+program<00:03:16.319><c> let's</c><00:03:16.560><c> choose</c><00:03:16.879><c> Sports</c><00:03:17.200><c> and</c><00:03:17.400><c> events</c>
+program let's choose Sports and events
+program let's choose Sports and events
+category<00:03:19.720><c> type</c><00:03:19.959><c> your</c><00:03:20.159><c> desired</c><00:03:20.599><c> event</c><00:03:21.040><c> or</c>
+category type your desired event or
+category type your desired event or
+search<00:03:21.599><c> by</c><00:03:21.799><c> venue</c><00:03:22.480><c> to</c><00:03:22.680><c> choose</c><00:03:22.959><c> the</c><00:03:23.120><c> events</c>
+search by venue to choose the events
+search by venue to choose the events
+happening<00:03:23.920><c> in</c><00:03:24.080><c> that</c><00:03:24.280><c> particular</c><00:03:24.799><c> city</c><00:03:25.159><c> or</c>
+happening in that particular city or
+happening in that particular city or
+country<00:03:26.280><c> and</c><00:03:26.480><c> hit</c>
+country and hit
+country and hit
+search<00:03:28.439><c> not</c><00:03:28.640><c> sure</c><00:03:28.920><c> what</c><00:03:29.040><c> to</c><00:03:29.200><c> choose</c><00:03:30.000><c> we</c><00:03:30.120><c> have</c>
+search not sure what to choose we have
+search not sure what to choose we have
+got<00:03:30.439><c> you</c><00:03:30.599><c> covered</c><00:03:31.000><c> as</c><00:03:31.120><c> we</c><00:03:31.239><c> do</c><00:03:31.519><c> provide</c>
+got you covered as we do provide
+got you covered as we do provide
+multiple<00:03:32.360><c> suggestions</c><00:03:33.040><c> here</c><00:03:34.040><c> just</c><00:03:34.280><c> hover</c><00:03:34.560><c> on</c>
+multiple suggestions here just hover on
+multiple suggestions here just hover on
+any<00:03:34.920><c> one</c><00:03:35.080><c> of</c><00:03:35.239><c> the</c><00:03:35.400><c> interested</c><00:03:35.840><c> event</c><00:03:36.400><c> and</c>
+any one of the interested event and
+any one of the interested event and
+choose<00:03:36.840><c> from</c><00:03:37.000><c> the</c>
+choose from the
+choose from the
+list<00:03:38.920><c> for</c><00:03:39.120><c> example</c><00:03:39.879><c> let's</c><00:03:40.080><c> choose</c><00:03:40.439><c> UEFA</c>
+list for example let's choose UEFA
+list for example let's choose UEFA
+Champions<00:03:41.319><c> League</c><00:03:41.680><c> under</c><00:03:41.959><c> top</c><00:03:42.239><c> football</c>
+Champions League under top football
+Champions League under top football
+tab<00:03:44.439><c> the</c><00:03:44.560><c> search</c><00:03:44.920><c> results</c><00:03:45.360><c> appear</c><00:03:45.799><c> where</c><00:03:45.959><c> you</c>
+tab the search results appear where you
+tab the search results appear where you
+can<00:03:46.239><c> choose</c><00:03:46.519><c> to</c><00:03:46.720><c> book</c><00:03:46.959><c> the</c><00:03:47.120><c> tickets</c><00:03:47.599><c> with</c><00:03:47.720><c> some</c>
+can choose to book the tickets with some
+can choose to book the tickets with some
+turnaround<00:03:48.560><c> time</c><00:03:49.239><c> or</c><00:03:49.439><c> immediate</c>
+turnaround time or immediate
+turnaround time or immediate
+confirmation<00:03:51.080><c> as</c><00:03:51.200><c> it</c><00:03:51.319><c> is</c><00:03:51.439><c> shown</c><00:03:51.760><c> in</c><00:03:51.959><c> green</c><00:03:52.239><c> on</c>
+confirmation as it is shown in green on
+confirmation as it is shown in green on
+tickets<00:03:54.400><c> let's</c><00:03:54.640><c> choose</c><00:03:54.959><c> the</c><00:03:55.079><c> immediate</c>
+tickets let's choose the immediate
+tickets let's choose the immediate
+confirmation
+confirmation
+confirmation
+tickets<00:03:57.959><c> as</c><00:03:58.079><c> you</c><00:03:58.200><c> choose</c><00:03:58.519><c> the</c><00:03:58.680><c> ticket</c>
+tickets as you choose the ticket
+tickets as you choose the ticket
+category<00:03:59.840><c> you</c><00:03:59.959><c> can</c><00:04:00.159><c> also</c><00:04:00.439><c> find</c><00:04:00.760><c> the</c><00:04:00.879><c> total</c>
+category you can also find the total
+category you can also find the total
+number<00:04:01.439><c> of</c><00:04:01.640><c> points</c><00:04:01.959><c> needed</c><00:04:02.239><c> to</c><00:04:02.400><c> purchase</c><00:04:02.760><c> the</c>
+number of points needed to purchase the
+number of points needed to purchase the
+ticket<00:04:04.640><c> fill</c><00:04:04.879><c> in</c><00:04:05.040><c> the</c><00:04:05.200><c> required</c><00:04:05.680><c> details</c><00:04:06.200><c> and</c>
+ticket fill in the required details and
+ticket fill in the required details and
+proceed<00:04:06.720><c> to</c>
+proceed to
+proceed to
+book<00:04:08.640><c> proceed</c><00:04:09.040><c> by</c><00:04:09.239><c> accepting</c><00:04:09.640><c> the</c><00:04:09.760><c> terms</c><00:04:10.079><c> and</c>
+book proceed by accepting the terms and
+book proceed by accepting the terms and
+conditions<00:04:11.159><c> and</c><00:04:11.400><c> hit</c><00:04:11.840><c> continue</c><00:04:12.239><c> to</c>
+conditions and hit continue to
+conditions and hit continue to
+payment<00:04:14.280><c> now</c><00:04:14.439><c> let's</c><00:04:14.640><c> see</c><00:04:14.879><c> how</c><00:04:15.000><c> we</c><00:04:15.079><c> can</c>
+payment now let's see how we can
+payment now let's see how we can
+purchase<00:04:15.560><c> a</c><00:04:15.760><c> voucher</c><00:04:16.120><c> using</c><00:04:16.440><c> reward</c>
+purchase a voucher using reward
+purchase a voucher using reward
+points<00:04:18.639><c> but</c><00:04:18.840><c> wait</c><00:04:19.680><c> before</c><00:04:20.000><c> we</c><00:04:20.199><c> proceed</c><00:04:21.079><c> it</c><00:04:21.199><c> is</c>
+points but wait before we proceed it is
+points but wait before we proceed it is
+important<00:04:21.759><c> to</c><00:04:21.959><c> note</c><00:04:22.479><c> that</c><00:04:22.840><c> once</c><00:04:23.040><c> you</c><00:04:23.240><c> purchase</c>
+important to note that once you purchase
+important to note that once you purchase
+a<00:04:23.759><c> voucher</c><00:04:24.639><c> it</c><00:04:24.800><c> takes</c><00:04:25.120><c> 24</c><00:04:25.680><c> hour</c><00:04:26.000><c> to</c><00:04:26.160><c> 12</c>
+a voucher it takes 24 hour to 12
+a voucher it takes 24 hour to 12
+business<00:04:26.880><c> days</c><00:04:27.520><c> to</c><00:04:27.680><c> get</c><00:04:27.800><c> it</c><00:04:27.919><c> delivered</c><00:04:28.360><c> to</c>
+business days to get it delivered to
+business days to get it delivered to
+your<00:04:28.680><c> email</c><00:04:29.400><c> depending</c><00:04:29.720><c> depending</c><00:04:30.000><c> on</c>
+your email depending depending on
+your email depending depending on
+specific
+specific
+specific
+voucher<00:04:32.600><c> refine</c><00:04:33.000><c> your</c><00:04:33.160><c> search</c><00:04:33.600><c> by</c><00:04:33.720><c> choosing</c>
+voucher refine your search by choosing
+voucher refine your search by choosing
+the<00:04:34.199><c> filter</c><00:04:34.600><c> options</c><00:04:35.039><c> such</c><00:04:35.280><c> as</c><00:04:35.520><c> country</c>
+the filter options such as country
+the filter options such as country
+category<00:04:36.759><c> and</c>
+category and
+category and
+brand<00:04:38.800><c> make</c><00:04:39.000><c> sure</c><00:04:39.240><c> to</c><00:04:39.400><c> choose</c><00:04:39.759><c> the</c><00:04:39.919><c> correct</c>
+brand make sure to choose the correct
+brand make sure to choose the correct
+country<00:04:41.120><c> while</c><00:04:41.320><c> purchasing</c><00:04:41.840><c> the</c><00:04:42.000><c> voucher</c><00:04:42.800><c> as</c>
+country while purchasing the voucher as
+country while purchasing the voucher as
+they<00:04:43.080><c> are</c><00:04:43.320><c> country</c><00:04:43.720><c> specific</c><00:04:44.720><c> and</c><00:04:44.840><c> can</c><00:04:45.000><c> be</c>
+they are country specific and can be
+they are country specific and can be
+used<00:04:45.520><c> only</c><00:04:45.960><c> in</c><00:04:46.080><c> the</c><00:04:46.320><c> specific</c><00:04:46.759><c> country</c>
+used only in the specific country
+used only in the specific country
+chosen<00:04:49.000><c> from</c><00:04:49.199><c> the</c><00:04:49.320><c> range</c><00:04:49.600><c> of</c><00:04:49.759><c> vouchers</c>
+chosen from the range of vouchers
+chosen from the range of vouchers
+available<00:04:50.960><c> choose</c><00:04:51.320><c> and</c><00:04:51.479><c> redeem</c><00:04:51.880><c> the</c><00:04:52.039><c> desired</c>
+available choose and redeem the desired
+available choose and redeem the desired
+one<00:04:54.160><c> finalize</c><00:04:54.639><c> the</c><00:04:54.759><c> voucher</c><00:04:55.320><c> and</c><00:04:55.520><c> proceed</c><00:04:55.880><c> by</c>
+one finalize the voucher and proceed by
+one finalize the voucher and proceed by
+clicking<00:04:56.280><c> on</c><00:04:56.520><c> redeem</c>
+clicking on redeem
+clicking on redeem
+now<00:04:58.520><c> and</c><00:04:58.759><c> that's</c><00:04:58.960><c> it</c><00:04:59.360><c> happy</c><00:04:59.840><c> selling</c>

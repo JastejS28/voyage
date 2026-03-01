@@ -1,0 +1,349 @@
+```json
+{
+  "plan_type": "premium",
+  "summary": "A luxurious 3-day cultural and culinary journey through Bengal, focusing on the vibrant city of Kolkata, with premium accommodations and exclusive experiences.",
+  "total_estimated_cost": {
+    "amount": 1400,
+    "currency": "USD"
+  },
+  "days": [
+    {
+      "day": 1,
+      "date": "2024-11-15",
+      "city": "Kolkata",
+      "flights": [],
+      "hotel": {
+        "name": "Suites Cannes Croisette",
+        "star_rating": "FourStar",
+        "trip_advisor_rating": null,
+        "address": "12 Bis Rue Latour Maubourg  ",
+        "facilities": [
+          "Visual alarms in hallways",
+          "Bar/lounge",
+          "elevator",
+          "Well-lit path to entrance",
+          "Stair-free path to entrance",
+          "24-hour front desk",
+          "Beach umbrellas",
+          "Covered parking",
+          "Spa treatment room(s)",
+          "secured parking",
+          "Meeting rooms",
+          "Tours/ticket assistance",
+          "Beach sun loungers",
+          "Dry cleaning/laundry service",
+          "Steam room",
+          "Free WiFi",
+          "Self parking (surcharge)",
+          "Pool sun loungers",
+          "Sauna",
+          "Babysitting or childcare (surcharge)",
+          "Smoke-free property",
+          "Swimming pool",
+          "Outdoor seasonal pool",
+          "Spa services on site",
+          "Luggage storage",
+          "Breakfast available (surcharge)",
+          "Concierge services",
+          "Wheelchair accessible (may have limitations)",
+          "Pool umbrellas",
+          "Beach towels",
+          "Wheelchair-accessible public washroom",
+          "Wheelchair accessible parking",
+          "In-room accessibility",
+          "Garden",
+          "Multilingual staff",
+          "Wheelchair-accessible registration desk",
+          "Wheelchair-accessible pool",
+          "Free newspapers in lobby"
+        ],
+        "attractions_nearby": [
+          "Distances are displayed to the nearest 0.1 mile and kilometer. <br /> <p>Rue d Antibes - 0.2 km / 0.1 mi <br /> Promenade de la Croisette - 0.3 km / 0.2 mi <br /> Mace Beach - 1 km / 0.6 mi <br /> Palace of Festivals and Conferences - 1.2 km / 0.8 mi <br /> Carnot Boulevard - 1.2 km / 0.8 mi <br /> Cannes Harbour - 1.5 km / 0.9 mi <br /> Gazagnaire Beach - 1.5 km / 0.9 mi <br /> Cannes City Hall - 1.7 km / 1.1 mi <br /> Casino Palm Beach - 1.8 km / 1.1 mi <br /> Le Croisette Casino Barriere de Cannes - 1.9 km / 1.2 mi <br /> Castre Museum - 2 km / 1.3 mi <br /> Midi Beach - 2.1 km / 1.3 mi <br /> Museum of the Sea - 2.2 km / 1.4 mi <br /> Cannes Hospital - 3.2 km / 2 mi <br /> Fort Royal - 2.3 km / 1.4 mi <br /> </p><p>The nearest major airport is Cote d Azur Airport (NCE) - 28.1 km / 17.5 mi</p>"
+        ],
+        "price_per_night": {
+          "amount": 160,
+          "currency": "USD"
+        },
+        "check_in": "14:00",
+        "check_out": "12:00",
+        "image_url": null
+      },
+      "activities": [
+        {
+          "name": "Private Full Day Sightseeing Tour of Kolkata",
+          "type": "sightseeing",
+          "description": "Explore the 'Cultural Capital of India' with a private, air-conditioned vehicle. Visit iconic landmarks like Mother Teresa's house, Howrah Bridge, Victoria Memorial, and the Marble Palace. Learn about India's history from ancient times to the British Raj and the present day.",
+          "estimated_cost": {
+            "amount": 128,
+            "currency": "USD"
+          },
+          "duration_hours": 8
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "suggestion": "Enjoy a lavish breakfast at the hotel, featuring both international and local Bengali specialties.",
+          "cuisine": "International/Bengali",
+          "estimated_cost": {
+            "amount": 30,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "lunch",
+          "suggestion": "Experience authentic Bengali cuisine at Ballygunge Place, known for its traditional dishes like Daab Chingri and Mutton Daak Bunglow.",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 50,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "dinner",
+          "suggestion": "Dine at Oh! Calcutta, a premium Bengali restaurant offering exquisite delicacies in a sophisticated setting.",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 70,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2024-11-16",
+      "city": "Kolkata",
+      "flights": [],
+      "hotel": {
+        "name": "Suites Cannes Croisette",
+        "star_rating": "FourStar",
+        "trip_advisor_rating": null,
+        "address": "12 Bis Rue Latour Maubourg  ",
+        "facilities": [
+          "Visual alarms in hallways",
+          "Bar/lounge",
+          "elevator",
+          "Well-lit path to entrance",
+          "Stair-free path to entrance",
+          "24-hour front desk",
+          "Beach umbrellas",
+          "Covered parking",
+          "Spa treatment room(s)",
+          "secured parking",
+          "Meeting rooms",
+          "Tours/ticket assistance",
+          "Beach sun loungers",
+          "Dry cleaning/laundry service",
+          "Steam room",
+          "Free WiFi",
+          "Self parking (surcharge)",
+          "Pool sun loungers",
+          "Sauna",
+          "Babysitting or childcare (surcharge)",
+          "Smoke-free property",
+          "Swimming pool",
+          "Outdoor seasonal pool",
+          "Spa services on site",
+          "Luggage storage",
+          "Breakfast available (surcharge)",
+          "Concierge services",
+          "Wheelchair accessible (may have limitations)",
+          "Pool umbrellas",
+          "Beach towels",
+          "Wheelchair-accessible public washroom",
+          "Wheelchair accessible parking",
+          "In-room accessibility",
+          "Garden",
+          "Multilingual staff",
+          "Wheelchair-accessible registration desk",
+          "Wheelchair-accessible pool",
+          "Free newspapers in lobby"
+        ],
+        "attractions_nearby": [
+          "Distances are displayed to the nearest 0.1 mile and kilometer. <br /> <p>Rue d Antibes - 0.2 km / 0.1 mi <br /> Promenade de la Croisette - 0.3 km / 0.2 mi <br /> Mace Beach - 1 km / 0.6 mi <br /> Palace of Festivals and Conferences - 1.2 km / 0.8 mi <br /> Carnot Boulevard - 1.2 km / 0.8 mi <br /> Cannes Harbour - 1.5 km / 0.9 mi <br /> Gazagnaire Beach - 1.5 km / 0.9 mi <br /> Cannes City Hall - 1.7 km / 1.1 mi <br /> Casino Palm Beach - 1.8 km / 1.1 mi <br /> Le Croisette Casino Barriere de Cannes - 1.9 km / 1.2 mi <br /> Castre Museum - 2 km / 1.3 mi <br /> Midi Beach - 2.1 km / 1.3 mi <br /> Museum of the Sea - 2.2 km / 1.4 mi <br /> Cannes Hospital - 3.2 km / 2 mi <br /> Fort Royal - 2.3 km / 1.4 mi <br /> </p><p>The nearest major airport is Cote d Azur Airport (NCE) - 28.1 km / 17.5 mi</p>"
+        ],
+        "price_per_night": {
+          "amount": 160,
+          "currency": "USD"
+        },
+        "check_in": "14:00",
+        "check_out": "12:00",
+        "image_url": null
+      },
+      "activities": [
+        {
+          "name": "Bengali Nights Kolkata Food Tour with 13+ Tastings",
+          "type": "dining",
+          "description": "Indulge in a culinary adventure through Kolkata's vibrant food scene, sampling over 13 different Bengali dishes.",
+          "estimated_cost": {
+            "amount": 39,
+            "currency": "USD"
+          },
+          "duration_hours": 4
+        },
+        {
+          "name": "Relaxation and Spa at Hotel",
+          "type": "relaxation",
+          "description": "Enjoy the luxurious spa facilities at your hotel, including a steam room and sauna, for a rejuvenating experience.",
+          "estimated_cost": {
+            "amount": 100,
+            "currency": "USD"
+          },
+          "duration_hours": 3
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "suggestion": "Enjoy a gourmet breakfast at the hotel, perhaps with a focus on fresh fruits and pastries.",
+          "cuisine": "International",
+          "estimated_cost": {
+            "amount": 30,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "lunch",
+          "suggestion": "During your food tour, you will sample various Bengali dishes, serving as your lunch.",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 0,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "dinner",
+          "suggestion": "Savor a fine dining experience at a highly-rated restaurant in Kolkata, perhaps trying a different regional Indian cuisine or an international option.",
+          "cuisine": "Fine Dining",
+          "estimated_cost": {
+            "amount": 80,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2024-11-17",
+      "city": "Kolkata",
+      "flights": [],
+      "hotel": {
+        "name": "Suites Cannes Croisette",
+        "star_rating": "FourStar",
+        "trip_advisor_rating": null,
+        "address": "12 Bis Rue Latour Maubourg  ",
+        "facilities": [
+          "Visual alarms in hallways",
+          "Bar/lounge",
+          "elevator",
+          "Well-lit path to entrance",
+          "Stair-free path to entrance",
+          "24-hour front desk",
+          "Beach umbrellas",
+          "Covered parking",
+          "Spa treatment room(s)",
+          "secured parking",
+          "Meeting rooms",
+          "Tours/ticket assistance",
+          "Beach sun loungers",
+          "Dry cleaning/laundry service",
+          "Steam room",
+          "Free WiFi",
+          "Self parking (surcharge)",
+          "Pool sun loungers",
+          "Sauna",
+          "Babysitting or childcare (surcharge)",
+          "Smoke-free property",
+          "Swimming pool",
+          "Outdoor seasonal pool",
+          "Spa services on site",
+          "Luggage storage",
+          "Breakfast available (surcharge)",
+          "Concierge services",
+          "Wheelchair accessible (may have limitations)",
+          "Pool umbrellas",
+          "Beach towels",
+          "Wheelchair-accessible public washroom",
+          "Wheelchair accessible parking",
+          "In-room accessibility",
+          "Garden",
+          "Multilingual staff",
+          "Wheelchair-accessible registration desk",
+          "Wheelchair-accessible pool",
+          "Free newspapers in lobby"
+        ],
+        "attractions_nearby": [
+          "Distances are displayed to the nearest 0.1 mile and kilometer. <br /> <p>Rue d Antibes - 0.2 km / 0.1 mi <br /> Promenade de la Croisette - 0.3 km / 0.2 mi <br /> Mace Beach - 1 km / 0.6 mi <br /> Palace of Festivals and Conferences - 1.2 km / 0.8 mi <br /> Carnot Boulevard - 1.2 km / 0.8 mi <br /> Cannes Harbour - 1.5 km / 0.9 mi <br /> Gazagnaire Beach - 1.5 km / 0.9 mi <br /> Cannes City Hall - 1.7 km / 1.1 mi <br /> Casino Palm Beach - 1.8 km / 1.1 mi <br /> Le Croisette Casino Barriere de Cannes - 1.9 km / 1.2 mi <br /> Castre Museum - 2 km / 1.3 mi <br /> Midi Beach - 2.1 km / 1.3 mi <br /> Museum of the Sea - 2.2 km / 1.4 mi <br /> Cannes Hospital - 3.2 km / 2 mi <br /> Fort Royal - 2.3 km / 1.4 mi <br /> </p><p>The nearest major airport is Cote d Azur Airport (NCE) - 28.1 km / 17.5 mi</p>"
+        ],
+        "price_per_night": {
+          "amount": 160,
+          "currency": "USD"
+        },
+        "check_in": "14:00",
+        "check_out": "12:00",
+        "image_url": null
+      },
+      "activities": [
+        {
+          "name": "Shopping for Bengali Handicrafts and Sarees",
+          "type": "shopping",
+          "description": "Explore Kolkata's upscale boutiques and markets for exquisite Bengali handicrafts, traditional sarees, and unique souvenirs.",
+          "estimated_cost": {
+            "amount": 200,
+            "currency": "USD"
+          },
+          "duration_hours": 4
+        },
+        {
+          "name": "Evening Cultural Performance (e.g., Classical Dance or Music)",
+          "type": "cultural",
+          "description": "Attend a private viewing or a premium ticketed event showcasing traditional Bengali classical dance or music.",
+          "estimated_cost": {
+            "amount": 75,
+            "currency": "USD"
+          },
+          "duration_hours": 2
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "suggestion": "Enjoy a leisurely breakfast at the hotel, perhaps with a focus on fresh, local ingredients.",
+          "cuisine": "International/Bengali",
+          "estimated_cost": {
+            "amount": 30,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "lunch",
+          "suggestion": "Have lunch at a highly-rated restaurant known for its contemporary Indian cuisine, offering a modern twist on traditional flavors.",
+          "cuisine": "Contemporary Indian",
+          "estimated_cost": {
+            "amount": 60,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "dinner",
+          "suggestion": "Indulge in a farewell dinner at a Michelin-starred (if available) or equivalent fine dining establishment, celebrating the culinary journey through Bengal.",
+          "cuisine": "International/Fusion",
+          "estimated_cost": {
+            "amount": 150,
+            "currency": "USD"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "comfort_score": 9,
+    "risk_score": 2,
+    "refund_score": 8,
+    "total_travel_time_hours": 0,
+    "total_flights": 0,
+    "total_hotel_nights": 3
+  }
+}
+```

@@ -1,0 +1,310 @@
+```json
+{
+  "plan_type": "budget",
+  "summary": "A budget-friendly trip to Bengal, focusing on cultural experiences, local cuisine, and key historical sites in Kolkata.",
+  "total_estimated_cost": {
+    "amount": 250,
+    "currency": "USD"
+  },
+  "days": [
+    {
+      "day": 1,
+      "date": "2024-11-15",
+      "city": "Kolkata",
+      "flights": [],
+      "hotel": {
+        "name": "Hostellerie Aspremont",
+        "star_rating": "TwoStar",
+        "trip_advisor_rating": "4.5",
+        "address": "3 Place Saint-Claude 06790 AspremontProvence-Alpes-Côte d’Azur ",
+        "facilities": [
+          "Free self parking",
+          "Restaurant",
+          "Pets allowed",
+          "Bar/lounge",
+          "Garden",
+          "Terrace",
+          "Non-smoking rooms",
+          "Internet access",
+          "Heating",
+          "Fax/photocopying",
+          "Luggage storage",
+          "Free WiFi",
+          "Free WiFi",
+          "Non-smoking throughout",
+          "Outdoor seasonal pool",
+          "Parking onsite",
+          "Private parking"
+        ],
+        "attractions_nearby": [],
+        "price_per_night": {
+          "amount": 60,
+          "currency": "USD"
+        },
+        "check_in": "14:00",
+        "check_out": "12:00",
+        "image_url": null
+      },
+      "activities": [
+        {
+          "name": "Explore local markets and street art in Kolkata",
+          "type": "cultural",
+          "description": "Wander through bustling local markets like New Market or Gariahat, and discover vibrant street art in various neighborhoods. This offers a glimpse into daily life and local culture.",
+          "estimated_cost": {
+            "amount": 5,
+            "currency": "USD"
+          },
+          "duration_hours": 3
+        },
+        {
+          "name": "Visit Victoria Memorial (exterior and gardens)",
+          "type": "sightseeing",
+          "description": "Admire the magnificent architecture of the Victoria Memorial from the outside and enjoy a stroll through its expansive gardens. Entry to the gardens is usually low cost.",
+          "estimated_cost": {
+            "amount": 2,
+            "currency": "USD"
+          },
+          "duration_hours": 2
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "suggestion": "Local street food breakfast (e.g., Luchi and aloo dum)",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 3,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "lunch",
+          "suggestion": "Thali at a local eatery",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 7,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "dinner",
+          "suggestion": "Street food dinner (e.g., Kathi rolls, puchka)",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 5,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2024-11-16",
+      "city": "Kolkata",
+      "flights": [],
+      "hotel": {
+        "name": "Hostellerie Aspremont",
+        "star_rating": "TwoStar",
+        "trip_advisor_rating": "4.5",
+        "address": "3 Place Saint-Claude 06790 AspremontProvence-Alpes-Côte d’Azur ",
+        "facilities": [
+          "Free self parking",
+          "Restaurant",
+          "Pets allowed",
+          "Bar/lounge",
+          "Garden",
+          "Terrace",
+          "Non-smoking rooms",
+          "Internet access",
+          "Heating",
+          "Fax/photocopying",
+          "Luggage storage",
+          "Free WiFi",
+          "Free WiFi",
+          "Non-smoking throughout",
+          "Outdoor seasonal pool",
+          "Parking onsite",
+          "Private parking"
+        ],
+        "attractions_nearby": [],
+        "price_per_night": {
+          "amount": 60,
+          "currency": "USD"
+        },
+        "check_in": "14:00",
+        "check_out": "12:00",
+        "image_url": null
+      },
+      "activities": [
+        {
+          "name": "Walk across Howrah Bridge and visit Howrah Station",
+          "type": "sightseeing",
+          "description": "Experience the iconic Howrah Bridge by walking across it, and observe the bustling activity at Howrah Station, one of India's busiest railway terminals.",
+          "estimated_cost": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "duration_hours": 2
+        },
+        {
+          "name": "Visit Mother Teresa's House (Mother House)",
+          "type": "cultural",
+          "description": "Pay respects at Mother Teresa's House, a serene and significant site. Entry is free.",
+          "estimated_cost": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "duration_hours": 1
+        },
+        {
+          "name": "Explore Kumartuli (Potter's Quarter)",
+          "type": "cultural",
+          "description": "Witness artisans crafting clay idols, especially fascinating if visiting before major festivals like Durga Puja. Free to explore.",
+          "estimated_cost": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "duration_hours": 2
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "suggestion": "Tea and biscuits from a local stall",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 2,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "lunch",
+          "suggestion": "Simple meal at a local canteen near Howrah",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 6,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "dinner",
+          "suggestion": "Dine at Bhojohori Manna for authentic Bengali cuisine (moderate price range)",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 15,
+            "currency": "USD"
+          }
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2024-11-17",
+      "city": "Kolkata",
+      "flights": [],
+      "hotel": {
+        "name": "Hostellerie Aspremont",
+        "star_rating": "TwoStar",
+        "trip_advisor_rating": "4.5",
+        "address": "3 Place Saint-Claude 06790 AspremontProvence-Alpes-Côte d’Azur ",
+        "facilities": [
+          "Free self parking",
+          "Restaurant",
+          "Pets allowed",
+          "Bar/lounge",
+          "Garden",
+          "Terrace",
+          "Non-smoking rooms",
+          "Internet access",
+          "Heating",
+          "Fax/photocopying",
+          "Luggage storage",
+          "Free WiFi",
+          "Free WiFi",
+          "Non-smoking throughout",
+          "Outdoor seasonal pool",
+          "Parking onsite",
+          "Private parking"
+        ],
+        "attractions_nearby": [],
+        "price_per_night": {
+          "amount": 60,
+          "currency": "USD"
+        },
+        "check_in": "14:00",
+        "check_out": "12:00",
+        "image_url": null
+      },
+      "activities": [
+        {
+          "name": "Visit Indian Museum (if time permits, otherwise explore surrounding areas)",
+          "type": "cultural",
+          "description": "The Indian Museum is one of the oldest and largest museums in India. Entry fee applies. Alternatively, explore the surrounding colonial-era buildings.",
+          "estimated_cost": {
+            "amount": 5,
+            "currency": "USD"
+          },
+          "duration_hours": 3
+        },
+        {
+          "name": "Relax at Maidan (Kolkata's Central Park)",
+          "type": "relaxation",
+          "description": "Enjoy the open green spaces of Maidan, observing local life, cricket matches, and horse riding. Free activity.",
+          "estimated_cost": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "duration_hours": 2
+        },
+        {
+          "name": "Take a tram ride",
+          "type": "sightseeing",
+          "description": "Experience Kolkata's historic tram system, a unique and affordable way to see parts of the city.",
+          "estimated_cost": {
+            "amount": 1,
+            "currency": "USD"
+          },
+          "duration_hours": 1
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "suggestion": "Mishti Doi (sweet yogurt) and local sweets",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 3,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "lunch",
+          "suggestion": "Biryani from a popular local spot",
+          "cuisine": "Indian",
+          "estimated_cost": {
+            "amount": 8,
+            "currency": "USD"
+          }
+        },
+        {
+          "type": "dinner",
+          "suggestion": "Explore a different street food area or a budget-friendly restaurant for a final Bengali meal.",
+          "cuisine": "Bengali",
+          "estimated_cost": {
+            "amount": 10,
+            "currency": "USD"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "comfort_score": 5,
+    "risk_score": 3,
+    "refund_score": 7,
+    "total_travel_time_hours": 0,
+    "total_flights": 0,
+    "total_hotel_nights": 3
+  }
+}
+```

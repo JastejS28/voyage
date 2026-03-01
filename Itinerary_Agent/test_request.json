@@ -1,0 +1,76 @@
+{
+  "structured_requirement": {
+    "trip_overview": {
+      "summary": "User wants to make a trip to Bengal",
+      "trip_type": "leisure",
+      "confidence": "low"
+    },
+    "travelers": {
+      "count": null,
+      "adults": null,
+      "children": null,
+      "infants": null,
+      "special_needs": []
+    },
+    "route_plan": {
+      "origin": null,
+      "destinations": ["Bengal"],
+      "multi_city": false,
+      "flexible_destinations": []
+    },
+    "dates": {
+      "start_date": null,
+      "end_date": null,
+      "duration_nights": null,
+      "date_flexibility": "none",
+      "blackout_dates": []
+    },
+    "budget": {
+      "currency": null,
+      "max_total": null,
+      "budget_per_person": null,
+      "budget_notes": null
+    },
+    "transport_preferences": {
+      "flight_class": "unknown",
+      "preferred_airlines": [],
+      "avoid_airlines": [],
+      "stops_preference": "unknown",
+      "departure_time_pref": "unknown"
+    },
+    "stay_preferences": {
+      "property_types": [],
+      "star_rating_min": null,
+      "room_count": null,
+      "bed_type_pref": null,
+      "amenities_required": [],
+      "amenities_optional": [],
+      "location_preference": null
+    },
+    "activities": {
+      "must_do": [],
+      "nice_to_have": [],
+      "avoid": [],
+      "pace": "unknown"
+    },
+    "food_preferences": {
+      "dietary_restrictions": [],
+      "cuisine_preferences": []
+    },
+    "documents_and_constraints": {
+      "visa_needed": null,
+      "passport_validity_notes": null,
+      "hard_constraints": [],
+      "soft_constraints": []
+    },
+    "extracted_facts": [
+      {
+        "fact": "User wants to make a trip to Bengal",
+        "source_type": "text",
+        "confidence": "medium"
+      }
+    ],
+    "implied_inferences": []
+  },
+  "parallel": false
+}

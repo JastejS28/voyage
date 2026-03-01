@@ -1,0 +1,3305 @@
+{
+    "status": true,
+    "status_code": 200,
+    "data": {
+        "context": {
+            "sessionId": "CrQBS0xVdl9TQ041UU1BMGdnZUlLQ3JBX19fdUtwYXJYbGwyWERrXy03ZEFEdDctVTNLZmNIUG12WGpOcHNEemhNZ0Z2WEowRHJfUjVkQ0taZjd2YkhxdVdmazY2ZEwxNFVwQldBd2wybGJSMWdWWkNZelRHRzBscnZPbFpYVnk4MXhLWHkwenRmSkVSRF8tMnMtVl83LWk5eV85MG80elkxVVR4WDFsbVJvQnFnQWhHZ0lBQT09IjkKAlVTEgVlbi1VUxoDVVNEIiEKChIIMzUyMzQ4OTISChIIMjc1Mzk3MzMaBwjqDxACGBsoATABYAEqJDUwY2RhNGMyLTlhMTgtNDcwNy04NTc3LTczZTM3MzQwNzA3Nw==-cells1",
+            "status": "incomplete",
+            "action": "RESULT_ACTION_REPLACED"
+        },
+        "itineraries": [
+            {
+                "pricingOptions": [
+                    {
+                        "price": {
+                            "amount": "1124000",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                            "formatted": "$1,124"
+                        },
+                        "agentIds": [
+                            "airf"
+                        ],
+                        "items": [
+                            {
+                                "price": {
+                                    "amount": "1124000",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                                    "formatted": "$1,124"
+                                },
+                                "agentId": "airf",
+                                "deepLink": "https://agw.skyscnr.com/v1/redirect?pageUrl=https%3A%2F%2Fskyscanner.pxf.io%2Fc%2F4453062%2F1103265%2F13416%3Fu%3Dhttps%253A%252F%252Fwww.skyscanner.com%252Ftransport_deeplink%252F4.0%252FUS%252Fen-US%252FUSD%252Fairf%252F1%252F14355.10413.2026-02-27%252Fair%252Fairli%252Fflights%253Fitinerary%253Dflight%25257C-32677%25257C2547%25257C14355%25257C2026-02-27T17%25253A14%25257C11152%25257C2026-02-27T20%25253A45%25257C151%25257CBLW09KBL%25257CB%25257CLIGHTNA%25253Bflight%25257C-32677%25257C377%25257C11152%25257C2026-02-27T21%25253A20%25257C10413%25257C2026-02-28T11%25253A05%25257C465%25257CBLW09KBL%25257CB%25257CLIGHTNA%2526carriers%253D-32677%2526operators%253D-32385%25253B-32677%2526passengers%253D1%2526channel%253Ddataapi%2526cabin_class%253Deconomy%2526fps_session_id%253D50cda4c2-9a18-4707-8577-73e373407077%2526ticket_price%253D1124.00%2526is_npt%253Dfalse%2526is_multipart%253Dfalse%2526client_id%253Dskyscanner_b2b%2526request_id%253D39e88158-5a57-42b6-a54e-0f92e387c944%2526q_ids%253DH4sIAAAAAAAA_-OS4mJJzCxKE2LmmFwgxcyxU1-hYW_zWTYjJgVGAGX7OOMcAAAA%25257C-995459208993677681%25257C2%2526q_sources%253DJACQUARD%2526commercial_filters%253Dfalse%2526q_datetime_utc%253D2026-02-27T19%25253A42%25253A45%2526pqid%253Dfalse%2526fare_type%253Dbase_fare%2526api_logo%253Dhttps%25253A%25252F%25252Flogos.skyscnr.com%25252Fimages%25252Fpartners%25252FFarefirst_Logo.png%2526api_pbs%253Dfalse%2526app_id%253D1qBiSij5LbOnuk%2525252FtURcs0l0QI8gCD60BLmqq%2525252Fh0DbKlIdxhNwq1ALpa3r5aApMph&impactMediaPartnerId=4453062",
+                                "fares": [
+                                    {
+                                        "segmentId": "14355-11152-2602271714-2602272045--32677",
+                                        "bookingCode": "B",
+                                        "fareBasisCode": "BLW09KBL"
+                                    },
+                                    {
+                                        "segmentId": "11152-10413-2602272120-2602281105--32677",
+                                        "bookingCode": "B",
+                                        "fareBasisCode": "BLW09KBL"
+                                    }
+                                ],
+                                "agent": {
+                                    "name": "Air France",
+                                    "type": "AGENT_TYPE_AIRLINE",
+                                    "imageUrl": "https://logos.skyscnr.com/images/websites/airf.png",
+                                    "feedbackCount": 1054,
+                                    "rating": 4.79,
+                                    "isOptimisedForMobile": true,
+                                    "id": "airf"
+                                }
+                            }
+                        ],
+                        "transferType": "TRANSFER_TYPE_MANAGED",
+                        "id": "UAUGuTNphzLQ",
+                        "pricingOptionFare": null,
+                        "agents": [
+                            {
+                                "name": "Air France",
+                                "type": "AGENT_TYPE_AIRLINE",
+                                "imageUrl": "https://logos.skyscnr.com/images/websites/airf.png",
+                                "feedbackCount": 1054,
+                                "rating": 4.79,
+                                "isOptimisedForMobile": true,
+                                "id": "airf"
+                            }
+                        ]
+                    }
+                ],
+                "legIds": [
+                    "14355-2602271714--32677-1-10413-2602281105"
+                ],
+                "sustainabilityData": {
+                    "isEcoContender": false,
+                    "ecoContenderDelta": -10.889864
+                },
+                "id": "14355-2602271714--32677-1-10413-2602281105",
+                "legs": [
+                    {
+                        "originPlaceId": "95673750",
+                        "destinationPlaceId": "95565041",
+                        "departureDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 27,
+                            "hour": 17,
+                            "minute": 14,
+                            "second": 0
+                        },
+                        "arrivalDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 28,
+                            "hour": 11,
+                            "minute": 5,
+                            "second": 0
+                        },
+                        "durationInMinutes": 651,
+                        "stopCount": 1,
+                        "marketingCarrierIds": [
+                            "-32677"
+                        ],
+                        "operatingCarrierIds": [
+                            "-32385",
+                            "-32677"
+                        ],
+                        "segmentIds": [
+                            "14355-11152-2602271714-2602272045--32677",
+                            "11152-10413-2602272120-2602281105--32677"
+                        ],
+                        "id": "14355-2602271714--32677-1-10413-2602281105",
+                        "segments": [
+                            {
+                                "originPlaceId": "95673750",
+                                "destinationPlaceId": "95673555",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 17,
+                                    "minute": 14,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 20,
+                                    "minute": 45,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 151,
+                                "marketingFlightNumber": "2547",
+                                "marketingCarrierId": "-32677",
+                                "operatingCarrierId": "-32385",
+                                "id": "14355-11152-2602271714-2602272045--32677",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    },
+                                    "operating": {
+                                        "name": "Delta",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                        "iata": "DL",
+                                        "icao": "DAL",
+                                        "displayCode": "DL",
+                                        "id": "-32385"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95673555",
+                                "destinationPlaceId": "95565041",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 21,
+                                    "minute": 20,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 11,
+                                    "minute": 5,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 465,
+                                "marketingFlightNumber": "377",
+                                "marketingCarrierId": "-32677",
+                                "operatingCarrierId": "-32677",
+                                "id": "11152-10413-2602272120-2602281105--32677",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    },
+                                    "operating": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    }
+                                }
+                            }
+                        ],
+                        "origin": {
+                            "entityId": "95673750",
+                            "parentId": "35234892",
+                            "name": "New Orleans Louis Armstrong",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "MSY",
+                            "coordinates": null
+                        },
+                        "destination": {
+                            "entityId": "95565041",
+                            "parentId": "27539733",
+                            "name": "Paris Charles de Gaulle",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "CDG",
+                            "coordinates": null
+                        },
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "name": "Air France",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                    "iata": "AF",
+                                    "icao": "AFR",
+                                    "displayCode": "AF",
+                                    "id": "-32677"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "name": "Delta",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                    "iata": "DL",
+                                    "icao": "DAL",
+                                    "displayCode": "DL",
+                                    "id": "-32385"
+                                },
+                                {
+                                    "name": "Air France",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                    "iata": "AF",
+                                    "icao": "AFR",
+                                    "displayCode": "AF",
+                                    "id": "-32677"
+                                }
+                            ]
+                        },
+                        "departure": "2026-02-27T17:14:00",
+                        "arrival": "2026-02-28T11:05:00"
+                    }
+                ],
+                "price": {
+                    "unit": "PRICE_UNIT_MILLI",
+                    "formatted": "$1,124",
+                    "raw": "1124000",
+                    "pricingOptionId": "UAUGuTNphzLQ"
+                }
+            },
+            {
+                "pricingOptions": [
+                    {
+                        "price": {
+                            "amount": "900100",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                            "formatted": "$900"
+                        },
+                        "agentIds": [
+                            "airf"
+                        ],
+                        "items": [
+                            {
+                                "price": {
+                                    "amount": "900100",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                                    "formatted": "$900"
+                                },
+                                "agentId": "airf",
+                                "deepLink": "https://agw.skyscnr.com/v1/redirect?pageUrl=https%3A%2F%2Fskyscanner.pxf.io%2Fc%2F4453062%2F1103265%2F13416%3Fu%3Dhttps%253A%252F%252Fwww.skyscanner.com%252Ftransport_deeplink%252F4.0%252FUS%252Fen-US%252FUSD%252Fairf%252F1%252F14355.10413.2026-02-27%252Fair%252Fairli%252Fflights%253Fitinerary%253Dflight%25257C-32132%25257C5038%25257C14355%25257C2026-02-27T17%25253A41%25257C9596%25257C2026-02-27T20%25253A22%25257C101%25257CMLW09KBL%25257CM%25257CLIGHTNA%25253Bflight%25257C-32132%25257C622%25257C9596%25257C2026-02-27T22%25253A45%25257C9451%25257C2026-02-28T12%25253A55%25257C490%25257CMLW09KBL%25257CM%25257CLIGHTNA%25253Bflight%25257C-32132%25257C2009%25257C9451%25257C2026-02-28T14%25253A00%25257C10413%25257C2026-02-28T15%25253A20%25257C80%25257CMLW09KBL%25257CM%25257CLIGHTNA%2526carriers%253D-32132%2526operators%253D-32385%25253B-32132%25253B-32677%2526passengers%253D1%2526channel%253Ddataapi%2526cabin_class%253Deconomy%2526fps_session_id%253D50cda4c2-9a18-4707-8577-73e373407077%2526ticket_price%253D900.10%2526is_npt%253Dfalse%2526is_multipart%253Dfalse%2526client_id%253Dskyscanner_b2b%2526request_id%253D39e88158-5a57-42b6-a54e-0f92e387c944%2526q_ids%253DH4sIAAAAAAAA_-OS4mJJzCxKE2LmmFwgxcyxU1-hYW_zWTYjJgVGAGX7OOMcAAAA%25257C-8694157731510694189%25257C2%2526q_sources%253DJACQUARD%2526commercial_filters%253Dfalse%2526q_datetime_utc%253D2026-02-27T19%25253A42%25253A45%2526pqid%253Dfalse%2526fare_type%253Dbase_fare%2526api_logo%253Dhttps%25253A%25252F%25252Flogos.skyscnr.com%25252Fimages%25252Fpartners%25252FFarefirst_Logo.png%2526api_pbs%253Dfalse%2526app_id%253D1qBiSij5LbOnuk%2525252FtURcs0l0QI8gCD60BLmqq%2525252Fh0DbKlIdxhNwq1ALpa3r5aApMph&impactMediaPartnerId=4453062",
+                                "fares": [
+                                    {
+                                        "segmentId": "14355-9596-2602271741-2602272022--32132",
+                                        "bookingCode": "M",
+                                        "fareBasisCode": "MLW09KBL"
+                                    },
+                                    {
+                                        "segmentId": "9596-9451-2602272245-2602281255--32132",
+                                        "bookingCode": "M",
+                                        "fareBasisCode": "MLW09KBL"
+                                    },
+                                    {
+                                        "segmentId": "9451-10413-2602281400-2602281520--32132",
+                                        "bookingCode": "M",
+                                        "fareBasisCode": "MLW09KBL"
+                                    }
+                                ],
+                                "agent": {
+                                    "name": "Air France",
+                                    "type": "AGENT_TYPE_AIRLINE",
+                                    "imageUrl": "https://logos.skyscnr.com/images/websites/airf.png",
+                                    "feedbackCount": 1054,
+                                    "rating": 4.79,
+                                    "isOptimisedForMobile": true,
+                                    "id": "airf"
+                                }
+                            }
+                        ],
+                        "transferType": "TRANSFER_TYPE_MANAGED",
+                        "id": "1fqaVquSV9k6",
+                        "pricingOptionFare": null,
+                        "agents": [
+                            {
+                                "name": "Air France",
+                                "type": "AGENT_TYPE_AIRLINE",
+                                "imageUrl": "https://logos.skyscnr.com/images/websites/airf.png",
+                                "feedbackCount": 1054,
+                                "rating": 4.79,
+                                "isOptimisedForMobile": true,
+                                "id": "airf"
+                            }
+                        ]
+                    }
+                ],
+                "legIds": [
+                    "14355-2602271741--32132-2-10413-2602281520"
+                ],
+                "sustainabilityData": {
+                    "isEcoContender": false,
+                    "ecoContenderDelta": 5.0290403
+                },
+                "id": "14355-2602271741--32132-2-10413-2602281520",
+                "legs": [
+                    {
+                        "originPlaceId": "95673750",
+                        "destinationPlaceId": "95565041",
+                        "departureDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 27,
+                            "hour": 17,
+                            "minute": 41,
+                            "second": 0
+                        },
+                        "arrivalDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 28,
+                            "hour": 15,
+                            "minute": 20,
+                            "second": 0
+                        },
+                        "durationInMinutes": 879,
+                        "stopCount": 2,
+                        "marketingCarrierIds": [
+                            "-32132"
+                        ],
+                        "operatingCarrierIds": [
+                            "-32385",
+                            "-32132",
+                            "-32677"
+                        ],
+                        "segmentIds": [
+                            "14355-9596-2602271741-2602272022--32132",
+                            "9596-9451-2602272245-2602281255--32132",
+                            "9451-10413-2602281400-2602281520--32132"
+                        ],
+                        "id": "14355-2602271741--32132-2-10413-2602281520",
+                        "segments": [
+                            {
+                                "originPlaceId": "95673750",
+                                "destinationPlaceId": "95673800",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 17,
+                                    "minute": 41,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 20,
+                                    "minute": 22,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 101,
+                                "marketingFlightNumber": "5038",
+                                "marketingCarrierId": "-32132",
+                                "operatingCarrierId": "-32385",
+                                "id": "14355-9596-2602271741-2602272022--32132",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "KLM",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                        "iata": "KL",
+                                        "icao": "KLM",
+                                        "displayCode": "KL",
+                                        "id": "-32132"
+                                    },
+                                    "operating": {
+                                        "name": "Delta",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                        "iata": "DL",
+                                        "icao": "DAL",
+                                        "displayCode": "DL",
+                                        "id": "-32385"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95673800",
+                                "destinationPlaceId": "95565044",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 22,
+                                    "minute": 45,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 12,
+                                    "minute": 55,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 490,
+                                "marketingFlightNumber": "622",
+                                "marketingCarrierId": "-32132",
+                                "operatingCarrierId": "-32132",
+                                "id": "9596-9451-2602272245-2602281255--32132",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "KLM",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                        "iata": "KL",
+                                        "icao": "KLM",
+                                        "displayCode": "KL",
+                                        "id": "-32132"
+                                    },
+                                    "operating": {
+                                        "name": "KLM",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                        "iata": "KL",
+                                        "icao": "KLM",
+                                        "displayCode": "KL",
+                                        "id": "-32132"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95565044",
+                                "destinationPlaceId": "95565041",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 14,
+                                    "minute": 0,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 15,
+                                    "minute": 20,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 80,
+                                "marketingFlightNumber": "2009",
+                                "marketingCarrierId": "-32132",
+                                "operatingCarrierId": "-32677",
+                                "id": "9451-10413-2602281400-2602281520--32132",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "KLM",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                        "iata": "KL",
+                                        "icao": "KLM",
+                                        "displayCode": "KL",
+                                        "id": "-32132"
+                                    },
+                                    "operating": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    }
+                                }
+                            }
+                        ],
+                        "origin": {
+                            "entityId": "95673750",
+                            "parentId": "35234892",
+                            "name": "New Orleans Louis Armstrong",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "MSY",
+                            "coordinates": null
+                        },
+                        "destination": {
+                            "entityId": "95565041",
+                            "parentId": "27539733",
+                            "name": "Paris Charles de Gaulle",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "CDG",
+                            "coordinates": null
+                        },
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "name": "KLM",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                    "iata": "KL",
+                                    "icao": "KLM",
+                                    "displayCode": "KL",
+                                    "id": "-32132"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "name": "Delta",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                    "iata": "DL",
+                                    "icao": "DAL",
+                                    "displayCode": "DL",
+                                    "id": "-32385"
+                                },
+                                {
+                                    "name": "KLM",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                    "iata": "KL",
+                                    "icao": "KLM",
+                                    "displayCode": "KL",
+                                    "id": "-32132"
+                                },
+                                {
+                                    "name": "Air France",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                    "iata": "AF",
+                                    "icao": "AFR",
+                                    "displayCode": "AF",
+                                    "id": "-32677"
+                                }
+                            ]
+                        },
+                        "departure": "2026-02-27T17:41:00",
+                        "arrival": "2026-02-28T15:20:00"
+                    }
+                ],
+                "price": {
+                    "unit": "PRICE_UNIT_MILLI",
+                    "formatted": "$900",
+                    "raw": "900100",
+                    "pricingOptionId": "1fqaVquSV9k6"
+                }
+            },
+            {
+                "pricingOptions": [
+                    {
+                        "price": {
+                            "amount": "659970",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                            "formatted": "$660"
+                        },
+                        "agentIds": [
+                            "edus"
+                        ],
+                        "items": [
+                            {
+                                "price": {
+                                    "amount": "659970",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                                    "formatted": "$660"
+                                },
+                                "agentId": "edus",
+                                "deepLink": "https://agw.skyscnr.com/v1/redirect?pageUrl=https%3A%2F%2Fskyscanner.pxf.io%2Fc%2F4453062%2F1103265%2F13416%3Fu%3Dhttps%253A%252F%252Fwww.skyscanner.com%252Ftransport_deeplink%252F4.0%252FUS%252Fen-US%252FUSD%252Fedus%252F1%252F14355.10413.2026-02-27%252Fair%252Ftrava%252Fflights%253Fitinerary%253Dflight%25257C-32480%25257C5132%25257C14355%25257C2026-02-27T18%25253A21%25257C14074%25257C2026-02-27T21%25253A26%25257C125%25257C-%25257C-%25257C-%25253Bflight%25257C-32480%25257C1500%25257C14074%25257C2026-02-27T22%25253A20%25257C13554%25257C2026-02-28T12%25253A05%25257C525%25257C-%25257C-%25257C-%25253Bflight%25257C-32480%25257C322%25257C13554%25257C2026-02-28T20%25253A00%25257C10413%25257C2026-02-28T22%25253A20%25257C80%25257C-%25257C-%25257C-%2526carriers%253D-32480%2526operators%253D-32573%25253B-32573%25253B-32480%2526passengers%253D1%2526channel%253Ddataapi%2526cabin_class%253Deconomy%2526fps_session_id%253D50cda4c2-9a18-4707-8577-73e373407077%2526ticket_price%253D659.97%2526is_npt%253Dfalse%2526is_multipart%253Dfalse%2526client_id%253Dskyscanner_b2b%2526request_id%253D39e88158-5a57-42b6-a54e-0f92e387c944%2526q_ids%253DH4sIAAAAAAAA_-OS4mJJTSktFmLmmFwgxcyxU1-hYW_zWTYjJgVGANLGtrIcAAAA%25257C7599958324818044936%25257C2%2526q_sources%253DJACQUARD%2526commercial_filters%253Dfalse%2526q_datetime_utc%253D2026-02-27T19%25253A15%25253A48%2526pqid%253Dtrue%2526fare_type%253Dbase_fare%2526api_logo%253Dhttps%25253A%25252F%25252Flogos.skyscnr.com%25252Fimages%25252Fpartners%25252FFarefirst_Logo.png%2526api_pbs%253Dfalse%2526app_id%253D1qBiSij5LbOnuk%2525252FtURcs0l0QI8gCD60BLmqq%2525252Fh0DbKlIdxhNwq1ALpa3r5aApMph&impactMediaPartnerId=4453062",
+                                "fares": [
+                                    {
+                                        "segmentId": "14355-14074-2602271821-2602272126--32480",
+                                        "bookingCode": "",
+                                        "fareBasisCode": ""
+                                    },
+                                    {
+                                        "segmentId": "14074-13554-2602272220-2602281205--32480",
+                                        "bookingCode": "",
+                                        "fareBasisCode": ""
+                                    },
+                                    {
+                                        "segmentId": "13554-10413-2602282000-2602282220--32480",
+                                        "bookingCode": "",
+                                        "fareBasisCode": ""
+                                    }
+                                ],
+                                "agent": {
+                                    "name": "eDreams",
+                                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                                    "imageUrl": "https://logos.skyscnr.com/images/websites/edus.png",
+                                    "feedbackCount": 2645,
+                                    "rating": 3.53,
+                                    "isOptimisedForMobile": true,
+                                    "id": "edus"
+                                }
+                            }
+                        ],
+                        "transferType": "TRANSFER_TYPE_MANAGED",
+                        "id": "4zE2NUV-iVrS",
+                        "pricingOptionFare": null,
+                        "agents": [
+                            {
+                                "name": "eDreams",
+                                "type": "AGENT_TYPE_TRAVEL_AGENT",
+                                "imageUrl": "https://logos.skyscnr.com/images/websites/edus.png",
+                                "feedbackCount": 2645,
+                                "rating": 3.53,
+                                "isOptimisedForMobile": true,
+                                "id": "edus"
+                            }
+                        ]
+                    }
+                ],
+                "legIds": [
+                    "14355-2602271821--32480-2-10413-2602282220"
+                ],
+                "sustainabilityData": {
+                    "isEcoContender": false,
+                    "ecoContenderDelta": -18.448984
+                },
+                "id": "14355-2602271821--32480-2-10413-2602282220",
+                "legs": [
+                    {
+                        "originPlaceId": "95673750",
+                        "destinationPlaceId": "95565041",
+                        "departureDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 27,
+                            "hour": 18,
+                            "minute": 21,
+                            "second": 0
+                        },
+                        "arrivalDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 28,
+                            "hour": 22,
+                            "minute": 20,
+                            "second": 0
+                        },
+                        "durationInMinutes": 1259,
+                        "stopCount": 2,
+                        "marketingCarrierIds": [
+                            "-32480"
+                        ],
+                        "operatingCarrierIds": [
+                            "-32573",
+                            "-32480"
+                        ],
+                        "segmentIds": [
+                            "14355-14074-2602271821-2602272126--32480",
+                            "14074-13554-2602272220-2602281205--32480",
+                            "13554-10413-2602282000-2602282220--32480"
+                        ],
+                        "id": "14355-2602271821--32480-2-10413-2602282220",
+                        "segments": [
+                            {
+                                "originPlaceId": "95673750",
+                                "destinationPlaceId": "95673821",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 18,
+                                    "minute": 21,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 21,
+                                    "minute": 26,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 125,
+                                "marketingFlightNumber": "5132",
+                                "marketingCarrierId": "-32480",
+                                "operatingCarrierId": "-32573",
+                                "id": "14355-14074-2602271821-2602272126--32480",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "British Airways",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                        "iata": "BA",
+                                        "icao": "BAW",
+                                        "displayCode": "BA",
+                                        "id": "-32480"
+                                    },
+                                    "operating": {
+                                        "name": "American Airlines",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AA.png",
+                                        "iata": "AA",
+                                        "icao": "AAL",
+                                        "displayCode": "AA",
+                                        "id": "-32573"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95673821",
+                                "destinationPlaceId": "95565050",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 22,
+                                    "minute": 20,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 12,
+                                    "minute": 5,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 525,
+                                "marketingFlightNumber": "1500",
+                                "marketingCarrierId": "-32480",
+                                "operatingCarrierId": "-32573",
+                                "id": "14074-13554-2602272220-2602281205--32480",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "British Airways",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                        "iata": "BA",
+                                        "icao": "BAW",
+                                        "displayCode": "BA",
+                                        "id": "-32480"
+                                    },
+                                    "operating": {
+                                        "name": "American Airlines",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AA.png",
+                                        "iata": "AA",
+                                        "icao": "AAL",
+                                        "displayCode": "AA",
+                                        "id": "-32573"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95565050",
+                                "destinationPlaceId": "95565041",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 20,
+                                    "minute": 0,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 22,
+                                    "minute": 20,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 80,
+                                "marketingFlightNumber": "322",
+                                "marketingCarrierId": "-32480",
+                                "operatingCarrierId": "-32480",
+                                "id": "13554-10413-2602282000-2602282220--32480",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "British Airways",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                        "iata": "BA",
+                                        "icao": "BAW",
+                                        "displayCode": "BA",
+                                        "id": "-32480"
+                                    },
+                                    "operating": {
+                                        "name": "British Airways",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                        "iata": "BA",
+                                        "icao": "BAW",
+                                        "displayCode": "BA",
+                                        "id": "-32480"
+                                    }
+                                }
+                            }
+                        ],
+                        "origin": {
+                            "entityId": "95673750",
+                            "parentId": "35234892",
+                            "name": "New Orleans Louis Armstrong",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "MSY",
+                            "coordinates": null
+                        },
+                        "destination": {
+                            "entityId": "95565041",
+                            "parentId": "27539733",
+                            "name": "Paris Charles de Gaulle",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "CDG",
+                            "coordinates": null
+                        },
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "name": "British Airways",
+                                    "allianceId": "-32000",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                    "iata": "BA",
+                                    "icao": "BAW",
+                                    "displayCode": "BA",
+                                    "id": "-32480"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "name": "American Airlines",
+                                    "allianceId": "-32000",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AA.png",
+                                    "iata": "AA",
+                                    "icao": "AAL",
+                                    "displayCode": "AA",
+                                    "id": "-32573"
+                                },
+                                {
+                                    "name": "British Airways",
+                                    "allianceId": "-32000",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                    "iata": "BA",
+                                    "icao": "BAW",
+                                    "displayCode": "BA",
+                                    "id": "-32480"
+                                }
+                            ]
+                        },
+                        "departure": "2026-02-27T18:21:00",
+                        "arrival": "2026-02-28T22:20:00"
+                    }
+                ],
+                "price": {
+                    "unit": "PRICE_UNIT_MILLI",
+                    "formatted": "$660",
+                    "raw": "659970",
+                    "pricingOptionId": "4zE2NUV-iVrS"
+                }
+            },
+            {
+                "pricingOptions": [
+                    {
+                        "price": {
+                            "amount": "659970",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                            "formatted": "$660"
+                        },
+                        "agentIds": [
+                            "edus"
+                        ],
+                        "items": [
+                            {
+                                "price": {
+                                    "amount": "659970",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                                    "formatted": "$660"
+                                },
+                                "agentId": "edus",
+                                "deepLink": "https://agw.skyscnr.com/v1/redirect?pageUrl=https%3A%2F%2Fskyscanner.pxf.io%2Fc%2F4453062%2F1103265%2F13416%3Fu%3Dhttps%253A%252F%252Fwww.skyscanner.com%252Ftransport_deeplink%252F4.0%252FUS%252Fen-US%252FUSD%252Fedus%252F1%252F14355.10413.2026-02-27%252Fair%252Ftrava%252Fflights%253Fitinerary%253Dflight%25257C-32480%25257C6886%25257C14355%25257C2026-02-27T18%25253A43%25257C10602%25257C2026-02-27T21%25253A48%25257C125%25257C-%25257C-%25257C-%25253Bflight%25257C-32480%25257C1599%25257C10602%25257C2026-02-27T23%25253A00%25257C13554%25257C2026-02-28T12%25253A00%25257C480%25257C-%25257C-%25257C-%25253Bflight%25257C-32480%25257C322%25257C13554%25257C2026-02-28T20%25253A00%25257C10413%25257C2026-02-28T22%25253A20%25257C80%25257C-%25257C-%25257C-%2526carriers%253D-32480%2526operators%253D-32573%25253B-32573%25253B-32480%2526passengers%253D1%2526channel%253Ddataapi%2526cabin_class%253Deconomy%2526fps_session_id%253D50cda4c2-9a18-4707-8577-73e373407077%2526ticket_price%253D659.97%2526is_npt%253Dfalse%2526is_multipart%253Dfalse%2526client_id%253Dskyscanner_b2b%2526request_id%253D39e88158-5a57-42b6-a54e-0f92e387c944%2526q_ids%253DH4sIAAAAAAAA_-OS4mJJTSktFmLmmFwgxcyxU1-hYW_zWTYjJgVGANLGtrIcAAAA%25257C-4108256657609403705%25257C2%2526q_sources%253DJACQUARD%2526commercial_filters%253Dfalse%2526q_datetime_utc%253D2026-02-27T19%25253A15%25253A48%2526pqid%253Dtrue%2526fare_type%253Dbase_fare%2526api_logo%253Dhttps%25253A%25252F%25252Flogos.skyscnr.com%25252Fimages%25252Fpartners%25252FFarefirst_Logo.png%2526api_pbs%253Dfalse%2526app_id%253D1qBiSij5LbOnuk%2525252FtURcs0l0QI8gCD60BLmqq%2525252Fh0DbKlIdxhNwq1ALpa3r5aApMph&impactMediaPartnerId=4453062",
+                                "fares": [
+                                    {
+                                        "segmentId": "14355-10602-2602271843-2602272148--32480",
+                                        "bookingCode": "",
+                                        "fareBasisCode": ""
+                                    },
+                                    {
+                                        "segmentId": "10602-13554-2602272300-2602281200--32480",
+                                        "bookingCode": "",
+                                        "fareBasisCode": ""
+                                    },
+                                    {
+                                        "segmentId": "13554-10413-2602282000-2602282220--32480",
+                                        "bookingCode": "",
+                                        "fareBasisCode": ""
+                                    }
+                                ],
+                                "agent": {
+                                    "name": "eDreams",
+                                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                                    "imageUrl": "https://logos.skyscnr.com/images/websites/edus.png",
+                                    "feedbackCount": 2645,
+                                    "rating": 3.53,
+                                    "isOptimisedForMobile": true,
+                                    "id": "edus"
+                                }
+                            }
+                        ],
+                        "transferType": "TRANSFER_TYPE_MANAGED",
+                        "id": "-lD-OJ7XG-pJ",
+                        "pricingOptionFare": null,
+                        "agents": [
+                            {
+                                "name": "eDreams",
+                                "type": "AGENT_TYPE_TRAVEL_AGENT",
+                                "imageUrl": "https://logos.skyscnr.com/images/websites/edus.png",
+                                "feedbackCount": 2645,
+                                "rating": 3.53,
+                                "isOptimisedForMobile": true,
+                                "id": "edus"
+                            }
+                        ]
+                    }
+                ],
+                "legIds": [
+                    "14355-2602271843--32480-2-10413-2602282220"
+                ],
+                "sustainabilityData": {
+                    "isEcoContender": false,
+                    "ecoContenderDelta": -32.715977
+                },
+                "id": "14355-2602271843--32480-2-10413-2602282220",
+                "legs": [
+                    {
+                        "originPlaceId": "95673750",
+                        "destinationPlaceId": "95565041",
+                        "departureDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 27,
+                            "hour": 18,
+                            "minute": 43,
+                            "second": 0
+                        },
+                        "arrivalDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 28,
+                            "hour": 22,
+                            "minute": 20,
+                            "second": 0
+                        },
+                        "durationInMinutes": 1237,
+                        "stopCount": 2,
+                        "marketingCarrierIds": [
+                            "-32480"
+                        ],
+                        "operatingCarrierIds": [
+                            "-32573",
+                            "-32480"
+                        ],
+                        "segmentIds": [
+                            "14355-10602-2602271843-2602272148--32480",
+                            "10602-13554-2602272300-2602281200--32480",
+                            "13554-10413-2602282000-2602282220--32480"
+                        ],
+                        "id": "14355-2602271843--32480-2-10413-2602282220",
+                        "segments": [
+                            {
+                                "originPlaceId": "95673750",
+                                "destinationPlaceId": "95673672",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 18,
+                                    "minute": 43,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 21,
+                                    "minute": 48,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 125,
+                                "marketingFlightNumber": "6886",
+                                "marketingCarrierId": "-32480",
+                                "operatingCarrierId": "-32573",
+                                "id": "14355-10602-2602271843-2602272148--32480",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "British Airways",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                        "iata": "BA",
+                                        "icao": "BAW",
+                                        "displayCode": "BA",
+                                        "id": "-32480"
+                                    },
+                                    "operating": {
+                                        "name": "American Airlines",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AA.png",
+                                        "iata": "AA",
+                                        "icao": "AAL",
+                                        "displayCode": "AA",
+                                        "id": "-32573"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95673672",
+                                "destinationPlaceId": "95565050",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 23,
+                                    "minute": 0,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 12,
+                                    "minute": 0,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 480,
+                                "marketingFlightNumber": "1599",
+                                "marketingCarrierId": "-32480",
+                                "operatingCarrierId": "-32573",
+                                "id": "10602-13554-2602272300-2602281200--32480",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "British Airways",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                        "iata": "BA",
+                                        "icao": "BAW",
+                                        "displayCode": "BA",
+                                        "id": "-32480"
+                                    },
+                                    "operating": {
+                                        "name": "American Airlines",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AA.png",
+                                        "iata": "AA",
+                                        "icao": "AAL",
+                                        "displayCode": "AA",
+                                        "id": "-32573"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95565050",
+                                "destinationPlaceId": "95565041",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 20,
+                                    "minute": 0,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 22,
+                                    "minute": 20,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 80,
+                                "marketingFlightNumber": "322",
+                                "marketingCarrierId": "-32480",
+                                "operatingCarrierId": "-32480",
+                                "id": "13554-10413-2602282000-2602282220--32480",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "British Airways",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                        "iata": "BA",
+                                        "icao": "BAW",
+                                        "displayCode": "BA",
+                                        "id": "-32480"
+                                    },
+                                    "operating": {
+                                        "name": "British Airways",
+                                        "allianceId": "-32000",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                        "iata": "BA",
+                                        "icao": "BAW",
+                                        "displayCode": "BA",
+                                        "id": "-32480"
+                                    }
+                                }
+                            }
+                        ],
+                        "origin": {
+                            "entityId": "95673750",
+                            "parentId": "35234892",
+                            "name": "New Orleans Louis Armstrong",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "MSY",
+                            "coordinates": null
+                        },
+                        "destination": {
+                            "entityId": "95565041",
+                            "parentId": "27539733",
+                            "name": "Paris Charles de Gaulle",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "CDG",
+                            "coordinates": null
+                        },
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "name": "British Airways",
+                                    "allianceId": "-32000",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                    "iata": "BA",
+                                    "icao": "BAW",
+                                    "displayCode": "BA",
+                                    "id": "-32480"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "name": "American Airlines",
+                                    "allianceId": "-32000",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AA.png",
+                                    "iata": "AA",
+                                    "icao": "AAL",
+                                    "displayCode": "AA",
+                                    "id": "-32573"
+                                },
+                                {
+                                    "name": "British Airways",
+                                    "allianceId": "-32000",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                                    "iata": "BA",
+                                    "icao": "BAW",
+                                    "displayCode": "BA",
+                                    "id": "-32480"
+                                }
+                            ]
+                        },
+                        "departure": "2026-02-27T18:43:00",
+                        "arrival": "2026-02-28T22:20:00"
+                    }
+                ],
+                "price": {
+                    "unit": "PRICE_UNIT_MILLI",
+                    "formatted": "$660",
+                    "raw": "659970",
+                    "pricingOptionId": "-lD-OJ7XG-pJ"
+                }
+            },
+            {
+                "pricingOptions": [
+                    {
+                        "price": {
+                            "amount": "438260",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                            "formatted": "$438"
+                        },
+                        "agentIds": [
+                            "xpus"
+                        ],
+                        "items": [
+                            {
+                                "price": {
+                                    "amount": "438260",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                                    "formatted": "$438"
+                                },
+                                "agentId": "xpus",
+                                "deepLink": "https://agw.skyscnr.com/v1/redirect?pageUrl=https%3A%2F%2Fskyscanner.pxf.io%2Fc%2F4453062%2F1103265%2F13416%3Fu%3Dhttps%253A%252F%252Fwww.skyscanner.com%252Ftransport_deeplink%252F4.0%252FUS%252Fen-US%252FUSD%252Fxpus%252F1%252F14355.10413.2026-02-27%252Fair%252Ftrava%252Fflights%253Fitinerary%253Dflight%25257C-32171%25257C1300%25257C14355%25257C2026-02-27T18%25253A58%25257C10081%25257C2026-02-27T23%25253A10%25257C192%25257CVL0LBVL1%25257CL%25257CBLUE%252BBASIC%25253Bflight%25257C-32171%25257C33%25257C10081%25257C2026-02-28T20%25253A10%25257C10413%25257C2026-03-01T09%25253A20%25257C430%25257CVL0LBVL1%25257CL%25257CBLUE%252BBASIC%2526carriers%253D-32171%2526operators%253D-32171%25253B-32171%2526passengers%253D1%2526channel%253Ddataapi%2526cabin_class%253Deconomy%2526fps_session_id%253D50cda4c2-9a18-4707-8577-73e373407077%2526ticket_price%253D438.26%2526is_npt%253Dfalse%2526is_multipart%253Dfalse%2526client_id%253Dskyscanner_b2b%2526request_id%253D39e88158-5a57-42b6-a54e-0f92e387c944%2526q_ids%253DH4sIAAAAAAAA_-OS4mKpKCgtFmLmmFwgxcyxU1-hYW_zWTYjJgVGAPZZ3fYcAAAA%25257C9196395237516371735%25257C2%2526q_sources%253DJACQUARD%2526commercial_filters%253Dfalse%2526q_datetime_utc%253D2026-02-27T19%25253A44%25253A03%2526pqid%253Dtrue%2526fare_type%253Dbase_fare%2526api_logo%253Dhttps%25253A%25252F%25252Flogos.skyscnr.com%25252Fimages%25252Fpartners%25252FFarefirst_Logo.png%2526api_pbs%253Dfalse%2526app_id%253D1qBiSij5LbOnuk%2525252FtURcs0l0QI8gCD60BLmqq%2525252Fh0DbKlIdxhNwq1ALpa3r5aApMph&impactMediaPartnerId=4453062",
+                                "fares": [
+                                    {
+                                        "segmentId": "14355-10081-2602271858-2602272310--32171",
+                                        "bookingCode": "L",
+                                        "fareBasisCode": "VL0LBVL1"
+                                    },
+                                    {
+                                        "segmentId": "10081-10413-2602282010-2603010920--32171",
+                                        "bookingCode": "L",
+                                        "fareBasisCode": "VL0LBVL1"
+                                    }
+                                ],
+                                "agent": {
+                                    "name": "Expedia",
+                                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                                    "imageUrl": "https://logos.skyscnr.com/images/websites/xpus.png",
+                                    "feedbackCount": 4932,
+                                    "rating": 4.83,
+                                    "isOptimisedForMobile": true,
+                                    "id": "xpus"
+                                }
+                            }
+                        ],
+                        "transferType": "TRANSFER_TYPE_MANAGED",
+                        "id": "k-7UirkS_MaI",
+                        "pricingOptionFare": null,
+                        "agents": [
+                            {
+                                "name": "Expedia",
+                                "type": "AGENT_TYPE_TRAVEL_AGENT",
+                                "imageUrl": "https://logos.skyscnr.com/images/websites/xpus.png",
+                                "feedbackCount": 4932,
+                                "rating": 4.83,
+                                "isOptimisedForMobile": true,
+                                "id": "xpus"
+                            }
+                        ]
+                    }
+                ],
+                "legIds": [
+                    "14355-2602271858--32171-1-10413-2603010920"
+                ],
+                "sustainabilityData": {
+                    "isEcoContender": false,
+                    "ecoContenderDelta": -43.340347
+                },
+                "id": "14355-2602271858--32171-1-10413-2603010920",
+                "legs": [
+                    {
+                        "originPlaceId": "95673750",
+                        "destinationPlaceId": "95565041",
+                        "departureDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 27,
+                            "hour": 18,
+                            "minute": 58,
+                            "second": 0
+                        },
+                        "arrivalDateTime": {
+                            "year": 2026,
+                            "month": 3,
+                            "day": 1,
+                            "hour": 9,
+                            "minute": 20,
+                            "second": 0
+                        },
+                        "durationInMinutes": 1882,
+                        "stopCount": 1,
+                        "marketingCarrierIds": [
+                            "-32171"
+                        ],
+                        "operatingCarrierIds": [
+                            "-32171"
+                        ],
+                        "segmentIds": [
+                            "14355-10081-2602271858-2602272310--32171",
+                            "10081-10413-2602282010-2603010920--32171"
+                        ],
+                        "id": "14355-2602271858--32171-1-10413-2603010920",
+                        "segments": [
+                            {
+                                "originPlaceId": "95673750",
+                                "destinationPlaceId": "95673679",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 18,
+                                    "minute": 58,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 23,
+                                    "minute": 10,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 192,
+                                "marketingFlightNumber": "1300",
+                                "marketingCarrierId": "-32171",
+                                "operatingCarrierId": "-32171",
+                                "id": "14355-10081-2602271858-2602272310--32171",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "jetBlue",
+                                        "allianceId": "",
+                                        "imageUrl": "",
+                                        "iata": "B6",
+                                        "icao": "JBU",
+                                        "displayCode": "B6",
+                                        "id": "-32171"
+                                    },
+                                    "operating": {
+                                        "name": "jetBlue",
+                                        "allianceId": "",
+                                        "imageUrl": "",
+                                        "iata": "B6",
+                                        "icao": "JBU",
+                                        "displayCode": "B6",
+                                        "id": "-32171"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95673679",
+                                "destinationPlaceId": "95565041",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 20,
+                                    "minute": 10,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 3,
+                                    "day": 1,
+                                    "hour": 9,
+                                    "minute": 20,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 430,
+                                "marketingFlightNumber": "33",
+                                "marketingCarrierId": "-32171",
+                                "operatingCarrierId": "-32171",
+                                "id": "10081-10413-2602282010-2603010920--32171",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "jetBlue",
+                                        "allianceId": "",
+                                        "imageUrl": "",
+                                        "iata": "B6",
+                                        "icao": "JBU",
+                                        "displayCode": "B6",
+                                        "id": "-32171"
+                                    },
+                                    "operating": {
+                                        "name": "jetBlue",
+                                        "allianceId": "",
+                                        "imageUrl": "",
+                                        "iata": "B6",
+                                        "icao": "JBU",
+                                        "displayCode": "B6",
+                                        "id": "-32171"
+                                    }
+                                }
+                            }
+                        ],
+                        "origin": {
+                            "entityId": "95673750",
+                            "parentId": "35234892",
+                            "name": "New Orleans Louis Armstrong",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "MSY",
+                            "coordinates": null
+                        },
+                        "destination": {
+                            "entityId": "95565041",
+                            "parentId": "27539733",
+                            "name": "Paris Charles de Gaulle",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "CDG",
+                            "coordinates": null
+                        },
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "name": "jetBlue",
+                                    "allianceId": "",
+                                    "imageUrl": "",
+                                    "iata": "B6",
+                                    "icao": "JBU",
+                                    "displayCode": "B6",
+                                    "id": "-32171"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "name": "jetBlue",
+                                    "allianceId": "",
+                                    "imageUrl": "",
+                                    "iata": "B6",
+                                    "icao": "JBU",
+                                    "displayCode": "B6",
+                                    "id": "-32171"
+                                }
+                            ]
+                        },
+                        "departure": "2026-02-27T18:58:00",
+                        "arrival": "2026-03-01T09:20:00"
+                    }
+                ],
+                "price": {
+                    "unit": "PRICE_UNIT_MILLI",
+                    "formatted": "$438",
+                    "raw": "438260",
+                    "pricingOptionId": "k-7UirkS_MaI"
+                }
+            },
+            {
+                "pricingOptions": [
+                    {
+                        "price": {
+                            "amount": "1291000",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                            "formatted": "$1,291"
+                        },
+                        "agentIds": [
+                            "viaa"
+                        ],
+                        "items": [
+                            {
+                                "price": {
+                                    "amount": "1291000",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                                    "formatted": "$1,291"
+                                },
+                                "agentId": "viaa",
+                                "deepLink": "https://agw.skyscnr.com/v1/redirect?pageUrl=https%3A%2F%2Fskyscanner.pxf.io%2Fc%2F4453062%2F1103265%2F13416%3Fu%3Dhttps%253A%252F%252Fwww.skyscanner.com%252Ftransport_deeplink%252F4.0%252FUS%252Fen-US%252FUSD%252Fviaa%252F1%252F14355.10413.2026-02-27%252Fair%252Fairli%252Fflights%253Fitinerary%253Dflight%25257C-31697%25257C5244%25257C14355%25257C2026-02-27T19%25253A12%25257C9596%25257C2026-02-27T21%25253A49%25257C97%25257CYLW09NMP%25257CY%25257CEconomy%252BClassic%25253Bflight%25257C-31697%25257C3993%25257C9596%25257C2026-02-27T22%25253A55%25257C10413%25257C2026-02-28T13%25253A15%25257C500%25257CYLW09NMP%25257CY%25257CEconomy%252BClassic%2526carriers%253D-31697%2526operators%253D-32385%25253B-32385%2526passengers%253D1%2526channel%253Ddataapi%2526cabin_class%253Deconomy%2526fps_session_id%253D50cda4c2-9a18-4707-8577-73e373407077%2526ticket_price%253D1291.00%2526is_npt%253Dfalse%2526is_multipart%253Dfalse%2526client_id%253Dskyscanner_b2b%2526request_id%253D39e88158-5a57-42b6-a54e-0f92e387c944%2526q_ids%253DH4sIAAAAAAAA_-OS4mIpy0xMFGLmmFwgxcyxU1-hYW_zWTYjJgVGAHbSI1QcAAAA%25257C8856102763800927005%25257C2%2526q_sources%253DJACQUARD%2526commercial_filters%253Dfalse%2526q_datetime_utc%253D2026-02-27T19%25253A46%25253A15%2526pqid%253Dfalse%2526fare_type%253Dbase_fare%2526api_logo%253Dhttps%25253A%25252F%25252Flogos.skyscnr.com%25252Fimages%25252Fpartners%25252FFarefirst_Logo.png%2526api_pbs%253Dfalse%2526app_id%253D1qBiSij5LbOnuk%2525252FtURcs0l0QI8gCD60BLmqq%2525252Fh0DbKlIdxhNwq1ALpa3r5aApMph&impactMediaPartnerId=4453062",
+                                "fares": [
+                                    {
+                                        "segmentId": "14355-9596-2602271912-2602272149--31697",
+                                        "bookingCode": "Y",
+                                        "fareBasisCode": "YLW09NMP"
+                                    },
+                                    {
+                                        "segmentId": "9596-10413-2602272255-2602281315--31697",
+                                        "bookingCode": "Y",
+                                        "fareBasisCode": "YLW09NMP"
+                                    }
+                                ],
+                                "agent": {
+                                    "name": "Virgin Atlantic",
+                                    "type": "AGENT_TYPE_AIRLINE",
+                                    "imageUrl": "https://logos.skyscnr.com/images/websites/viaa.png",
+                                    "feedbackCount": 266,
+                                    "rating": 4.87,
+                                    "isOptimisedForMobile": true,
+                                    "id": "viaa"
+                                }
+                            }
+                        ],
+                        "transferType": "TRANSFER_TYPE_MANAGED",
+                        "id": "MUiE78j0Ukoi",
+                        "pricingOptionFare": null,
+                        "agents": [
+                            {
+                                "name": "Virgin Atlantic",
+                                "type": "AGENT_TYPE_AIRLINE",
+                                "imageUrl": "https://logos.skyscnr.com/images/websites/viaa.png",
+                                "feedbackCount": 266,
+                                "rating": 4.87,
+                                "isOptimisedForMobile": true,
+                                "id": "viaa"
+                            }
+                        ]
+                    }
+                ],
+                "legIds": [
+                    "14355-2602271912--31697-1-10413-2602281315"
+                ],
+                "sustainabilityData": {
+                    "isEcoContender": true,
+                    "ecoContenderDelta": 9.783858
+                },
+                "id": "14355-2602271912--31697-1-10413-2602281315",
+                "legs": [
+                    {
+                        "originPlaceId": "95673750",
+                        "destinationPlaceId": "95565041",
+                        "departureDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 27,
+                            "hour": 19,
+                            "minute": 12,
+                            "second": 0
+                        },
+                        "arrivalDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 28,
+                            "hour": 13,
+                            "minute": 15,
+                            "second": 0
+                        },
+                        "durationInMinutes": 663,
+                        "stopCount": 1,
+                        "marketingCarrierIds": [
+                            "-31697"
+                        ],
+                        "operatingCarrierIds": [
+                            "-32385"
+                        ],
+                        "segmentIds": [
+                            "14355-9596-2602271912-2602272149--31697",
+                            "9596-10413-2602272255-2602281315--31697"
+                        ],
+                        "id": "14355-2602271912--31697-1-10413-2602281315",
+                        "segments": [
+                            {
+                                "originPlaceId": "95673750",
+                                "destinationPlaceId": "95673800",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 19,
+                                    "minute": 12,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 21,
+                                    "minute": 49,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 97,
+                                "marketingFlightNumber": "5244",
+                                "marketingCarrierId": "-31697",
+                                "operatingCarrierId": "-32385",
+                                "id": "14355-9596-2602271912-2602272149--31697",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Virgin Atlantic",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/VS.png",
+                                        "iata": "VS",
+                                        "icao": "VIR",
+                                        "displayCode": "VS",
+                                        "id": "-31697"
+                                    },
+                                    "operating": {
+                                        "name": "Delta",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                        "iata": "DL",
+                                        "icao": "DAL",
+                                        "displayCode": "DL",
+                                        "id": "-32385"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95673800",
+                                "destinationPlaceId": "95565041",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 22,
+                                    "minute": 55,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 13,
+                                    "minute": 15,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 500,
+                                "marketingFlightNumber": "3993",
+                                "marketingCarrierId": "-31697",
+                                "operatingCarrierId": "-32385",
+                                "id": "9596-10413-2602272255-2602281315--31697",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Virgin Atlantic",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/VS.png",
+                                        "iata": "VS",
+                                        "icao": "VIR",
+                                        "displayCode": "VS",
+                                        "id": "-31697"
+                                    },
+                                    "operating": {
+                                        "name": "Delta",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                        "iata": "DL",
+                                        "icao": "DAL",
+                                        "displayCode": "DL",
+                                        "id": "-32385"
+                                    }
+                                }
+                            }
+                        ],
+                        "origin": {
+                            "entityId": "95673750",
+                            "parentId": "35234892",
+                            "name": "New Orleans Louis Armstrong",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "MSY",
+                            "coordinates": null
+                        },
+                        "destination": {
+                            "entityId": "95565041",
+                            "parentId": "27539733",
+                            "name": "Paris Charles de Gaulle",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "CDG",
+                            "coordinates": null
+                        },
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "name": "Virgin Atlantic",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/VS.png",
+                                    "iata": "VS",
+                                    "icao": "VIR",
+                                    "displayCode": "VS",
+                                    "id": "-31697"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "name": "Delta",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                    "iata": "DL",
+                                    "icao": "DAL",
+                                    "displayCode": "DL",
+                                    "id": "-32385"
+                                }
+                            ]
+                        },
+                        "departure": "2026-02-27T19:12:00",
+                        "arrival": "2026-02-28T13:15:00"
+                    }
+                ],
+                "price": {
+                    "unit": "PRICE_UNIT_MILLI",
+                    "formatted": "$1,291",
+                    "raw": "1291000",
+                    "pricingOptionId": "MUiE78j0Ukoi"
+                }
+            },
+            {
+                "pricingOptions": [
+                    {
+                        "price": {
+                            "amount": "1006600",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                            "formatted": "$1,007"
+                        },
+                        "agentIds": [
+                            "viaa"
+                        ],
+                        "items": [
+                            {
+                                "price": {
+                                    "amount": "1006600",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                                    "formatted": "$1,007"
+                                },
+                                "agentId": "viaa",
+                                "deepLink": "https://agw.skyscnr.com/v1/redirect?pageUrl=https%3A%2F%2Fskyscanner.pxf.io%2Fc%2F4453062%2F1103265%2F13416%3Fu%3Dhttps%253A%252F%252Fwww.skyscanner.com%252Ftransport_deeplink%252F4.0%252FUS%252Fen-US%252FUSD%252Fviaa%252F1%252F14355.10413.2026-02-27%252Fair%252Fairli%252Fflights%253Fitinerary%253Dflight%25257C-31697%25257C5244%25257C14355%25257C2026-02-27T19%25253A12%25257C9596%25257C2026-02-27T21%25253A49%25257C97%25257CRLW09KMZ%25257CR%25257CEconomy%252BClassic%25253Bflight%25257C-31697%25257C4067%25257C9596%25257C2026-02-27T22%25253A35%25257C13554%25257C2026-02-28T11%25253A40%25257C485%25257CRLW09KMZ%25257CR%25257CEconomy%252BClassic%25253Bflight%25257C-31697%25257C6665%25257C13554%25257C2026-02-28T15%25253A00%25257C10413%25257C2026-02-28T17%25253A20%25257C80%25257CRLW09KMZ%25257CR%25257CEconomy%252BClassic%2526carriers%253D-31697%2526operators%253D-32385%25253B-32385%25253B-32677%2526passengers%253D1%2526channel%253Ddataapi%2526cabin_class%253Deconomy%2526fps_session_id%253D50cda4c2-9a18-4707-8577-73e373407077%2526ticket_price%253D1006.60%2526is_npt%253Dfalse%2526is_multipart%253Dfalse%2526client_id%253Dskyscanner_b2b%2526request_id%253D39e88158-5a57-42b6-a54e-0f92e387c944%2526q_ids%253DH4sIAAAAAAAA_-OS4mIpy0xMFGLmmFwgxcyxU1-hYW_zWTYjJgVGAHbSI1QcAAAA%25257C-4879875350380149935%25257C2%2526q_sources%253DJACQUARD%2526commercial_filters%253Dfalse%2526q_datetime_utc%253D2026-02-27T19%25253A46%25253A15%2526pqid%253Dfalse%2526fare_type%253Dbase_fare%2526api_logo%253Dhttps%25253A%25252F%25252Flogos.skyscnr.com%25252Fimages%25252Fpartners%25252FFarefirst_Logo.png%2526api_pbs%253Dfalse%2526app_id%253D1qBiSij5LbOnuk%2525252FtURcs0l0QI8gCD60BLmqq%2525252Fh0DbKlIdxhNwq1ALpa3r5aApMph&impactMediaPartnerId=4453062",
+                                "fares": [
+                                    {
+                                        "segmentId": "14355-9596-2602271912-2602272149--31697",
+                                        "bookingCode": "R",
+                                        "fareBasisCode": "RLW09KMZ"
+                                    },
+                                    {
+                                        "segmentId": "9596-13554-2602272235-2602281140--31697",
+                                        "bookingCode": "R",
+                                        "fareBasisCode": "RLW09KMZ"
+                                    },
+                                    {
+                                        "segmentId": "13554-10413-2602281500-2602281720--31697",
+                                        "bookingCode": "R",
+                                        "fareBasisCode": "RLW09KMZ"
+                                    }
+                                ],
+                                "agent": {
+                                    "name": "Virgin Atlantic",
+                                    "type": "AGENT_TYPE_AIRLINE",
+                                    "imageUrl": "https://logos.skyscnr.com/images/websites/viaa.png",
+                                    "feedbackCount": 266,
+                                    "rating": 4.87,
+                                    "isOptimisedForMobile": true,
+                                    "id": "viaa"
+                                }
+                            }
+                        ],
+                        "transferType": "TRANSFER_TYPE_MANAGED",
+                        "id": "c5Cl16WVfn67",
+                        "pricingOptionFare": null,
+                        "agents": [
+                            {
+                                "name": "Virgin Atlantic",
+                                "type": "AGENT_TYPE_AIRLINE",
+                                "imageUrl": "https://logos.skyscnr.com/images/websites/viaa.png",
+                                "feedbackCount": 266,
+                                "rating": 4.87,
+                                "isOptimisedForMobile": true,
+                                "id": "viaa"
+                            }
+                        ]
+                    }
+                ],
+                "legIds": [
+                    "14355-2602271912--31697-2-10413-2602281720"
+                ],
+                "sustainabilityData": {
+                    "isEcoContender": false,
+                    "ecoContenderDelta": 1.9477844
+                },
+                "id": "14355-2602271912--31697-2-10413-2602281720",
+                "legs": [
+                    {
+                        "originPlaceId": "95673750",
+                        "destinationPlaceId": "95565041",
+                        "departureDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 27,
+                            "hour": 19,
+                            "minute": 12,
+                            "second": 0
+                        },
+                        "arrivalDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 28,
+                            "hour": 17,
+                            "minute": 20,
+                            "second": 0
+                        },
+                        "durationInMinutes": 908,
+                        "stopCount": 2,
+                        "marketingCarrierIds": [
+                            "-31697"
+                        ],
+                        "operatingCarrierIds": [
+                            "-32385",
+                            "-32677"
+                        ],
+                        "segmentIds": [
+                            "14355-9596-2602271912-2602272149--31697",
+                            "9596-13554-2602272235-2602281140--31697",
+                            "13554-10413-2602281500-2602281720--31697"
+                        ],
+                        "id": "14355-2602271912--31697-2-10413-2602281720",
+                        "segments": [
+                            {
+                                "originPlaceId": "95673750",
+                                "destinationPlaceId": "95673800",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 19,
+                                    "minute": 12,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 21,
+                                    "minute": 49,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 97,
+                                "marketingFlightNumber": "5244",
+                                "marketingCarrierId": "-31697",
+                                "operatingCarrierId": "-32385",
+                                "id": "14355-9596-2602271912-2602272149--31697",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Virgin Atlantic",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/VS.png",
+                                        "iata": "VS",
+                                        "icao": "VIR",
+                                        "displayCode": "VS",
+                                        "id": "-31697"
+                                    },
+                                    "operating": {
+                                        "name": "Delta",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                        "iata": "DL",
+                                        "icao": "DAL",
+                                        "displayCode": "DL",
+                                        "id": "-32385"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95673800",
+                                "destinationPlaceId": "95565050",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 22,
+                                    "minute": 35,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 11,
+                                    "minute": 40,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 485,
+                                "marketingFlightNumber": "4067",
+                                "marketingCarrierId": "-31697",
+                                "operatingCarrierId": "-32385",
+                                "id": "9596-13554-2602272235-2602281140--31697",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Virgin Atlantic",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/VS.png",
+                                        "iata": "VS",
+                                        "icao": "VIR",
+                                        "displayCode": "VS",
+                                        "id": "-31697"
+                                    },
+                                    "operating": {
+                                        "name": "Delta",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                        "iata": "DL",
+                                        "icao": "DAL",
+                                        "displayCode": "DL",
+                                        "id": "-32385"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95565050",
+                                "destinationPlaceId": "95565041",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 15,
+                                    "minute": 0,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 17,
+                                    "minute": 20,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 80,
+                                "marketingFlightNumber": "6665",
+                                "marketingCarrierId": "-31697",
+                                "operatingCarrierId": "-32677",
+                                "id": "13554-10413-2602281500-2602281720--31697",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Virgin Atlantic",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/VS.png",
+                                        "iata": "VS",
+                                        "icao": "VIR",
+                                        "displayCode": "VS",
+                                        "id": "-31697"
+                                    },
+                                    "operating": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    }
+                                }
+                            }
+                        ],
+                        "origin": {
+                            "entityId": "95673750",
+                            "parentId": "35234892",
+                            "name": "New Orleans Louis Armstrong",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "MSY",
+                            "coordinates": null
+                        },
+                        "destination": {
+                            "entityId": "95565041",
+                            "parentId": "27539733",
+                            "name": "Paris Charles de Gaulle",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "CDG",
+                            "coordinates": null
+                        },
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "name": "Virgin Atlantic",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/VS.png",
+                                    "iata": "VS",
+                                    "icao": "VIR",
+                                    "displayCode": "VS",
+                                    "id": "-31697"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "name": "Delta",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                    "iata": "DL",
+                                    "icao": "DAL",
+                                    "displayCode": "DL",
+                                    "id": "-32385"
+                                },
+                                {
+                                    "name": "Air France",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                    "iata": "AF",
+                                    "icao": "AFR",
+                                    "displayCode": "AF",
+                                    "id": "-32677"
+                                }
+                            ]
+                        },
+                        "departure": "2026-02-27T19:12:00",
+                        "arrival": "2026-02-28T17:20:00"
+                    }
+                ],
+                "price": {
+                    "unit": "PRICE_UNIT_MILLI",
+                    "formatted": "$1,007",
+                    "raw": "1006600",
+                    "pricingOptionId": "c5Cl16WVfn67"
+                }
+            },
+            {
+                "pricingOptions": [
+                    {
+                        "price": {
+                            "amount": "900100",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                            "formatted": "$900"
+                        },
+                        "agentIds": [
+                            "klm1"
+                        ],
+                        "items": [
+                            {
+                                "price": {
+                                    "amount": "900100",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                                    "formatted": "$900"
+                                },
+                                "agentId": "klm1",
+                                "deepLink": "https://agw.skyscnr.com/v1/redirect?pageUrl=https%3A%2F%2Fskyscanner.pxf.io%2Fc%2F4453062%2F1103265%2F13416%3Fu%3Dhttps%253A%252F%252Fwww.skyscanner.com%252Ftransport_deeplink%252F4.0%252FUS%252Fen-US%252FUSD%252Fklm1%252F1%252F14355.10413.2026-02-27%252Fair%252Fairli%252Fflights%253Fitinerary%253Dflight%25257C-32132%25257C5037%25257C14355%25257C2026-02-27T19%25253A12%25257C9596%25257C2026-02-27T21%25253A49%25257C97%25257CMLW09KBL%25257CM%25257CLIGHTNA%25253Bflight%25257C-32132%25257C622%25257C9596%25257C2026-02-27T22%25253A45%25257C9451%25257C2026-02-28T12%25253A55%25257C490%25257CMLW09KBL%25257CM%25257CLIGHTNA%25253Bflight%25257C-32132%25257C2009%25257C9451%25257C2026-02-28T14%25253A00%25257C10413%25257C2026-02-28T15%25253A20%25257C80%25257CMLW09KBL%25257CM%25257CLIGHTNA%2526carriers%253D-32132%2526operators%253D-32385%25253B-32132%25253B-32677%2526passengers%253D1%2526channel%253Ddataapi%2526cabin_class%253Deconomy%2526fps_session_id%253D50cda4c2-9a18-4707-8577-73e373407077%2526ticket_price%253D900.10%2526is_npt%253Dfalse%2526is_multipart%253Dfalse%2526client_id%253Dskyscanner_b2b%2526request_id%253D39e88158-5a57-42b6-a54e-0f92e387c944%2526q_ids%253DH4sIAAAAAAAA_-OS4mLJzsk1FGLmmFwgxcyxU1-hYW_zWTYjJgVGANfLrtAcAAAA%25257C4408441288306749862%25257C2%2526q_sources%253DJACQUARD%2526commercial_filters%253Dfalse%2526q_datetime_utc%253D2026-02-27T19%25253A42%25253A45%2526pqid%253Dfalse%2526fare_type%253Dbase_fare%2526api_logo%253Dhttps%25253A%25252F%25252Flogos.skyscnr.com%25252Fimages%25252Fpartners%25252FFarefirst_Logo.png%2526api_pbs%253Dfalse%2526app_id%253D1qBiSij5LbOnuk%2525252FtURcs0l0QI8gCD60BLmqq%2525252Fh0DbKlIdxhNwq1ALpa3r5aApMph&impactMediaPartnerId=4453062",
+                                "fares": [
+                                    {
+                                        "segmentId": "14355-9596-2602271912-2602272149--32132",
+                                        "bookingCode": "M",
+                                        "fareBasisCode": "MLW09KBL"
+                                    },
+                                    {
+                                        "segmentId": "9596-9451-2602272245-2602281255--32132",
+                                        "bookingCode": "M",
+                                        "fareBasisCode": "MLW09KBL"
+                                    },
+                                    {
+                                        "segmentId": "9451-10413-2602281400-2602281520--32132",
+                                        "bookingCode": "M",
+                                        "fareBasisCode": "MLW09KBL"
+                                    }
+                                ],
+                                "agent": {
+                                    "name": "KLM",
+                                    "type": "AGENT_TYPE_AIRLINE",
+                                    "imageUrl": "https://logos.skyscnr.com/images/websites/klm1.png",
+                                    "feedbackCount": 763,
+                                    "rating": 4.47,
+                                    "isOptimisedForMobile": true,
+                                    "id": "klm1"
+                                }
+                            }
+                        ],
+                        "transferType": "TRANSFER_TYPE_MANAGED",
+                        "id": "Po71mRhdR45i",
+                        "pricingOptionFare": null,
+                        "agents": [
+                            {
+                                "name": "KLM",
+                                "type": "AGENT_TYPE_AIRLINE",
+                                "imageUrl": "https://logos.skyscnr.com/images/websites/klm1.png",
+                                "feedbackCount": 763,
+                                "rating": 4.47,
+                                "isOptimisedForMobile": true,
+                                "id": "klm1"
+                            }
+                        ]
+                    }
+                ],
+                "legIds": [
+                    "14355-2602271912--32132-2-10413-2602281520"
+                ],
+                "sustainabilityData": {
+                    "isEcoContender": true,
+                    "ecoContenderDelta": 6.345761
+                },
+                "id": "14355-2602271912--32132-2-10413-2602281520",
+                "legs": [
+                    {
+                        "originPlaceId": "95673750",
+                        "destinationPlaceId": "95565041",
+                        "departureDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 27,
+                            "hour": 19,
+                            "minute": 12,
+                            "second": 0
+                        },
+                        "arrivalDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 28,
+                            "hour": 15,
+                            "minute": 20,
+                            "second": 0
+                        },
+                        "durationInMinutes": 788,
+                        "stopCount": 2,
+                        "marketingCarrierIds": [
+                            "-32132"
+                        ],
+                        "operatingCarrierIds": [
+                            "-32385",
+                            "-32132",
+                            "-32677"
+                        ],
+                        "segmentIds": [
+                            "14355-9596-2602271912-2602272149--32132",
+                            "9596-9451-2602272245-2602281255--32132",
+                            "9451-10413-2602281400-2602281520--32132"
+                        ],
+                        "id": "14355-2602271912--32132-2-10413-2602281520",
+                        "segments": [
+                            {
+                                "originPlaceId": "95673750",
+                                "destinationPlaceId": "95673800",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 19,
+                                    "minute": 12,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 21,
+                                    "minute": 49,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 97,
+                                "marketingFlightNumber": "5037",
+                                "marketingCarrierId": "-32132",
+                                "operatingCarrierId": "-32385",
+                                "id": "14355-9596-2602271912-2602272149--32132",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "KLM",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                        "iata": "KL",
+                                        "icao": "KLM",
+                                        "displayCode": "KL",
+                                        "id": "-32132"
+                                    },
+                                    "operating": {
+                                        "name": "Delta",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                        "iata": "DL",
+                                        "icao": "DAL",
+                                        "displayCode": "DL",
+                                        "id": "-32385"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95673800",
+                                "destinationPlaceId": "95565044",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 22,
+                                    "minute": 45,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 12,
+                                    "minute": 55,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 490,
+                                "marketingFlightNumber": "622",
+                                "marketingCarrierId": "-32132",
+                                "operatingCarrierId": "-32132",
+                                "id": "9596-9451-2602272245-2602281255--32132",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "KLM",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                        "iata": "KL",
+                                        "icao": "KLM",
+                                        "displayCode": "KL",
+                                        "id": "-32132"
+                                    },
+                                    "operating": {
+                                        "name": "KLM",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                        "iata": "KL",
+                                        "icao": "KLM",
+                                        "displayCode": "KL",
+                                        "id": "-32132"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95565044",
+                                "destinationPlaceId": "95565041",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 14,
+                                    "minute": 0,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 15,
+                                    "minute": 20,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 80,
+                                "marketingFlightNumber": "2009",
+                                "marketingCarrierId": "-32132",
+                                "operatingCarrierId": "-32677",
+                                "id": "9451-10413-2602281400-2602281520--32132",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "KLM",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                        "iata": "KL",
+                                        "icao": "KLM",
+                                        "displayCode": "KL",
+                                        "id": "-32132"
+                                    },
+                                    "operating": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    }
+                                }
+                            }
+                        ],
+                        "origin": {
+                            "entityId": "95673750",
+                            "parentId": "35234892",
+                            "name": "New Orleans Louis Armstrong",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "MSY",
+                            "coordinates": null
+                        },
+                        "destination": {
+                            "entityId": "95565041",
+                            "parentId": "27539733",
+                            "name": "Paris Charles de Gaulle",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "CDG",
+                            "coordinates": null
+                        },
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "name": "KLM",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                    "iata": "KL",
+                                    "icao": "KLM",
+                                    "displayCode": "KL",
+                                    "id": "-32132"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "name": "Delta",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                    "iata": "DL",
+                                    "icao": "DAL",
+                                    "displayCode": "DL",
+                                    "id": "-32385"
+                                },
+                                {
+                                    "name": "KLM",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                    "iata": "KL",
+                                    "icao": "KLM",
+                                    "displayCode": "KL",
+                                    "id": "-32132"
+                                },
+                                {
+                                    "name": "Air France",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                    "iata": "AF",
+                                    "icao": "AFR",
+                                    "displayCode": "AF",
+                                    "id": "-32677"
+                                }
+                            ]
+                        },
+                        "departure": "2026-02-27T19:12:00",
+                        "arrival": "2026-02-28T15:20:00"
+                    }
+                ],
+                "price": {
+                    "unit": "PRICE_UNIT_MILLI",
+                    "formatted": "$900",
+                    "raw": "900100",
+                    "pricingOptionId": "Po71mRhdR45i"
+                }
+            },
+            {
+                "pricingOptions": [
+                    {
+                        "price": {
+                            "amount": "1124100",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                            "formatted": "$1,124"
+                        },
+                        "agentIds": [
+                            "airf"
+                        ],
+                        "items": [
+                            {
+                                "price": {
+                                    "amount": "1124100",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                                    "formatted": "$1,124"
+                                },
+                                "agentId": "airf",
+                                "deepLink": "https://agw.skyscnr.com/v1/redirect?pageUrl=https%3A%2F%2Fskyscanner.pxf.io%2Fc%2F4453062%2F1103265%2F13416%3Fu%3Dhttps%253A%252F%252Fwww.skyscanner.com%252Ftransport_deeplink%252F4.0%252FUS%252Fen-US%252FUSD%252Fairf%252F1%252F14355.10413.2026-02-27%252Fair%252Fairli%252Fflights%253Fitinerary%253Dflight%25257C-32677%25257C3701%25257C14355%25257C2026-02-27T19%25253A12%25257C9596%25257C2026-02-27T21%25253A49%25257C97%25257CBLW09KBL%25257CB%25257CLIGHTNA%25253Bflight%25257C-32677%25257C6693%25257C9596%25257C2026-02-27T22%25253A45%25257C9451%25257C2026-02-28T12%25253A55%25257C490%25257CBLW09KBL%25257CB%25257CLIGHTNA%25253Bflight%25257C-32677%25257C1641%25257C9451%25257C2026-02-28T14%25253A00%25257C10413%25257C2026-02-28T15%25253A20%25257C80%25257CBLW09KBL%25257CB%25257CLIGHTNA%2526carriers%253D-32677%2526operators%253D-32385%25253B-32132%25253B-32677%2526passengers%253D1%2526channel%253Ddataapi%2526cabin_class%253Deconomy%2526fps_session_id%253D50cda4c2-9a18-4707-8577-73e373407077%2526ticket_price%253D1124.10%2526is_npt%253Dfalse%2526is_multipart%253Dfalse%2526client_id%253Dskyscanner_b2b%2526request_id%253D39e88158-5a57-42b6-a54e-0f92e387c944%2526q_ids%253DH4sIAAAAAAAA_-OS4mJJzCxKE2LmmFwgxcyxU1-hYW_zWTYjJgVGAGX7OOMcAAAA%25257C6851995439344534644%25257C2%2526q_sources%253DJACQUARD%2526commercial_filters%253Dfalse%2526q_datetime_utc%253D2026-02-27T19%25253A42%25253A45%2526pqid%253Dfalse%2526fare_type%253Dbase_fare%2526api_logo%253Dhttps%25253A%25252F%25252Flogos.skyscnr.com%25252Fimages%25252Fpartners%25252FFarefirst_Logo.png%2526api_pbs%253Dfalse%2526app_id%253D1qBiSij5LbOnuk%2525252FtURcs0l0QI8gCD60BLmqq%2525252Fh0DbKlIdxhNwq1ALpa3r5aApMph&impactMediaPartnerId=4453062",
+                                "fares": [
+                                    {
+                                        "segmentId": "14355-9596-2602271912-2602272149--32677",
+                                        "bookingCode": "B",
+                                        "fareBasisCode": "BLW09KBL"
+                                    },
+                                    {
+                                        "segmentId": "9596-9451-2602272245-2602281255--32677",
+                                        "bookingCode": "B",
+                                        "fareBasisCode": "BLW09KBL"
+                                    },
+                                    {
+                                        "segmentId": "9451-10413-2602281400-2602281520--32677",
+                                        "bookingCode": "B",
+                                        "fareBasisCode": "BLW09KBL"
+                                    }
+                                ],
+                                "agent": {
+                                    "name": "Air France",
+                                    "type": "AGENT_TYPE_AIRLINE",
+                                    "imageUrl": "https://logos.skyscnr.com/images/websites/airf.png",
+                                    "feedbackCount": 1054,
+                                    "rating": 4.79,
+                                    "isOptimisedForMobile": true,
+                                    "id": "airf"
+                                }
+                            }
+                        ],
+                        "transferType": "TRANSFER_TYPE_MANAGED",
+                        "id": "gs-4BqmWMlzp",
+                        "pricingOptionFare": null,
+                        "agents": [
+                            {
+                                "name": "Air France",
+                                "type": "AGENT_TYPE_AIRLINE",
+                                "imageUrl": "https://logos.skyscnr.com/images/websites/airf.png",
+                                "feedbackCount": 1054,
+                                "rating": 4.79,
+                                "isOptimisedForMobile": true,
+                                "id": "airf"
+                            }
+                        ]
+                    }
+                ],
+                "legIds": [
+                    "14355-2602271912--32677-2-10413-2602281520"
+                ],
+                "sustainabilityData": {
+                    "isEcoContender": true,
+                    "ecoContenderDelta": 6.345761
+                },
+                "id": "14355-2602271912--32677-2-10413-2602281520",
+                "legs": [
+                    {
+                        "originPlaceId": "95673750",
+                        "destinationPlaceId": "95565041",
+                        "departureDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 27,
+                            "hour": 19,
+                            "minute": 12,
+                            "second": 0
+                        },
+                        "arrivalDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 28,
+                            "hour": 15,
+                            "minute": 20,
+                            "second": 0
+                        },
+                        "durationInMinutes": 788,
+                        "stopCount": 2,
+                        "marketingCarrierIds": [
+                            "-32677"
+                        ],
+                        "operatingCarrierIds": [
+                            "-32385",
+                            "-32132",
+                            "-32677"
+                        ],
+                        "segmentIds": [
+                            "14355-9596-2602271912-2602272149--32677",
+                            "9596-9451-2602272245-2602281255--32677",
+                            "9451-10413-2602281400-2602281520--32677"
+                        ],
+                        "id": "14355-2602271912--32677-2-10413-2602281520",
+                        "segments": [
+                            {
+                                "originPlaceId": "95673750",
+                                "destinationPlaceId": "95673800",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 19,
+                                    "minute": 12,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 21,
+                                    "minute": 49,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 97,
+                                "marketingFlightNumber": "3701",
+                                "marketingCarrierId": "-32677",
+                                "operatingCarrierId": "-32385",
+                                "id": "14355-9596-2602271912-2602272149--32677",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    },
+                                    "operating": {
+                                        "name": "Delta",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                        "iata": "DL",
+                                        "icao": "DAL",
+                                        "displayCode": "DL",
+                                        "id": "-32385"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95673800",
+                                "destinationPlaceId": "95565044",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 22,
+                                    "minute": 45,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 12,
+                                    "minute": 55,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 490,
+                                "marketingFlightNumber": "6693",
+                                "marketingCarrierId": "-32677",
+                                "operatingCarrierId": "-32132",
+                                "id": "9596-9451-2602272245-2602281255--32677",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    },
+                                    "operating": {
+                                        "name": "KLM",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                        "iata": "KL",
+                                        "icao": "KLM",
+                                        "displayCode": "KL",
+                                        "id": "-32132"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95565044",
+                                "destinationPlaceId": "95565041",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 14,
+                                    "minute": 0,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 15,
+                                    "minute": 20,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 80,
+                                "marketingFlightNumber": "1641",
+                                "marketingCarrierId": "-32677",
+                                "operatingCarrierId": "-32677",
+                                "id": "9451-10413-2602281400-2602281520--32677",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    },
+                                    "operating": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    }
+                                }
+                            }
+                        ],
+                        "origin": {
+                            "entityId": "95673750",
+                            "parentId": "35234892",
+                            "name": "New Orleans Louis Armstrong",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "MSY",
+                            "coordinates": null
+                        },
+                        "destination": {
+                            "entityId": "95565041",
+                            "parentId": "27539733",
+                            "name": "Paris Charles de Gaulle",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "CDG",
+                            "coordinates": null
+                        },
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "name": "Air France",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                    "iata": "AF",
+                                    "icao": "AFR",
+                                    "displayCode": "AF",
+                                    "id": "-32677"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "name": "Delta",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                    "iata": "DL",
+                                    "icao": "DAL",
+                                    "displayCode": "DL",
+                                    "id": "-32385"
+                                },
+                                {
+                                    "name": "KLM",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                                    "iata": "KL",
+                                    "icao": "KLM",
+                                    "displayCode": "KL",
+                                    "id": "-32132"
+                                },
+                                {
+                                    "name": "Air France",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                    "iata": "AF",
+                                    "icao": "AFR",
+                                    "displayCode": "AF",
+                                    "id": "-32677"
+                                }
+                            ]
+                        },
+                        "departure": "2026-02-27T19:12:00",
+                        "arrival": "2026-02-28T15:20:00"
+                    }
+                ],
+                "price": {
+                    "unit": "PRICE_UNIT_MILLI",
+                    "formatted": "$1,124",
+                    "raw": "1124100",
+                    "pricingOptionId": "gs-4BqmWMlzp"
+                }
+            },
+            {
+                "pricingOptions": [
+                    {
+                        "price": {
+                            "amount": "804600",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                            "formatted": "$805"
+                        },
+                        "agentIds": [
+                            "airf"
+                        ],
+                        "items": [
+                            {
+                                "price": {
+                                    "amount": "804600",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED",
+                                    "formatted": "$805"
+                                },
+                                "agentId": "airf",
+                                "deepLink": "https://agw.skyscnr.com/v1/redirect?pageUrl=https%3A%2F%2Fskyscanner.pxf.io%2Fc%2F4453062%2F1103265%2F13416%3Fu%3Dhttps%253A%252F%252Fwww.skyscanner.com%252Ftransport_deeplink%252F4.0%252FUS%252Fen-US%252FUSD%252Fairf%252F1%252F14355.10413.2026-02-27%252Fair%252Fairli%252Fflights%253Fitinerary%253Dflight%25257C-32677%25257C3701%25257C14355%25257C2026-02-27T19%25253A12%25257C9596%25257C2026-02-27T21%25253A49%25257C97%25257CKLW09NBL%25257CK%25257CLIGHTNA%25253Bflight%25257C-32677%25257C9092%25257C9596%25257C2026-02-27T22%25253A35%25257C13554%25257C2026-02-28T11%25253A40%25257C485%25257CKLW09NBL%25257CK%25257CLIGHTNA%25253Bflight%25257C-32677%25257C1781%25257C13554%25257C2026-02-28T15%25253A00%25257C10413%25257C2026-02-28T17%25253A20%25257C80%25257CKLW09NBL%25257CK%25257CLIGHTNA%2526carriers%253D-32677%2526operators%253D-32385%25253B-32385%25253B-32677%2526passengers%253D1%2526channel%253Ddataapi%2526cabin_class%253Deconomy%2526fps_session_id%253D50cda4c2-9a18-4707-8577-73e373407077%2526ticket_price%253D804.60%2526is_npt%253Dfalse%2526is_multipart%253Dfalse%2526client_id%253Dskyscanner_b2b%2526request_id%253D39e88158-5a57-42b6-a54e-0f92e387c944%2526q_ids%253DH4sIAAAAAAAA_-OS4mJJzCxKE2LmmFwgxcyxU1-hYW_zWTYjJgVGAGX7OOMcAAAA%25257C-5077838242339939356%25257C2%2526q_sources%253DJACQUARD%2526commercial_filters%253Dfalse%2526q_datetime_utc%253D2026-02-27T19%25253A42%25253A45%2526pqid%253Dfalse%2526fare_type%253Dbase_fare%2526api_logo%253Dhttps%25253A%25252F%25252Flogos.skyscnr.com%25252Fimages%25252Fpartners%25252FFarefirst_Logo.png%2526api_pbs%253Dfalse%2526app_id%253D1qBiSij5LbOnuk%2525252FtURcs0l0QI8gCD60BLmqq%2525252Fh0DbKlIdxhNwq1ALpa3r5aApMph&impactMediaPartnerId=4453062",
+                                "fares": [
+                                    {
+                                        "segmentId": "14355-9596-2602271912-2602272149--32677",
+                                        "bookingCode": "K",
+                                        "fareBasisCode": "KLW09NBL"
+                                    },
+                                    {
+                                        "segmentId": "9596-13554-2602272235-2602281140--32677",
+                                        "bookingCode": "K",
+                                        "fareBasisCode": "KLW09NBL"
+                                    },
+                                    {
+                                        "segmentId": "13554-10413-2602281500-2602281720--32677",
+                                        "bookingCode": "K",
+                                        "fareBasisCode": "KLW09NBL"
+                                    }
+                                ],
+                                "agent": {
+                                    "name": "Air France",
+                                    "type": "AGENT_TYPE_AIRLINE",
+                                    "imageUrl": "https://logos.skyscnr.com/images/websites/airf.png",
+                                    "feedbackCount": 1054,
+                                    "rating": 4.79,
+                                    "isOptimisedForMobile": true,
+                                    "id": "airf"
+                                }
+                            }
+                        ],
+                        "transferType": "TRANSFER_TYPE_MANAGED",
+                        "id": "gMkFClz5vNiU",
+                        "pricingOptionFare": null,
+                        "agents": [
+                            {
+                                "name": "Air France",
+                                "type": "AGENT_TYPE_AIRLINE",
+                                "imageUrl": "https://logos.skyscnr.com/images/websites/airf.png",
+                                "feedbackCount": 1054,
+                                "rating": 4.79,
+                                "isOptimisedForMobile": true,
+                                "id": "airf"
+                            }
+                        ]
+                    }
+                ],
+                "legIds": [
+                    "14355-2602271912--32677-2-10413-2602281720"
+                ],
+                "sustainabilityData": {
+                    "isEcoContender": false,
+                    "ecoContenderDelta": 1.9477844
+                },
+                "id": "14355-2602271912--32677-2-10413-2602281720",
+                "legs": [
+                    {
+                        "originPlaceId": "95673750",
+                        "destinationPlaceId": "95565041",
+                        "departureDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 27,
+                            "hour": 19,
+                            "minute": 12,
+                            "second": 0
+                        },
+                        "arrivalDateTime": {
+                            "year": 2026,
+                            "month": 2,
+                            "day": 28,
+                            "hour": 17,
+                            "minute": 20,
+                            "second": 0
+                        },
+                        "durationInMinutes": 908,
+                        "stopCount": 2,
+                        "marketingCarrierIds": [
+                            "-32677"
+                        ],
+                        "operatingCarrierIds": [
+                            "-32385",
+                            "-32677"
+                        ],
+                        "segmentIds": [
+                            "14355-9596-2602271912-2602272149--32677",
+                            "9596-13554-2602272235-2602281140--32677",
+                            "13554-10413-2602281500-2602281720--32677"
+                        ],
+                        "id": "14355-2602271912--32677-2-10413-2602281720",
+                        "segments": [
+                            {
+                                "originPlaceId": "95673750",
+                                "destinationPlaceId": "95673800",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 19,
+                                    "minute": 12,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 21,
+                                    "minute": 49,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 97,
+                                "marketingFlightNumber": "3701",
+                                "marketingCarrierId": "-32677",
+                                "operatingCarrierId": "-32385",
+                                "id": "14355-9596-2602271912-2602272149--32677",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    },
+                                    "operating": {
+                                        "name": "Delta",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                        "iata": "DL",
+                                        "icao": "DAL",
+                                        "displayCode": "DL",
+                                        "id": "-32385"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95673800",
+                                "destinationPlaceId": "95565050",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 27,
+                                    "hour": 22,
+                                    "minute": 35,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 11,
+                                    "minute": 40,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 485,
+                                "marketingFlightNumber": "9092",
+                                "marketingCarrierId": "-32677",
+                                "operatingCarrierId": "-32385",
+                                "id": "9596-13554-2602272235-2602281140--32677",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    },
+                                    "operating": {
+                                        "name": "Delta",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                        "iata": "DL",
+                                        "icao": "DAL",
+                                        "displayCode": "DL",
+                                        "id": "-32385"
+                                    }
+                                }
+                            },
+                            {
+                                "originPlaceId": "95565050",
+                                "destinationPlaceId": "95565041",
+                                "departureDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 15,
+                                    "minute": 0,
+                                    "second": 0
+                                },
+                                "arrivalDateTime": {
+                                    "year": 2026,
+                                    "month": 2,
+                                    "day": 28,
+                                    "hour": 17,
+                                    "minute": 20,
+                                    "second": 0
+                                },
+                                "durationInMinutes": 80,
+                                "marketingFlightNumber": "1781",
+                                "marketingCarrierId": "-32677",
+                                "operatingCarrierId": "-32677",
+                                "id": "13554-10413-2602281500-2602281720--32677",
+                                "carriers": {
+                                    "marketing": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    },
+                                    "operating": {
+                                        "name": "Air France",
+                                        "allianceId": "-31998",
+                                        "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                        "iata": "AF",
+                                        "icao": "AFR",
+                                        "displayCode": "AF",
+                                        "id": "-32677"
+                                    }
+                                }
+                            }
+                        ],
+                        "origin": {
+                            "entityId": "95673750",
+                            "parentId": "35234892",
+                            "name": "New Orleans Louis Armstrong",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "MSY",
+                            "coordinates": null
+                        },
+                        "destination": {
+                            "entityId": "95565041",
+                            "parentId": "27539733",
+                            "name": "Paris Charles de Gaulle",
+                            "type": "PLACE_TYPE_AIRPORT",
+                            "iata": "CDG",
+                            "coordinates": null
+                        },
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "name": "Air France",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                    "iata": "AF",
+                                    "icao": "AFR",
+                                    "displayCode": "AF",
+                                    "id": "-32677"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "name": "Delta",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                                    "iata": "DL",
+                                    "icao": "DAL",
+                                    "displayCode": "DL",
+                                    "id": "-32385"
+                                },
+                                {
+                                    "name": "Air France",
+                                    "allianceId": "-31998",
+                                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                                    "iata": "AF",
+                                    "icao": "AFR",
+                                    "displayCode": "AF",
+                                    "id": "-32677"
+                                }
+                            ]
+                        },
+                        "departure": "2026-02-27T19:12:00",
+                        "arrival": "2026-02-28T17:20:00"
+                    }
+                ],
+                "price": {
+                    "unit": "PRICE_UNIT_MILLI",
+                    "formatted": "$805",
+                    "raw": "804600",
+                    "pricingOptionId": "gMkFClz5vNiU"
+                }
+            }
+        ],
+        "filterStats": {
+            "duration": {
+                "min": 651,
+                "max": 1882
+            },
+            "carriers": {
+                "-31697": {
+                    "name": "Virgin Atlantic",
+                    "allianceId": "-31998",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/VS.png",
+                    "iata": "VS",
+                    "icao": "VIR",
+                    "displayCode": "VS",
+                    "id": "-31697"
+                },
+                "-32132": {
+                    "name": "KLM",
+                    "allianceId": "-31998",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/KL.png",
+                    "iata": "KL",
+                    "icao": "KLM",
+                    "displayCode": "KL",
+                    "id": "-32132"
+                },
+                "-32171": {
+                    "name": "jetBlue",
+                    "allianceId": "",
+                    "imageUrl": "",
+                    "iata": "B6",
+                    "icao": "JBU",
+                    "displayCode": "B6",
+                    "id": "-32171"
+                },
+                "-32385": {
+                    "name": "Delta",
+                    "allianceId": "-31998",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/DL.png",
+                    "iata": "DL",
+                    "icao": "DAL",
+                    "displayCode": "DL",
+                    "id": "-32385"
+                },
+                "-32480": {
+                    "name": "British Airways",
+                    "allianceId": "-32000",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/BA.png",
+                    "iata": "BA",
+                    "icao": "BAW",
+                    "displayCode": "BA",
+                    "id": "-32480"
+                },
+                "-32573": {
+                    "name": "American Airlines",
+                    "allianceId": "-32000",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AA.png",
+                    "iata": "AA",
+                    "icao": "AAL",
+                    "displayCode": "AA",
+                    "id": "-32573"
+                },
+                "-32677": {
+                    "name": "Air France",
+                    "allianceId": "-31998",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/AF.png",
+                    "iata": "AF",
+                    "icao": "AFR",
+                    "displayCode": "AF",
+                    "id": "-32677"
+                }
+            },
+            "stopPrices": {
+                "direct": {
+                    "total": {
+                        "count": 0,
+                        "minPrice": {
+                            "amount": "",
+                            "unit": "PRICE_UNIT_UNSPECIFIED",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                        }
+                    },
+                    "ticketTypes": {
+                        "singleTicket": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNonNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        }
+                    }
+                },
+                "oneStop": {
+                    "total": {
+                        "count": 3,
+                        "minPrice": {
+                            "amount": "438260",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                        }
+                    },
+                    "ticketTypes": {
+                        "singleTicket": {
+                            "count": 3,
+                            "minPrice": {
+                                "amount": "438260",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNonNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        }
+                    }
+                },
+                "twoPlusStops": {
+                    "total": {
+                        "count": 7,
+                        "minPrice": {
+                            "amount": "659970",
+                            "unit": "PRICE_UNIT_MILLI",
+                            "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                        }
+                    },
+                    "ticketTypes": {
+                        "singleTicket": {
+                            "count": 7,
+                            "minPrice": {
+                                "amount": "659970",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNonNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "multiTicketNpt": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        }
+                    }
+                }
+            },
+            "total": {
+                "count": 10,
+                "minPrice": {
+                    "amount": "438260",
+                    "unit": "PRICE_UNIT_MILLI",
+                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                }
+            },
+            "alliances": {
+                "-31998": {
+                    "name": "SkyTeam"
+                },
+                "-32000": {
+                    "name": "OneWorld"
+                }
+            },
+            "airports": {
+                "27536561": {
+                    "entityId": "27536561",
+                    "parentId": "29475378",
+                    "name": "Amsterdam",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "AMS",
+                    "coordinates": null
+                },
+                "27536622": {
+                    "entityId": "27536622",
+                    "parentId": "29475437",
+                    "name": "Detroit",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "DTT",
+                    "coordinates": null
+                },
+                "27536644": {
+                    "entityId": "27536644",
+                    "parentId": "29475437",
+                    "name": "Miami",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "MIA",
+                    "coordinates": null
+                },
+                "27537543": {
+                    "entityId": "27537543",
+                    "parentId": "29475437",
+                    "name": "Charlotte",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "CLT",
+                    "coordinates": null
+                },
+                "27539525": {
+                    "entityId": "27539525",
+                    "parentId": "29475437",
+                    "name": "Boston",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "BOS",
+                    "coordinates": null
+                },
+                "27539733": {
+                    "entityId": "27539733",
+                    "parentId": "29475385",
+                    "name": "Paris",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "PAR",
+                    "coordinates": null
+                },
+                "27541735": {
+                    "entityId": "27541735",
+                    "parentId": "29475437",
+                    "name": "Atlanta",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "ATL",
+                    "coordinates": null
+                },
+                "27544008": {
+                    "entityId": "27544008",
+                    "parentId": "29475375",
+                    "name": "London",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "LON",
+                    "coordinates": null
+                },
+                "29475375": {
+                    "entityId": "29475375",
+                    "parentId": "",
+                    "name": "United Kingdom",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475378": {
+                    "entityId": "29475378",
+                    "parentId": "",
+                    "name": "Netherlands",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475385": {
+                    "entityId": "29475385",
+                    "parentId": "",
+                    "name": "France",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475437": {
+                    "entityId": "29475437",
+                    "parentId": "",
+                    "name": "United States",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "35234892": {
+                    "entityId": "35234892",
+                    "parentId": "29475437",
+                    "name": "New Orleans",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "MSY",
+                    "coordinates": null
+                },
+                "95565041": {
+                    "entityId": "95565041",
+                    "parentId": "27539733",
+                    "name": "Paris Charles de Gaulle",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "CDG",
+                    "coordinates": null
+                },
+                "95565044": {
+                    "entityId": "95565044",
+                    "parentId": "27536561",
+                    "name": "Amsterdam Schiphol",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "AMS",
+                    "coordinates": null
+                },
+                "95565050": {
+                    "entityId": "95565050",
+                    "parentId": "27544008",
+                    "name": "London Heathrow",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "LHR",
+                    "coordinates": null
+                },
+                "95673555": {
+                    "entityId": "95673555",
+                    "parentId": "27536622",
+                    "name": "Detroit Wayne County",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "DTW",
+                    "coordinates": null
+                },
+                "95673672": {
+                    "entityId": "95673672",
+                    "parentId": "27537543",
+                    "name": "Charlotte Douglas",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "CLT",
+                    "coordinates": null
+                },
+                "95673679": {
+                    "entityId": "95673679",
+                    "parentId": "27539525",
+                    "name": "Boston Logan International",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "BOS",
+                    "coordinates": null
+                },
+                "95673750": {
+                    "entityId": "95673750",
+                    "parentId": "35234892",
+                    "name": "New Orleans Louis Armstrong",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "MSY",
+                    "coordinates": null
+                },
+                "95673800": {
+                    "entityId": "95673800",
+                    "parentId": "27541735",
+                    "name": "Atlanta Hartsfield-Jackson",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "ATL",
+                    "coordinates": null
+                },
+                "95673821": {
+                    "entityId": "95673821",
+                    "parentId": "27536644",
+                    "name": "Miami International",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "MIA",
+                    "coordinates": null
+                }
+            }
+        }
+    }
+}
