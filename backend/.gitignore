@@ -1,0 +1,37 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+
+# IDE folders
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Render config
+render.yaml
+
+# lock files
+uv.lock
