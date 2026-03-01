@@ -1,0 +1,38 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client"
+  output   = "../app/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model TravelAgent {
+  agent_id     String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  stackauth_id String   @unique
+  name         String?
+  email        String?
+  role         String   @default("agent")
+  created_at   DateTime @default(now())
+
+  @@map("travel_agents")
+}
+
+model Message {
+  id              String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  chat_id         String   @db.Uuid
+  role            String   // "user" | "assistant"
+  content         String
+  structured_data Json?    // stored when role=assistant and a RequirementsCard is present
+  created_at      DateTime @default(now())
+
+  @@index([chat_id, created_at])
+  @@map("messages")
+}
